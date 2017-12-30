@@ -4,9 +4,14 @@ bookdown::gitbook:
     toc:
       collapse: section
       before: |
-        <li><a href="">Shri-Jobim</a></li>
+        <li><a href="http://gorodnichy.ca/music/jobim">Dmitry Gorodnichy</a></li>
       after: |
-        <li><a href="https://github.com/gorodnichy/Shri-Jobim"
-        target="blank">Published with bookdown</a></li>
-bookdown::pdf_book: default
+        <li>
+        Produced by <a href="www.IVIM.ca"> IVIM Inc. </a>
+        using <a href="https://github.com/gorodnichy/bookdown" target="blank">bookdown</a></li>
+    download: [epub]
+    edit: https://github.com/gorodnichy/Shri-Jobim/edit/master/%s
+    sharing:
+      github: yes
+      facebook: yes
 bookdown::epub_book: default
