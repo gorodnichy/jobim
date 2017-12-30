@@ -4,11 +4,12 @@ bookdown::gitbook:
     toc:
       collapse: section
       before: |
-        <li><a href="http://gorodnichy.ca/music/jobim">Dmitry Gorodnichy</a></li>
+        <li><a href="http://music.gorodnichy.ca">Dmitry Gorodnichy</a></li>
       after: |
-        <li>
-        Produced by <a href="www.IVIM.ca"> IVIM Inc. </a>
-        using <a href="https://github.com/gorodnichy/bookdown" target="blank">bookdown</a></li>
+        <li><a href="https://github.com/gorodnichy/Shri-Jobim/edit/master/" target="blank">
+        Produced by IVIM using R bookdown</a> <br>
+        Copyright (R) 2017
+        </li>
     download: [epub]
     edit: https://github.com/gorodnichy/Shri-Jobim/edit/master/%s
     sharing:

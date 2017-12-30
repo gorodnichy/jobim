@@ -1,9 +1,10 @@
 --- 
-title: "IVIM ambraça JOBIM"
-# subtitle: "Interpretation of Antonio Carlo Jobim in Ukrainian and Russian"
-# author: "Dmitry Gorodnichy"
-author: "Copyright (R) Dmitry Gorodnichy"
-date: "Under development (Last compiled: `r Sys.Date()`)"
+# title: "IVIM ambraça JOBIM"
+title: "Shri Jobim"
+subtitle: "Tribute to Antonio Carlos Jobim in Ukrainian and Russian"
+author: "By Dmitry Gorodnichy"
+#author: "Copyright (R) Dmitry Gorodnichy"
+date: "Last updated: `r Sys.Date()`"
 # date: "`r Sys.Date()`"
 # date: "October 2017"
 output: bookdown::gitbook
@@ -52,7 +53,7 @@ cover-image: "images/cover-jobim.jpg"
 
 <!-- # "Shri Jobim" (IVIM ambraça JOBIM) {#jobim} -->
 
-
+under construction
  
 <!-- Title | Lyrics & Chords | Backing track |  Instrumental  | With voice | Live    -->
 Title | Original | Back track |  Instrumental  | Audio | Video
@@ -79,7 +80,7 @@ Title | Original | Back track |  Instrumental  | Audio | Video
 
 
 
-# Wave {#wave}
+# Wave {-}
 
 Original - instrumental, 
 played by TOM JOBIM & OSCAR PETERSON (1976 BBC & 1986 MONTREAL):
@@ -87,11 +88,17 @@ played by TOM JOBIM & OSCAR PETERSON (1976 BBC & 1986 MONTREAL):
 [[embed url=https://youtu.be/e0mEAo3anwI]]
 
 
-## Волна {#wave.rus}
+<!-- http://gtwebdev.com/workshop/misc/verse.php -->
+## Волна {-}
 
+<blockquote class="indentedverse">
+
+<cite>
 Музыка: А. Жобим.
 Слова: Д. Городничий
+</cite>
 
+<pre>
 Закрой глаза -
 и ты увидишь мир таким,
 Каким он будет, есть и был,
@@ -127,10 +134,24 @@ played by TOM JOBIM & OSCAR PETERSON (1976 BBC & 1986 MONTREAL):
 И ответ с собою унеси...
 
 2017
+</pre>
+</blockquote>
 
-# Не грусти {#triste}
+# Triste {#Triste}
 
-#  Самба пробуждения {#favela}
+nnn
+
+## Не грусти {#Не.грусти}
+
+nnn
+..
+
+## Не грусти {-}
+
+nnn
+
+#  Favela ( ){#Favela}
+#  Самба пробуждения {#Favela.rus}
 
 <!-- #  зачем всё это? - -->
 <!-- # Грустно жить в мире одному -->
