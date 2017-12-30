@@ -7,7 +7,7 @@ bookdown::gitbook:
         <li><a href="http://music.gorodnichy.ca">Dmitry Gorodnichy</a></li>
       after: |
         <li><a href="https://github.com/gorodnichy/Shri-Jobim/edit/master/" target="blank">
-        Produced by IVIM using R bookdown</a> <br>
+        Produced by IVIM.ca using R bookdown</a> <br>
         Copyright (R) 2017
         </li>
     download: [epub]
