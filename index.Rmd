@@ -39,7 +39,7 @@ cover-image: "images/cover-jobim.jpg"
 
 
 <center>
-<img alt="« Shri Jobim »" border="1" height="500" src="http://gorodnichy.ca/music/covers/cover-jobim.jpg"  />
+<img alt="« Shri Jobim »" border="1" height="500" src="images/cover-jobim.jpg"  />
 <br>
 [Follow this album on Google+](https://plus.google.com/u/1/collection/Eg2aKE)
 
@@ -170,7 +170,7 @@ nnn
 
 
 
-# Legal information {-}
+# Legal note {-}
 
 IVIM.ca respects the intellectual property rights of all content creators, whether their work is affiliated with our site or not.
 
