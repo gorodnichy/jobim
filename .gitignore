@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+_publish.R
+_book
+_bookdown_files
+back-up
+.d7-git_hist.txt
+rsconnect
+bookdown-music.Rproj

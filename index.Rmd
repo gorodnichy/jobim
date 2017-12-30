@@ -1,0 +1,20 @@
+--- 
+title: "Jobim"
+# title: "Music of Dg/Song Archives"
+author: "Dmitry Gorodnichy"
+#date: "`r Sys.Date()`"
+# date: "October 2017"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+link-citations: yes
+github-repo: gorodnichy/Shri_Jobim
+cover-image: "images/cover-sunset-ma-ol-20150921_072040.jpg"
+description: "Archiving and publishing songs using R (Rbookdown::gitbook)"
+---
+
+# Front matter {-}
+
+## Copyright 
+
+## ToC
