@@ -2,9 +2,9 @@
 # title: "IVIM ambraça JOBIM"
 title: "Shri Jobim"
 subtitle: "Tribute to Antonio Carlos Jobim in Ukrainian and Russian"
-author: "By Dmitry Gorodnichy"
+# author: "By Dmitry Gorodnichy"
 #author: "Copyright (R) Dmitry Gorodnichy"
-date: "Last updated: `r Sys.Date()`"
+date: "DRAFT. Last updated: `r Sys.Date()`"
 # date: "`r Sys.Date()`"
 # date: "October 2017"
 output: bookdown::gitbook
@@ -30,8 +30,11 @@ url: 'http\://bookdown.org/gorodnichy/Shri-Jobim/'
 cover-image: "images/cover-jobim.jpg"
 ---
 
-# Cover {-}
+# Introduction {-}
 
+<!-- ### Ivim ambraça Jobim {-} -->
+
+<!-- ### Cover{-} -->
 
 <!-- Музыка: Antonio Carlos Jobim -->
 <!-- Слова: ДГ -->
@@ -47,7 +50,7 @@ cover-image: "images/cover-jobim.jpg"
 
 
 
-## Содержание {-}
+### Содержание {-}
 
 <!-- [TOC] -->
 
@@ -79,37 +82,76 @@ Title | Original | Back track |  Instrumental  | Audio | Video
 Разъезд | + | - | - | + |
 
 
+### Credits {-}
 
-# Wave {-}
+TBD
 
-Original - instrumental, 
-played by TOM JOBIM & OSCAR PETERSON (1976 BBC & 1986 MONTREAL):
+### Copyright note {-}
 
-[[embed url=https://youtu.be/e0mEAo3anwI]]
+        Copyright &copy; Dmitry Gorodnichy, IVIM Inc. 1992-2017
+        
+        All Rights Reserved. 
+All content are protected by the copyright law and may not be copied
+without the expressed permission and the active reference to the source.
+        
+
+# Wave {#wave}
+
+<!-- On piano,  -->
+<!-- played by TOM JOBIM & OSCAR PETERSON (1976 BBC & 1986 MONTREAL): -->
+
+<!-- [[embed url="https://youtu.be/e0mEAo3anwI"]] -->
+
+<!-- [[embed src="https://youtu.be/e0mEAo3anwI"]] -->
+
+
+<embed align="center" src="https://www.youtube.com/embed/e0mEAo3anwI" width="400">
+
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/e0mEAo3anwI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe> -->
+
+<!-- <iframe width="500"  src="https://youtu.be/e0mEAo3anwI" frameborder="0" allowfullscreen></iframe> -->
+
+<!-- iffff -->
+<!-- <iframe width="560" height="315" src="https://youtu.be/e0mEAo3anwI"></iframe> -->
+
+
+<!-- obje -->
+<!-- <object width="360" height="300" data="https://www.youtube.com/embed/e0mEAo3anwI"></object> -->
+
+
+
+
+
+
+<!-- video -->
+<!--  <video width="320" height="240" autoplay> -->
+<!--   <source src="movie.mp4" type="video/mp4"> -->
+<!--   <source src="movie.ogg" type="video/ogg"> -->
+<!-- Your browser does not support the video tag. -->
+<!-- </video>  -->
 
 
 <!-- http://gtwebdev.com/workshop/misc/verse.php -->
 ## Волна {-}
 
 <blockquote class="indentedverse">
-
 <cite>
 Музыка: А. Жобим.
 Слова: Д. Городничий
 </cite>
-
 <pre>
 Закрой глаза -
-и ты увидишь мир таким,
+И ты увидишь мир таким,
 Каким он будет, есть и был,
-солнцем храним,
+Солнцем храним,
 И все твои волнения вдруг
 Рассеются как волны в океане.
 
 Замри на миг -
-и в этот миг услышишь ты
+И в этот миг услышишь ты
 Вселенской радости аккорд
-и красоты.
+И красоты.
 В себя впусти ты этот звук,
 И всё тебе понятным сразу станет.
 
@@ -117,62 +159,1185 @@ played by TOM JOBIM & OSCAR PETERSON (1976 BBC & 1986 MONTREAL):
 И ты знаешь, что она с тобой...
 
 И так всегда
-ничто не было и не есть
+Ничто не было и не есть
 Кроме любви твоей одной
-сейчас и здесь.
+Сейчас и здесь.
 А остальное лишь мираж,
 Хотя порою это забываешь.
 
-Она с тобой (И каждый раз)
-теперь когда захочешь ты,
+Она с тобой. (И каждый раз)
+Теперь когда захочешь ты,
 Ты знаешь как тебе попасть
-в мир красоты,
+В мир красоты,
 Себя волною каждый раз
 В бескрайнем океане ощущая.
 
-Всё, что знать хотел - Её спроси
+Всё, что знать хотел - её спроси
 И ответ с собою унеси...
 
-2017
+Март 2017
 </pre>
 </blockquote>
 
 # Triste {#Triste}
 
-nnn
 
-## Не грусти {#Не.грусти}
+## Грустно жить в мире одному
 
-nnn
-..
+<blockquote class="indentedverse">
+<cite>
+(Музыка: А. Жобим, Слова: Д. Городничий )
+</cite>
+<pre>
+Грустно жить в мире одному, 
+Встречать рассвет и никому 
+Не рассказать, никак
+Не словом описать
+Ни свет дальних звёзд,
+Ни запах берёз,
+Ни моря прибой,
+Ни ветра покой...
+(Ни этот простор
+Дали голубой,
+Ни детский восторг,
+Пережитый тобой...)
+
+Надо жить так, чтоб было с кем 
+Тебе делиться этим всем,  
+Что увидишь, услышишь ты
+Неземной красоты,
+Ведь грустно в мире одному.
+
+
+Грустно мечтать и думать что,
+Мечты твои не увидит никто, 
+Всё, что с любовью
+Создаёшь ты в своих снах,
+Ни сад полный роз, 
+Цветущих зимой,
+Ни лунный аккорд,
+Сочинённый тобой...
+
+Но то, что серцем рождено,
+Способно взмыть так высоко!
+И не так много лет пройдет
+Как твой сад зацветет
+И зазвучит вновь твой аккорд!
+
+
+2017
+
+
+(on open strings, A)
+
+Amaj7 Fmaj7/5- Amaj7 Fmaj7/5- A(bass)
+Fmaj7/5- Amaj7 Dbm7 F#7/+5/9- F#7/+5 Bm7
+D G#º Db7 F#m7 Db7/9+
+Dbmaj7 G#7/6 Dbm9 F#m7 Bm7 E6
+
+
+Amaj7 F#maj7/5- Amaj7 Em7 A7/9- A7/6/9-
+Dmaj7 Dm6 Dbm7 Cº
+Bm7 E7/9- Am7 Am6
+Amaj7 Fmaj7/5- A Dbm7 F#7/+5/9- F#7/+5
+
+</pre>
+</blockquote>
+
+# Chega de Saudade {#ChegadeSaudade}
 
 ## Не грусти {-}
 
-nnn
 
-#  Favela ( ){#Favela}
-#  Самба пробуждения {#Favela.rus}
+<blockquote>
+<cite>
+(Музыка: А. Жобим, Слова: Д. Городничий )
+</cite>
+<pre>
+Не грусти, взгляни в окно. - 
+Там столько света, солнце взошло давно! 
+Солнце ведь для всех нас, 
+И даже в грустный час 
+Тебя всегда утешит оно. 
 
-<!-- #  зачем всё это? - -->
-<!-- # Грустно жить в мире одному -->
-<!-- # Жить как во сне - Vivo sonhado -->
-<!-- #  Медитация 1 (выше небес) -->
-<!-- #  Медитация 2 (Волшебство) -->
-<!-- #  Тихим теплым вечером -->
-<!-- #  Корковадо -->
-<!-- #  Самба одной ноты -->
-<!-- #  Безчувственный -->
-<!-- #  Дисгармония -->
-<!-- #  РАДОСТЬ И ПЕЧАЛЬ (A FELICIDADE ) -->
-<!-- #  вода жизни - Aqua de beber -->
-<!-- #  динди -->
-<!-- #  Разъезд -->
+Не грусти, всё хорошо. - 
+А по-другому быть не может даже!   
+Ты спроси у солнца, и оно подскажет, 
+Как так сделать, чтоб грустный блюз прошёл.
+
+   Вспомни, как под небом голубым*
+   С тобой сидели и песни пели, 
+   И наполнялась музыкой Вселенная 
+   И было ясно, что жизнь необыкновенная!
+
+И вот так всегда, когда 
+Oсенней тучкой грусть к тебе придет,
+Ты её пролей дождем
+Чтоб засияло всё кругом  
+И в самом деле засияет небосвод 
+Весёлой радугой и сердце запоёт!
+Так саме все навколо тебе засiя
+Веселкoй радістной і серце заспіва!
 
 
+(* как на берегу морском / как в палатке под дождем / как с гитарой за костром /сидели вместе и пели песни) 
+
+2017
+
+intro( Gm7 A7 Dm Dm/C E7/B Eb/Bb A7 Dm7 Eb79 )
+
+Dm7 E7
+Bbm6 A7 Dm7 Eb79 Dm7 Dm6Am7 
+Bb6
+A7  A7/5+
+Dm7 E7
+Bbm6  A7  D7+ D7/9b
+Gm7  A7 Dm7 Am/C E7  Bm6  A Dm7  (Em7  A7)
+
+D7M D7/9b E7/9 E(m)7
+A7/9b  Do  D6
+D7M Fº  Em7 
+E7/9 Gm6/Bb A7/9b
+
+D7M(9) Bm7 E7(9)
+F#7 Bm7 Bbm7 Am7 D7/9 G7+Gm7  
+F#m7   B7(13) 
+E79 A74 F#7 B7/9
+E79 A74 D69 C7 B7
+E79 A74 D69 C7 B79-
+E79 A74 D69  
+outro.
+</pre>
+</blockquote>
+<!------------------------------------------------------>
+<!------------------------------------------------------>
+### No more blues  {-}
+
+<blockquote class="verse">
+
+<pre>
+Dm7                    Bº 
+No more blues     I'm   goin? back home  
+Bbm6    A7          Dm7  
+No, no more blues     I promise no more to roam  
+                E7        Am7                         Bb6 
+Home is where the heart is     The fun and parties  
+                           A7              A7/5+ 
+My heart's been right there all along  
+Dm7                    Bº 
+No more tears    And no more sighs  
+Bbm6               A7    Am6                    D7/9b 
+And no more fears    I?ll say no more good-byes  
+              Gm7        A7   Dm7 
+If travel beckons me      I swear I'm going to refuse  
+                   Bº                   Bm6                         Dm7  (Em7  A7/6 A7/5+) 
+I'm gonna settle down and    there'll be no more blues  
+D7M  B7/5+  E7/9               Em7 
+Everyday while I am far away  
+                          G/A       A7/9b              Do  D7M 
+My thoughts turn homeward, forever homeward  
+                                   Fº                             Em7 
+I've travelled round this world in search of happiness  
+                E7/9                                  G/A    A7/9b 
+But all the happiness I found was in my hometown  
+D7M                         E7/9 
+No more blues      I'm going back home  
+F#7                     Bm7            Bbm7    Am7      
+No, no more blues     I'm through with all my wanderings  
+D7/9    G7M                 Gm7                  F#m7                                     B7(5+) 
+Now I'll settle down and live my life    build a home  and get me a wife 
+                        E7/9             A7                       F#7 
+When we settle down         There'll be no more blues  
+ B7/9-                                       E7/9                                          
+Nothing but happiness       When we settle down  
+G/A                     B7/9+      B7/9-                                 D7M/9                    
+There'll be no more blues           Nothing........                 blues
+</pre>
+</blockquote>
+
+
+
+### Original lyrics {-}
+
+<blockquote>
+<pre>
+Vai minha tristeza
+E diz a ela
+Que sem ela não pode ser
+Diz-lhe numa prece
+Que ela regresse
+Por que eu não posso mais sofrer
+Chega de saudade
+A realidade
+É que sem ela não há paz
+Não há beleza
+É só tristeza
+E a melancolia
+Que não sai de mim
+Não sai de mim, não sai
+
+Mas se ela voltar, se ela voltar
+Que coisa linda,
+que coisa louca
+Pois há menos peixinhos a nadar no mar
+Do que os beijinhos Que eu darei na sua boca
+
+Dentro dos meus braços
+Os abraços hão de ser, milhões de abraços
+Apertado assim, colado assim, calado assim
+Abraços e beijinhos e carinhos sem ter fim
+Que é pra acabar com este negócio de você
+Viver sem mim. Não quero mais este negócio
+</pre>
+</blockquote>
+
+
+
+
+#  Favela (O morro não tem vez) {#Favela}
+
+<!------------------------------------------------------>
+<!------------------------------------------------------>
+
+##  Самба пробуждения {-}
+
+<blockquote class="indentedverse">
+
+<cite>
+(Музыка: А. Жобим, Слова: Д. Городничий )
+</cite>
+
+<pre>
+Он был угрюм,
+Душа и ум 
+Покрыты коркой льда.
+Но вот она -
+Пришла как весна,
+Лед растопив, как спящая с детства мечта.
+
+И понял он
+Что он не жил,
+А лишь существовал,
+И что ясней,
+Всё стало вместе с ней 
+И с ней он сможет всё, о чем так мечтал.
+
+   Только она-то не знала,
+   Кто она есть для него,
+   Как ни чём не бывало, 
+   Оставила одного. 
+
+Как дальше быть?
+Она ушла -
+Что будет с ним теперь?
+Умрёт с мечтой?
+Иль сможет всё таки жить,
+Окрыленный ею и без потерь?
+    
+   Пусть же ему самба эта 
+   Заиграет во сне,
+   Чтобы проснувшись с расветом,
+   Он с радостью вспомнил о ней!
+
+Она - цветок,
+Пять новых нот,
+Восхода солнца миг.
+И он не тот,
+И сам знает, что
+Всего чего хотел он, уже достиг!
+
+Март 2017
+</pre>
+</blockquote>
+
+
+### Chords {-}
+
+Am/E Am6
+Dm7/A(F) G#o7
+Gm7 Gm6/F
+G6 G+
+C7+ C7+/B
+Go(C7+/A) A7/G
+Am9(C6) E74
+Am
+
+C6(C7+) Am6
+Dm7 D7+
+C7+ C+
+E7 Am
+
+### In Portuguese (original) {-}
+
+O morro no tem vez
+E o que ele fez j foi demais
+Mas olhem bem vocs
+Quando derem vez ao morro
+Toda a cidade vai cantar
+Morro pede passagem
+Morro quer se mostrar
+Abram alas pro morro
+Tamborim vai falar
+um, dois, trs
+cem, mil a batucar
+
+
+# Unútil Paisagem {#UnútilPaisagem}
+
+##  зачем всё это?
+
+<blockquote class="indentedverse">
+<cite>
+(Музыка: А. Жобим, Слова: Д. Городничий )
+</cite>
+<pre>
+О,
+зачем
+это лето мне
+эти звезды в далеке
+это небо, луна и рассвет
+что вот-вот вновь настанет
+если тебя нет
+зачем мне
+всё это?
+
+Если б ты
+был сейчас со мной
+рядом был со мной всегда
+всё имело бы смысл и тогда
+жизнь была б не напрасна,
+всё бы было прекрасно
+всё бы было как надо
+был бы ты рядом
+ты - рядом
+всегда...
+
+
+                          Март 2017
+
+
+A6 Ab7+13
+G7+(#13) F#7(13)
+Bm7(9)
+Dm,7+,7,6
+C#7(13) C#7(b13)
+F#74(9) F#74(b9)
+B(m?)7(#9)
+E74 A7(13)
+D7(9) A7+
+Bb7(13)
+
+...
+Bb7(9/#11)
+A7+
+</pre>
+</blockquote>
+
+
+
+# Vivo sonhado {#Vivosonhado}
+
+## Жить как во сне
+
+<blockquote class="indentedverse">
+<cite>
+Музыка: А. Жобим. 
+Слова: Д. Городничий
+</cite>
+
+<pre>
+Ну почему
+я постоянно вижу тебя ?
+В каждом окне, в каждом пейзаже, в бликах огня?
+Машешь рукою ты мне
+с улыбкою на устах
+Что это - сон лишь? Мечта?
+может быть да,
+а быть может и нет.
+
+Вeдь почему
+Всюду, где ты, слышу музыку я ?
+Это - песня твоя  и её не узнать просто нельзя.
+Джазовый мягкий аккорд -
+Знакомый мнe соль секст минор 
+Да это ты - нет сомнения!
+
+Вот почему
+Мне хорошо на яву и во сне. –
+Чтобы со мной не произошло ты приходишь ко мне.
+взгляд твой полон любви,
+света и красоты
+и я, когда тяжело, сливаюсь с ним -
+с этим взглядом твоим.
+
+Вот почему
+всегда и вокруг слышу музыку я.
+В каплях росы, в свете луны - красота бытия.
+Слышу всё тот-же аккорд
+Любимый мной Gm6.
+Да это ты - свет и радость моя!
+
+     2017
+
+
+(G7+/ Gm5+/)
+G7+/
+Gm5+/
+G7+/
+Bm7 E7(b9)
+
+Am7 Cm7(9)/6
+Bm7 E7(b9)
+Am7 D7(b9)
+G7+ Gm7
+G7+/
+Gm5+/
+G7+/
+B7(13/b13) E7(#59)
+A7(13/b13)
+Am7 D7(b9)
+G6 Gm5+
+</pre>
+</blockquote>
+
+# Meditation {#Meditation}
+
+
+##  Медитация \#1 (Волшебство)
+
+<blockquote class="indentedverse">
+<cite>
+(Музыка: А. Жобим, Слова: Д. Городничий )
+</cite>
+<pre>
+Тот кто был влюблен, 
+Кто поднялся выше небес, 
+Исскуством окрылён,
+       Тот уж никогда 
+       Не захочет, не сможет идти
+       По любому другому пути.
+
+Кто писал стихи,
+Кто волшебных мелодий букет 
+Мог среди звезд найти — 
+      Тот не сможет жить 
+      По-другому уже никогда:
+      Словно воздух — любовь, красота.
+
+Д а й   м н е   Б о г   п о н я т ь ,
+К а к   м и г   п р о з р е н ь я  
+Л ю д я м   п е р е д а т ь !
+
+В час, когда один,
+Когда в море бушуют ветра 
+И выбьешься из сил,
+      Вспомни, как любил —
+      Окажешься снова ты там,
+      Где царит красота...
+   
+Г д е   б ы   н е   б ы л   я – 
+В с е г д а   с о   м н о ю  р а д о с т ь    б ы т и я.
+
+2017
+
+G6 Gº
+G6 Bm7
+E7/9-
+
+Am7 Cm6
+Bm7 E7/9-
+Am7 D7/9
+
+Cmaj7 Cm6
+Bm7 E7/9- Am7 F#7/5+
+
+G6 Gº
+G6 Bm7 E7/9-
+
+Am7 Cm6
+Bm7 E7/9- Am7
+Aº
+G6
+</pre>
+</blockquote>
+
+##  Медитация \#16 (Волшебство)
+
+##  Медитация \#22 (Выше небес)
+
+В час когда одна
+Ты стоишь на распутье дорог, 
+Не зная, где твоя, 
+  Ты глаза закрой
+  и представь что ты далеко-
+  далеко за огромной горой. 
+
+Там увидишь ты 
+безграничное поле из трав
+Невиданной красоты. 
+  Ты зайди в него - 
+  И почувствуешь как легкий бриз
+  вдруг каснётся твоих ресниц.
+
+       Ты вдохни его 
+       и сразу завершится волшебство. 
+
+Вместо слабости
+И растерянности
+перед лицом неизвестности
+  Ты вдруг всё поймешь
+  Почему ты на свете живешь
+  И как дальше идти
+
+### Original MEDITAÇÃO{-}
+<blockquote class="indentedverse">
+<cite>
+
+</cite> 
+<pre> 
+Quem acreditou
+No amor, no sorriso, na flor
+Então sonhou, sonhou…
+E perdeu a paz
+O amor, o sorriso e a flor
+Se transformam depressa demais
+
+Quem, no coraçao
+Abrigou a tristeza de ver
+Tudo isto se perder
+E, na solidão
+Procurou um caminho e seguiu,
+Já descrente de um dia feliz
+
+Q u e m c h o r o u , c h o r o u
+E t a n t o q u e
+S e u p r a n t o j á s e c o u
+
+Quem depois voltou
+Ao amor, ao sorriso e à flor
+Então tudo encontrou
+
+E a própria dor
+Revelou o caminho do amor
+E a tristeza acabou.
+
+</pre>
+</blockquote>
+
+
+#  Corcovado {#Corcovado}
+
+##  Тихим теплым вечером {-}
+
+<blockquote class="indentedverse">
+<cite>
+Музыка: А. Жобим. 
+Слова: Д. Городничий
+</cite> <pre> 
+Тихим теплым вечером
+Лишь слышна гитара,
+Играющая песню растованья
+
+K небу звуки струн летят,
+Превращаясь в нотный ряд,
+В нотный ряд, где ноты звёзды
+Светят нам в час этот поздний.
+
+
+Как прекрасно всё вокруг:
+Эти горы, этот звук.
+А ведь ещё вчера так не казалось.
+
+Вся жизнь моя казалась
+Прожитой как попало,
+Но вот сегодня встретил я тебя
+И смыслом жизнь наполнилась моя.
+
+2008
+
+</pre>
+</blockquote>
+
+##  Корковадо {-}
+
+
+#  Samba d'uno nota {#sambauna}
+
+##  Самба одной ноты {-}
+
+<blockquote class="indentedverse">
+<cite>
+Музыка: А. Жобим. 
+Слова: Д. Городничий
+
+Это - самба одной ноты. 
+Я тебе пою её.
+Будут и другие ноты, 
+Но лишь похожие на неё.
+
+Вот, пожалуйста, другая 
+нота, тоже лишь одна. 
+Только это не мешает 
+мне сказать как ты мне нужна!
+
+(Люди говорят так много слов) 
+Все кругом твердят мне что-то, 
+Только за словами пустота, 
+лишь пустота!
+Вот и я пропел все ноты 
+чтобы возвратиться вновь сюда, 
+где нота та! 
+
+
+Продолжaю петь я смело, 
+Хоть одна лишь нота здесь. 
+Ты поймешь не в нотах дело, 
+А в тех чувствах, что у них есть. 
+
+Ты услышишь в них, я верю, 
+Глубину всех чувств моих 
+И откроешь сердца двери, 
+чтоб родился новый стих. 
+
+
+Сколько слов и звуков бестолковых
+Ото всюду слышим мы -
+С ума сойти! 
+Может быть хоть эта босса-нова
+Сможет этот шум пройти
+И тебя найти! 
+
+Слышу комментарии я снова
+Мол не много нот моих
+И слов моих.
+Может быть хоть эта босса-нова
+Объяснит, что лучше меньше их, 
+Но не пустых! 
+
+2016
+
+Dbm7 C7 
+Bm11 Bb7/-5 
+Dbm7 C7 
+B7/4 Bb7/-5
+
+Em7/9 A7/+5 
+Dmaj7 Dm7 G7 
+Dbm7 C7
+Bm11 Bb7/-5 A6/9 
+
+Dm7 G7
+C7+ 
+
+C7+ Cm7 
+F7 Bbmaj7
+B0 Bb7/-5 
+
+Bb7/-5
+||||||
+|||||o
+|o|o||
+||||o|
+
+Bm11 
+|||||| 
+|||||o 
+||||||
+|o|oo| 
+
+</pre>
+</blockquote>
+
+# Girl from Ipanema - Garota de Ipanema
+
+##  Вдоль по тропинке 
+
+<blockquote class="indentedverse">
+<cite>
+Музыка: А. Жобим. 
+Слова: А. Иващенко
+</cite> <pre>
+Вдоль по тропинке прибрежной над кручей отвесной 
+Легка и прелестна, почти бестелесна, 
+Походкой небесной проходит она.  
+Столь грациозна, пленительна и несравненна, 
+Что каждый готов угодить в этот плен,  
+Но она неизменно проходит одна.  
+ 
+И словно громом на месте  
+Вновь поражён наповал я  
+Той красотой в каждом жесте, 
+Что в мечтах лишь своих рисовал я. 
+О, почему мы не вместе? 
+ 
+Ах, зачем я несчастный не там, рядом с нею,  
+Когда океанского солнца яснее над миром, как фея,  
+Восходит она?  
+Восходит она...  
+ 
+ 
+Вдоль по тропинке над морем, и строен и гибок, 
+Идёт он, танцуя, сквозь блики улыбок, 
+Сквозь нежные вздохи прибрежных ундин. 
+Двигаясь словно бы в ритме самбы, 
+Я с ним прошлась по небесам бы, 
+Но только он всегда уходит один. 
+ 
+Ах, как печально всё это! 
+Самый желанный на свете 
+Снова меня не заметит. 
+Снов и яви моей господин, 
+Опять он уходит один. 
+ 
+По тропинке над морем, лёгкий как ветер, 
+Уйдёт он опять, не заметив, не встретив 
+Любви рассвет. Я смотрю ему вслед. 
+Опять смотрю ему вслед... 
+ 
+(Проигрыш - вместо первых 6 строк куплета)  
+ 
+И растворяясь в сиесте, 
+Вновь я любуюсь украдкой 
+Той красотой в каждом жесте, 
+Что терзает мой разум загадкой. 
+О, почему мы не вместе? 
+ 
+О, почему, словно две нерифмованных строчки, 
+Стремясь обойти запятые и точки, мы поодиночке 
+По жизни идём? 
+Идём и идём... 
+
+# Insensatez 
+
+##  Безчувственный {-}
+
+
+<blockquote class="indentedverse">
+<cite>
+Музыка: А. Жобим. 
+Слова: Д. Городничий
+</cite> <pre> 
+как
+я был жесток,
+бездушен был
+когда ты была со мною 
+
+  ты 
+  читала мне
+  свои стихи
+  и мы гуляли под луною 
+
+пел
+нам соловей
+и не было
+тебя нежней на всей планете
+
+   но
+   я не ценил
+   и ты ушла
+   и за это я в ответе 
+
+как
+теперь мне быть 
+мне не забыть 
+твои глаза твою улыбку 
+
+   мир
+   совсем другим 
+   стал без тебя 
+   и из-за моей ошибки 
+
+ночь
+теперь не та 
+рассвет не тот 
+В нем нет ни радости ни цвета 
+
+   Как
+   же мне вернуть 
+   Тебя вернуть, 
+   Как мне вернуть опять всё это?... 
+
+                        2011
+</pre>
+</blockquote>
+
+# Desafinado {#Desafinado}
+
+On piano, играет Люда Городничая (из музея-архива семьи Городничих в Киеве) : https://youtu.be/phoncqrWLv4
+
+## Дисгармония {-}
+
+<blockquote class="indentedverse">
+<cite>
+(Музыка: А. Жобим, Слова: Д. Городничий )
+</cite>
+<pre>
+(Музыка: А. Жобим, Слова: Д. Городничий )
+
+Жизнь моя похожа на мелодию 
+Любовь к тебе в ней создает гармонию 
+Гармонию, где все звучит красиво и легко 
+Но лишь одна в нём нота не попадает в аккорд 
+
+Что то изменилось в отношении твоём 
+Не горят теперь твои глаза когда поём 
+Как будто ты нарочно изменила слова 
+И теперь с тобой мы совпадаем едва ль 
+
+А ведь было время мы любили петь с тобой 
+И чтоб не пели, каждый знал прекрасно голос свой 
+Но вкусы резко изменись у тебя 
+А петь дуэтом не возможно не любя 
+
+Вспомни же те чувства, 
+чувства радостных тех дней 
+Когда с тобой сидели, 
+до рассвета песни пели. 
+И может прислонишься ты опять ко мне 
+И дисгармония изчезнит, 
+Когда мы с тобою будем вместе. 
+И мелодия сердец влюбленных 
+зазвучит вновь в тишине. 
+
+Да, мелодия опять найдется, 
+Когда мы с тобою будем вместе. 
+И с гармонией прекрасной песня 
+зазвучит вновь в тишине. 
+
+2012
+
+F7M G7/5- 
+Gm7 C9 Am7/5- D9- 
+Gm7 A9- D7M9 D9- 
+G7 G7 Gb7M Gb7/5-
+
+
+F7M G7/5- Gm7 C9 Am7/5- D9- 
+Gm7 A11/5+ Dm7(/4) E7 
+A7M A11/5+ G13 Gb7
+
+
+A7M Bb° Hm7 E6/9-
+A7M Am9 Bm11(/5-) Bb7/5-
+C7/5+ Db° Dm7 G13
+Gm7 Ebm6 Gm7 C9- 
+
+F7M G7/5- 
+Gm7 C9 
+Am7/5- D9- 
+Bb7M Bbm6 Am7 Ab°
+G7 Gb7/5+ 
+Gb7/5+ 
+G7 Gm7 C7 F C9- F6 F7M11+
+
+</pre>
+</blockquote>
+
+
+#  A felicidade  {#qqq}
+
+##  Есть радость и печаль {-}
+
+<blockquote>
+<cite>
+(Музыка: А. Жобим, Слова: Д. Городничий, не оконченa )
+</cite> <pre> 
+Есть радость и печаль 
+Живи и замечай. 
+Живи и замечай. 
+Есть радость и печаль. 
+
+Так бывает грусть к тебе придёт. 
+Её не бойся и не проганяй
+В жизни так бывает, 
+что лишь когда взгруснёшь
+Увидишь до чего же мир хорош. 
+
+А этот мир действительно прекрасный,
+Уметь лишь надо видеть красоту. 
+Открой своё сердце
+Услышь свои чувства -
+И ты, когда захочешь, 
+способeн на такое, 
+И в небе ты найдёшь свою звезду, 
+и полетишь вслед за этой звездою.
+
+
+Есть радость и печаль 
+Живи и замечай. 
+Живи и замечай. 
+Есть радость и печаль 
+
+
+
+Выйдешь утром на январский снег.
+Услышишь пение птицы в тишине
+ты все поймешь, 
+ты все увидишь сам
+и взор твой обратиться к небесам...
+
+2017 - TBC
+</pre>
+</blockquote>
+
+
+## Счастье - это легкий мотылек {}
+
+<blockquote class="indentedverse">
+<cite>
+Музыка: А. Жобим. 
+Слова: Иващенко (Адаптация Городничий)
+</cite> <pre>
+
+Счастье - это легкий мотылек
+Кружится, набирает высоту
+Но жизнь недолга,
+и остаётся только
+Мечтать, чтоб бесконечный ветер дул.
+
+Счастье - это хрупкая роса 
+Пристроилось у края лепестка
+Блестит она спокойно,
+качается невольно
+И падает слезой любви с цветка.
+</pre>
+</blockquote>
+
+#  Aqua de beber 
+
+
+##  вода жизни {-}
+
+
+<blockquote>
+<cite>
+(Музыка: А. Жобим, Слова: Д. Городничий, не окончена )
+</cite> 
+<pre> 
+Хотела я  узнать,  откуда 
+Явились мы и как нам жить, 
+к чему должны стремиться люди
+и у кого могу я это всё спросить
+
+И я услышала  
+в шуме ветра, в песне соловья 
+что есть источник знаний и добра 
+чистый как вода 
+вечный как сама наша Земля 
+nazyvaetsq
+Aqua de beber камарад. 
+
+И Я пошла бродить по свету 
+Я поднялась выше небес. 
+Услышала много песен я неспетых,
+но не найдя ничего вернулась к себе.
+
+И уже когда 
+дальнею дорогой утомлен 
+Сел я у ручья чтоб воды попить 
+вдруг я осознал 
+что никуда не надо мне идти
+Мой друг, и мой учитель есть сама вода. 
+
+Я понял всё в человеке должно быть красивым 
+слова и мысли и дела 
+И это есть условием необходимым 
+Чтобы достигнуть тут цель, для которой Мама нас родила. 
+
+
+Я так хотел узнать зачем 
+пришли в этот мир и как нам жить. 
+И вот ответ Чтобы быть любимым
+и жить надо так чтобы другим любовь дарить.
+
+
+Aqua de beber 
+agua de beber commarade
+мой источник знаний и добра. 
+Aqua de beber 
+agua de beber comorade
+Ты учитель Мой лучший друг и брат. 
+
+
+Я тебя найду 
+Сколько не пришлось бы мне искать. 
+Я узнаю всё 
+что поможет мне тебя узнать.
+
+Я нашел тебя и 
+Я так рад. 
+Чтоб не делал я 
+жизнь С тобою полноценный во сто крат
+agua de beber comorade
+
+2017 - TBC
+
+#  Dindi 
+
+##  динди {-}
+
+<blockquote>
+<cite>
+Музыка: А. Жобим. 
+Слова: Д. Городничий
+</cite> 
+<pre> 
+Небо, огромное небо
+тучи летят в края, где я не был
+Куда же летят они? -
+Они летят к тебе.
+
+Ветер свистит, напевает.
+Как хорошо я его понимаю.
+О ком он поёт? -
+Поёт он о тебе.
+
+О динди,
+где найти мне такие слова
+чтобы чувства свои передать.
+Радость моя, ты моя Благодать.
+
+Я так тебя люблю -
+я тобою живу.
+Ты - музыка моя
+нежная, светлая.
+
+Знаешь что, Динди,
+Я лечу к тебе через мира
+Словно птица на крыльях любви
+Где б нибыл ты
+Мой любимый Динди...
+
+2017
+
+### In English {}
+
+<blockquote class="indentedverse">
+<cite>
+Музыка: А. Жобим. 
+Слова: Д. Городничий
+</cite> <pre>
+
+CM7 BbM7
+sky, so vast is the sky
+CM7 BbM7
+where faraway clouds just wondering by
+AM7 C#m7
+where do they go
+F#m Bm7
+oh i don't know
+E7
+don't know
+CM7 BbM7
+wind that speaks to the leaves
+CM7 BbM7
+telling stories that no one believes
+AM7 C#m7
+stories of love
+F#m Bm7 E7
+belong to you and me
+
+[Chorus]
+CM7 BbM7
+oh dindi
+CM7 Gm7
+If I only had words I would say
+F#m7 Fm7 Bb7
+All the beautiful things that I see
+CM7
+When you're with me
+BbM7
+Oh my dindi
+CM7 BbM7
+Oh dindi
+CM7 Am7 G#m7 Gm7
+Like the song of the wind in the trees
+F#m7 Fm7
+That's how my heart is singing dindi
+Bb7
+Happy dindi
+CM7 Am7 F#m7 B7
+When you're with me
+
+[Verse]
+Em F#m7
+I love you more each day
+B7 Em/G F#m7 B7 Em A7
+Yes I do, Yes I do
+Dm7 A/G
+I'd let you go away
+Dm/F A/G Dm7 G7
+If you'd take me with you
+CM7 BbM7
+Don't you know dindi
+CM7 Gm7
+I'd be running and searching for you
+F#m7 Fm7
+Like a river that can't find the sea
+Bb7 CM7
+That would be me without you
+BbM7
+My dindi
+
+[Outro]
+CM7 BbM7
+That would be me
+CM7
+Without you my dindi
+
+</pre>
+</blockquote>
+
+#  Departure 
+
+##  Разъезд {-}
+
+<blockquote class="indentedverse">
+<cite>
+Музыка и Слова: Д. Городничий
+</cite> <pre>
+Когда прощальная слеза 
+Застелет облаком печальным растованье, 
+Сумей простить мне все, что я сказал, - 
+мы втретимся когда-нибудь едва ли. 
+
+Сквозь дым толпой идущих дней 
+Ты сможешь только вспоминать меня. 
+Но этот дым - он все силней 
+становится день ото дня. 
+
+Разъезд - вот скрежет бытия 
+Такой тоскливый, молчаливо неизбежный. 
+Об этом знали ты и я, 
+ведь были же друзья у нас и прежде. 
+
+И мне не нужно подбирать слова. 
+Они бессильны. - Ты послуслушай сам, 
+Как под ногами шелестит опавшая листва, 
+безвучно повторяя нам: 
+"Жизнь такова..." 
+
+1992
+</pre>
+</blockquote>
+
+
+##  Разъезд {-}
+
+<blockquote>
+<cite>
+Слова: A. Городничий.
+Музыка: Д. Городничий 
+</cite> <pre> qqqq  </pre>
+</blockquote>
+
+# Comments {-}
+
+TBA 
 
 # Legal note {-}
 
-IVIM.ca respects the intellectual property rights of all content creators, whether their work is affiliated with our site or not.
+IVIM respects the intellectual property rights of all content creators, whether their work is affiliated with our site or not.
 
 If you have reason to suspect that your intellectual property rights have been infringed in any way that connects to our site, we strongly advise that you contact our copyright agent with a complaint as soon as possible. We take all violations of the Digital Millennium Copyright Act of 1998 extremely seriously. In order to ensure your complaint remains legitimate under the DMCA, please ensure your copyright complaint contains all of the following information:
 
