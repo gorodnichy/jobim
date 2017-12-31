@@ -88,14 +88,14 @@ TBD
 
 ### Copyright note {-}
 
-        Copyright &copy; Dmitry Gorodnichy, IVIM Inc. 1992-2017
+Copyright &copy; Dmitry Gorodnichy, IVIM Inc. 1992-2017
         
-        All Rights Reserved. 
+All Rights Reserved. 
 All content are protected by the copyright law and may not be copied
 without the expressed permission and the active reference to the source.
         
 
-# Wave {#wave}
+# Wave 
 
 <!-- On piano,  -->
 <!-- played by TOM JOBIM & OSCAR PETERSON (1976 BBC & 1986 MONTREAL): -->
@@ -135,7 +135,7 @@ without the expressed permission and the active reference to the source.
 <!-- http://gtwebdev.com/workshop/misc/verse.php -->
 ## Волна {-}
 
-<blockquote class="indentedverse">
+<blockquote>
 <cite>
 Музыка: А. Жобим.
 Слова: Д. Городничий
@@ -179,12 +179,12 @@ without the expressed permission and the active reference to the source.
 </pre>
 </blockquote>
 
-# Triste {#Triste}
+# Triste 
 
 
 ## Грустно жить в мире одному
 
-<blockquote class="indentedverse">
+<blockquote>
 <cite>
 (Музыка: А. Жобим, Слова: Д. Городничий )
 </cite>
@@ -244,7 +244,7 @@ Amaj7 Fmaj7/5- A Dbm7 F#7/+5/9- F#7/+5
 </pre>
 </blockquote>
 
-# Chega de Saudade {#ChegadeSaudade}
+# Chega de Saudade 
 
 ## Не грусти {-}
 
@@ -394,14 +394,14 @@ Viver sem mim. Não quero mais este negócio
 
 
 
-#  Favela (O morro não tem vez) {#Favela}
+#  Favela (O morro não tem vez) 
 
 <!------------------------------------------------------>
 <!------------------------------------------------------>
 
 ##  Самба пробуждения {-}
 
-<blockquote class="indentedverse">
+<blockquote>
 
 <cite>
 (Музыка: А. Жобим, Слова: Д. Городничий )
@@ -482,11 +482,11 @@ um, dois, trs
 cem, mil a batucar
 
 
-# Unútil Paisagem {#UnútilPaisagem}
+# Unútil Paisagem 
 
-##  зачем всё это?
+##  зачем всё это? {-}
 
-<blockquote class="indentedverse">
+<blockquote>
 <cite>
 (Музыка: А. Жобим, Слова: Д. Городничий )
 </cite>
@@ -513,7 +513,7 @@ cem, mil a batucar
 всегда...
 
 
-                          Март 2017
+Март 2017
 
 
 A6 Ab7+13
@@ -535,11 +535,11 @@ A7+
 
 
 
-# Vivo sonhado {#Vivosonhado}
+# Vivo sonhado 
 
-## Жить как во сне
+## Жить как во сне {-}
 
-<blockquote class="indentedverse">
+<blockquote>
 <cite>
 Музыка: А. Жобим. 
 Слова: Д. Городничий
@@ -600,12 +600,12 @@ G6 Gm5+
 </pre>
 </blockquote>
 
-# Meditation {#Meditation}
+# Meditation 
 
 
-##  Медитация \#1 (Волшебство)
+##  Медитация \#1 (Волшебство)  
 
-<blockquote class="indentedverse">
+<blockquote>
 <cite>
 (Музыка: А. Жобим, Слова: Д. Городничий )
 </cite>
@@ -661,7 +661,9 @@ G6
 </pre>
 </blockquote>
 
-##  Медитация \#16 (Волшебство)
+##  Медитация \#16 (В мечтаньях)
+
+TBD
 
 ##  Медитация \#22 (Выше небес)
 
@@ -690,7 +692,7 @@ G6
   И как дальше идти
 
 ### Original MEDITAÇÃO{-}
-<blockquote class="indentedverse">
+<blockquote>
 <cite>
 
 </cite> 
@@ -725,15 +727,15 @@ E a tristeza acabou.
 </blockquote>
 
 
-#  Corcovado {#Corcovado}
+#  Corcovado 
 
 ##  Тихим теплым вечером {-}
 
-<blockquote class="indentedverse">
+<blockquote>
 <cite>
 Музыка: А. Жобим. 
 Слова: Д. Городничий
-</cite> <pre> 
+</cite> <pre>
 Тихим теплым вечером
 Лишь слышна гитара,
 Играющая песню растованья
@@ -761,15 +763,16 @@ K небу звуки струн летят,
 ##  Корковадо {-}
 
 
-#  Samba d'uno nota {#sambauna}
+#  Samba d'uno nota 
 
 ##  Самба одной ноты {-}
 
-<blockquote class="indentedverse">
+<blockquote>
 <cite>
 Музыка: А. Жобим. 
 Слова: Д. Городничий
-
+</cite> 
+<pre>
 Это - самба одной ноты. 
 Я тебе пою её.
 Будут и другие ноты, 
@@ -850,13 +853,14 @@ Bm11
 
 # Girl from Ipanema - Garota de Ipanema
 
-##  Вдоль по тропинке 
+##  Вдоль по тропинке  {-}
 
-<blockquote class="indentedverse">
+<blockquote>
 <cite>
 Музыка: А. Жобим. 
 Слова: А. Иващенко
-</cite> <pre>
+</cite> 
+<pre>
 Вдоль по тропинке прибрежной над кручей отвесной 
 Легка и прелестна, почти бестелесна, 
 Походкой небесной проходит она.  
@@ -906,17 +910,42 @@ Bm11
 Стремясь обойти запятые и точки, мы поодиночке 
 По жизни идём? 
 Идём и идём... 
+</pre>
+</blockquote>
 
+# Só Danço Sambа
+## Танцую самбу {-}
+
+<blockquote>
+<cite>
+Музыка: А. Жобим. 
+Слова: Д. Городничий (не окончена)
+</cite> <pre>
+Одну лишь самбу, и только самбу
+Танцую я 
+одну лишь Samba
+танцую Samba я.
+
+Это всё из-за тебя мой милый
+С тех пор как научил меня ты самбу
+это все из-за тебя родная
+Мне интересны больше не фокстрот не ча-ча-ча
+
+TBD
+
+</pre>
+</blockquote>
 # Insensatez 
 
 ##  Безчувственный {-}
 
 
-<blockquote class="indentedverse">
+<blockquote>
 <cite>
 Музыка: А. Жобим. 
 Слова: Д. Городничий
-</cite> <pre> 
+</cite> 
+<pre>
 как
 я был жесток,
 бездушен был
@@ -961,19 +990,17 @@ Bm11
 </pre>
 </blockquote>
 
-# Desafinado {#Desafinado}
+# Desafinado
 
 On piano, играет Люда Городничая (из музея-архива семьи Городничих в Киеве) : https://youtu.be/phoncqrWLv4
 
 ## Дисгармония {-}
 
-<blockquote class="indentedverse">
+<blockquote>
 <cite>
 (Музыка: А. Жобим, Слова: Д. Городничий )
 </cite>
 <pre>
-(Музыка: А. Жобим, Слова: Д. Городничий )
-
 Жизнь моя похожа на мелодию 
 Любовь к тебе в ней создает гармонию 
 Гармонию, где все звучит красиво и легко 
@@ -1034,7 +1061,7 @@ G7 Gm7 C7 F C9- F6 F7M11+
 </blockquote>
 
 
-#  A felicidade  {#qqq}
+#  A felicidade 
 
 ##  Есть радость и печаль {-}
 
@@ -1081,9 +1108,9 @@ G7 Gm7 C7 F C9- F6 F7M11+
 </blockquote>
 
 
-## Счастье - это легкий мотылек {}
+### Счастье - это легкий мотылек {-}
 
-<blockquote class="indentedverse">
+<blockquote>
 <cite>
 Музыка: А. Жобим. 
 Слова: Иващенко (Адаптация Городничий)
@@ -1114,12 +1141,12 @@ G7 Gm7 C7 F C9- F6 F7M11+
 (Музыка: А. Жобим, Слова: Д. Городничий, не окончена )
 </cite> 
 <pre> 
-Хотела я  узнать,  откуда 
-Явились мы и как нам жить, 
+Хотела я  узнать,  откуда
+Явились мы и как нам жить,
 к чему должны стремиться люди
 и у кого могу я это всё спросить
 
-И я услышала  
+И я услышалa
 в шуме ветра, в песне соловья 
 что есть источник знаний и добра 
 чистый как вода 
@@ -1172,6 +1199,9 @@ agua de beber comorade
 
 2017 - TBC
 
+</pre>
+</blockquote>
+
 #  Dindi 
 
 ##  динди {-}
@@ -1181,7 +1211,7 @@ agua de beber comorade
 Музыка: А. Жобим. 
 Слова: Д. Городничий
 </cite> 
-<pre> 
+<pre>
 Небо, огромное небо
 тучи летят в края, где я не был
 Куда же летят они? -
@@ -1205,14 +1235,16 @@ agua de beber comorade
 Знаешь что, Динди,
 Я лечу к тебе через мира
 Словно птица на крыльях любви
-Где б нибыл ты
+Где б ни был ты
 Мой любимый Динди...
 
 2017
+</pre>
+</blockquote>
 
 ### In English {}
 
-<blockquote class="indentedverse">
+<blockquote>
 <cite>
 Музыка: А. Жобим. 
 Слова: Д. Городничий
@@ -1290,9 +1322,11 @@ Without you my dindi
 
 #  Departure 
 
+
+
 ##  Разъезд {-}
 
-<blockquote class="indentedverse">
+<blockquote>
 <cite>
 Музыка и Слова: Д. Городничий
 </cite> <pre>
@@ -1312,23 +1346,57 @@ Without you my dindi
 ведь были же друзья у нас и прежде. 
 
 И мне не нужно подбирать слова. 
-Они бессильны. - Ты послуслушай сам, 
+Они бессильны. - Ты послушай сам, 
 Как под ногами шелестит опавшая листва, 
 безвучно повторяя нам: 
 "Жизнь такова..." 
 
-1992
+1992, Moscow-Kiev
+</pre>
+</blockquote>
+
+##  Translation: Departure (`C'est la vie') {-}
+
+<blockquote>
+<cite>
+Music and lyrics: Dmitry Gorodnichy
+</cite> 
+<pre>
+When a farewell tear 
+Will cover with a sad mist our goodbyes,
+Try to forgive me words that you will hear,
+'Cause very likely it's the last time you look in my eyes.
+
+It`s only through the haze of rushing days
+That you'll be able to recall my name.
+But, oh, this haze is getting thicker, I should say,
+With every, every, every single day.
+
+R:     Departure - is a tearing of the life!
+       It is so sad, so cruel, inevitable it is!
+       But we did know about it, both you and I,
+       as we have had and lost some already friends before this.
+
+And there's no need to search for words, no need,
+For they are useless. -  You just listen by yourself
+How fallen leaves are rustling below your feet.
+As they are mutely echoing to us:
+`It's just the way the life is'
+(`C'est la vie').
+
+1996, Edmonton
+
 </pre>
 </blockquote>
 
 
-##  Разъезд {-}
+##  Когда {-}
 
 <blockquote>
 <cite>
 Слова: A. Городничий.
 Музыка: Д. Городничий 
-</cite> <pre> qqqq  </pre>
+</cite> <pre> Когда  </pre>
 </blockquote>
 
 # Comments {-}

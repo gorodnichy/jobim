@@ -21,3 +21,8 @@ blockquote > p:last-child {
 blockquote > p:first-child {
   text-align: inherit;
 }
+
+.verse pre {
+  display: table;
+  margin: 0 auto;
+  }
