@@ -1,2 +1,2 @@
 # Shri-Jobim
-Spiritual interpretation of Antonio Carlos Jobim songs in Ukrainian &amp; Russian
+Tribute to Antonio Carlos Jobim in Ukrainian &amp; Russian
