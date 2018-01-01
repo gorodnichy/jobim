@@ -1,8 +1,8 @@
 --- 
 # title: "IVIM ambraça JOBIM"
 title: "Shri Jobim"
-subtitle: "Tribute to Antonio Carlos Jobim in Ukrainian and Russian"
-# author: "By Dmitry Gorodnichy"
+# subtitle: "Tribute to Antonio Carlos Jobim in Ukrainian and Russian"
+author: "Дмитрий Городничий"
 #author: "Copyright (R) Dmitry Gorodnichy"
 date: "DRAFT. Last updated: `r Sys.Date()`"
 # date: "`r Sys.Date()`"
@@ -1333,12 +1333,12 @@ Without you my dindi
 </cite> <pre>
 Когда прощальная слеза 
 Застелет облаком печальным растованье, 
-Сумей простить мне все, что я сказал, - 
-мы втретимся когда-нибудь едва ли. 
+Сумей простить мне всё, что я сказал, - 
+Мы втретимся когда-нибудь едва ли. 
 
 Сквозь дым толпой идущих дней 
 Ты сможешь только вспоминать меня. 
-Но этот дым - он все силней 
+Но этот дым - он всё сильней 
 становится день ото дня. 
 
 Разъезд - вот скрежет бытия 
@@ -1349,8 +1349,7 @@ Without you my dindi
 И мне не нужно подбирать слова. 
 Они бессильны. - Ты послушай сам, 
 Как под ногами шелестит опавшая листва, 
-безвучно повторяя нам: 
-"Жизнь такова..." 
+безвучно повторяя нам: "Жизнь такова..." 
 
 1992, Moscow-Kiev
 </pre>
