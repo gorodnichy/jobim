@@ -6,7 +6,7 @@ bookdown::gitbook:
       before: |
         <li><a href="http://gorodnichy.ca">Music of Dmitry Gorodnichy</a></li>
       after: |
-        <li><a href="https://github.com/gorodnichy/Shri-Jobim"
+        <li><a href="https://www.IviM.ca"
         target="blank">
         Produced by IVIM Inc. &copy; 2017 </a></li>
     download: [epub]
