@@ -1,3 +1,4 @@
+# Часть 2: Волна {-}
 
 # Wave 
 
@@ -6,10 +7,9 @@
 
 <!-- [[embed url="https://youtu.be/e0mEAo3anwI"]] -->
 
-<!-- [[embed src="https://youtu.be/e0mEAo3anwI"]] -->
 
 
-<embed align="center" src="https://www.youtube.com/embed/e0mEAo3anwI" width="400">
+<embed  src="https://www.youtube.com/embed/e0mEAo3anwI" width="300">
 
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/e0mEAo3anwI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe> -->
@@ -20,7 +20,7 @@
 <!-- <iframe width="560" height="315" src="https://youtu.be/e0mEAo3anwI"></iframe> -->
 
 
-<!-- obje -->
+<!-- WORKS too !-->
 <!-- <object width="360" height="300" data="https://www.youtube.com/embed/e0mEAo3anwI"></object> -->
 
 
@@ -59,8 +59,8 @@
 В себя впусти ты этот звук,
 И всё тебе понятным сразу станет.
 
-    В этом звуке слышишь ты любовь.
-    И ты знаешь, что она с тобой...
+   В этом звуке слышишь ты любовь.
+   И ты знаешь, что она с тобой...
 
 И так всегда
 Ничто не было и не есть
@@ -76,8 +76,8 @@
 Себя волною каждый раз
 В бескрайнем океане ощущая.
 
-    Всё, что знать хотел - её спроси
-    И ответ с собою унеси...
+   Всё, что знать хотел - её спроси
+   И ответ с собою унеси...
 
 Март 2017
 </pre>
@@ -86,26 +86,30 @@
 # Triste 
 
 
+
+<embed src="https://www.youtube.com/embed/N8RVD7wMsDY" width="300">
+
+
+
 ## Грустно жить в мире одному
+<!-- (Ни этот простор -->
+<!-- Дали голубой, -->
+<!-- Ни детский восторг, -->
+<!-- Пережитый тобой...) -->
 
 <blockquote>
 <cite>
-(Музыка: А. Жобим, Слова: Д. Городничий )
+Музыка: А. Жобим, Слова: Д. Городничий
 </cite>
 <pre>
 Грустно жить в мире одному, 
 Встречать рассвет и никому 
 Не рассказать, никак
 Не словом описать
-Ни свет дальних звёзд,
-Ни запах берёз,
-Ни моря прибой,
-Ни ветра покой...
-
-(Ни этот простор
-Дали голубой,
-Ни детский восторг,
-Пережитый тобой...)
+  Ни свет дальних звёзд,
+  Ни запах берёз,
+  Ни моря прибой,
+  Ни ветра покой...
 
 Надо жить так, чтоб было с кем
 Тебе делиться этим всем,
@@ -118,10 +122,10 @@
 Мечты твои не увидит никто, 
 Всё, что с любовью
 Создаёшь ты в своих снах,
-Ни сад полный роз, 
-Цветущих зимой,
-Ни лунный аккорд,
-Сочинённый тобой...
+  Ни сад полный роз, 
+  Цветущих зимой,
+  Ни лунный аккорд,
+  Сочинённый тобой...
 
 Но то, что серцем рождено,
 Способно взмыть так высоко!
@@ -150,6 +154,8 @@ Amaj7 Fmaj7/5- A Dbm7 F#7/+5/9- F#7/+5
 </blockquote>
 
 # Chega de Saudade 
+
+<embed  src="https://www.youtube.com/embed/xWWnrpIwhac" width="300">
 
 ## Не грусти {-}
 
@@ -262,47 +268,46 @@ There'll be no more blues           Nothing........                 blues
 
 
 
-### Original lyrics {-}
+<!-- ### Original lyrics {-} -->
 
-<blockquote>
-<pre>
-Vai minha tristeza
-E diz a ela
-Que sem ela não pode ser
-Diz-lhe numa prece
-Que ela regresse
-Por que eu não posso mais sofrer
-Chega de saudade
-A realidade
-É que sem ela não há paz
-Não há beleza
-É só tristeza
-E a melancolia
-Que não sai de mim
-Não sai de mim, não sai
+<!-- <blockquote> -->
+<!-- <pre> -->
+<!-- Vai minha tristeza -->
+<!-- E diz a ela -->
+<!-- Que sem ela não pode ser -->
+<!-- Diz-lhe numa prece -->
+<!-- Que ela regresse -->
+<!-- Por que eu não posso mais sofrer -->
+<!-- Chega de saudade -->
+<!-- A realidade -->
+<!-- É que sem ela não há paz -->
+<!-- Não há beleza -->
+<!-- É só tristeza -->
+<!-- E a melancolia -->
+<!-- Que não sai de mim -->
+<!-- Não sai de mim, não sai -->
 
-Mas se ela voltar, se ela voltar
-Que coisa linda,
-que coisa louca
-Pois há menos peixinhos a nadar no mar
-Do que os beijinhos Que eu darei na sua boca
+<!-- Mas se ela voltar, se ela voltar -->
+<!-- Que coisa linda, -->
+<!-- que coisa louca -->
+<!-- Pois há menos peixinhos a nadar no mar -->
+<!-- Do que os beijinhos Que eu darei na sua boca -->
 
-Dentro dos meus braços
-Os abraços hão de ser, milhões de abraços
-Apertado assim, colado assim, calado assim
-Abraços e beijinhos e carinhos sem ter fim
-Que é pra acabar com este negócio de você
-Viver sem mim. Não quero mais este negócio
-</pre>
-</blockquote>
+<!-- Dentro dos meus braços -->
+<!-- Os abraços hão de ser, milhões de abraços -->
+<!-- Apertado assim, colado assim, calado assim -->
+<!-- Abraços e beijinhos e carinhos sem ter fim -->
+<!-- Que é pra acabar com este negócio de você -->
+<!-- Viver sem mim. Não quero mais este negócio -->
+<!-- </pre> -->
+<!-- </blockquote> -->
 
 
 
 
 #  Favela (O morro não tem vez) 
 
-<!------------------------------------------------------>
-<!------------------------------------------------------>
+<embed  src="https://www.youtube.com/embed/TTRcRFztIJA" width="300">
 
 ##  Самба пробуждения {-}
 
@@ -352,11 +357,7 @@ Viver sem mim. Não quero mais este negócio
 Всего чего хотел он, уже достиг!
 
 Март 2017
-</pre>
-</blockquote>
 
-
-### Chords {-}
 
 Am/E Am6
 Dm7/A(F) G#o7
@@ -371,23 +372,31 @@ C6(C7+) Am6
 Dm7 D7+
 C7+ C+
 E7 Am
+</pre>
+</blockquote>
 
-### In Portuguese (original) {-}
 
-O morro no tem vez
-E o que ele fez j foi demais
-Mas olhem bem vocs
-Quando derem vez ao morro
-Toda a cidade vai cantar
-Morro pede passagem
-Morro quer se mostrar
-Abram alas pro morro
-Tamborim vai falar
-um, dois, trs
-cem, mil a batucar
 
+<!-- ### In Portuguese (original) {-} -->
+
+<!-- O morro no tem vez -->
+<!-- E o que ele fez j foi demais -->
+<!-- Mas olhem bem vocs -->
+<!-- Quando derem vez ao morro -->
+<!-- Toda a cidade vai cantar -->
+<!-- Morro pede passagem -->
+<!-- Morro quer se mostrar -->
+<!-- Abram alas pro morro -->
+<!-- Tamborim vai falar -->
+<!-- um, dois, trs -->
+<!-- cem, mil a batucar -->
+
+
+9-914GyPR6c
 
 # Unútil Paisagem 
+
+<embed  src="https://www.youtube.com/embed/9-914GyPR6c" width="300">
 
 ##  зачем всё это? {-}
 
@@ -575,9 +584,11 @@ G6 Gm5+
 <!-- </pre> -->
 <!-- </blockquote> -->
 
-<!-- #  Aqua de beber  -->
+#  Aqua de beber
 
+<embed align="center" src="https://www.youtube.com/embed/sT2BloTgw7k" width="300">
 
+sT2BloTgw7k
 ###  вода жизни {-}
 
 
@@ -654,3 +665,89 @@ G6 Gm5+
 
 </pre>
 </blockquote>
+
+
+#  Departure 
+
+
+##  Разъезд {-}
+
+<blockquote>
+<cite>
+Музыка и Слова: Д. Городничий
+</cite> <pre>
+Когда прощальная слеза 
+Застелет облаком печальным растованье, 
+Сумей простить мне всё, что я сказал, - 
+Мы втретимся когда-нибудь едва ли. 
+
+Сквозь дым толпой идущих дней 
+Ты сможешь только вспоминать меня. 
+Но этот дым - он всё сильней 
+становится день ото дня. 
+
+Разъезд - вот скрежет бытия 
+Такой тоскливый, молчаливо неизбежный. 
+Об этом знали ты и я, 
+ведь были же друзья у нас и прежде. 
+
+И мне не нужно подбирать слова. 
+Они бессильны. - Ты послушай сам, 
+Как под ногами шелестит опавшая листва, 
+безвучно повторяя нам: "Жизнь такова..." 
+
+1992, Moscow-Kiev
+</pre>
+</blockquote>
+
+##  Translation: Departure (`C'est la vie') {-}
+
+<blockquote>
+<cite>
+Music and lyrics: Dmitry Gorodnichy
+</cite> 
+<pre>
+When a farewell tear 
+Will cover with a sad mist our goodbyes,
+Try to forgive me words that you will hear,
+'Cause very likely it's the last time you look in my eyes.
+
+It`s only through the haze of rushing days
+That you'll be able to recall my name.
+But, oh, this haze is getting thicker, I should say,
+With every, every, every single day.
+
+R:     Departure - is a tearing of the life!
+       It is so sad, so cruel, inevitable it is!
+       But we did know about it, both you and I,
+       as we have had and lost some already friends before this.
+
+And there's no need to search for words, no need,
+For they are useless. -  You just listen by yourself
+How fallen leaves are rustling below your feet.
+As they are mutely echoing to us:
+`It's just the way the life is'
+(`C'est la vie').
+
+1996, Edmonton
+
+</pre>
+</blockquote>
+
+
+<!-- ##  Когда {-} -->
+
+<!-- <blockquote> -->
+<!-- <cite> -->
+<!-- Слова: A. Городничий. -->
+<!-- Музыка: Д. Городничий  -->
+<!-- </cite> <pre> Когда  </pre> -->
+<!-- </blockquote> -->
+
+# Коментарии {-}
+
+
+TBD
+
+
+

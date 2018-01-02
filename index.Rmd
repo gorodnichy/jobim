@@ -7,7 +7,20 @@ author: "Дмитрий Городничий"
 date: "DRAFT. Last updated: `r Sys.Date()`"
 # date: "`r Sys.Date()`"
 # date: "October 2017"
+site: bookdown::bookdown_site
 output: bookdown::gitbook
+# output:
+#   bookdown::gitbook:
+#     includes:
+# #      in_header: html_header.html  # uncomment for javascript-pulldowns
+#     config:
+#       toc:
+#           collapse: section
+#           scroll_highlight: yes
+#           before: null
+#           after: null
+#       edit: https://github.com/Tazinho/Advanced-R-Solutions/edit/master/%s
+# 
 # output:
 #   bookdown::pdf_book:
 # #    template: tex/template_journal.tex
@@ -23,7 +36,6 @@ output: bookdown::gitbook
 # #    dev: "cairo_pdf"
 # documentclass: book
 link-citations: yes
-site: bookdown::bookdown_site
 description: "Songbook of Antonio Carlos Jobim songs interpreted bu Dmitry Gorodnichy in Ukrainian and Russian, prepared using R and bookdown"
 github-repo: "gorodnichy/Shri-Jobim"
 url: 'http\://bookdown.org/gorodnichy/Shri-Jobim/'
@@ -42,12 +54,15 @@ cover-image: "images/cover-jobim.jpg"
 
 
 
-### Содержание {-}
+# Содержание {-}
 
 <center>
 <img alt="« Shri Jobim »" border="1" height="500" src="images/cover-jobim.jpg"  />
 <!-- <br> -->
 <!-- [Follow this album on Google+](https://plus.google.com/u/1/collection/Eg2aKE) -->
+
+
+Under construction - Links to audio and video to be added.
 
 </center>
 
@@ -57,30 +72,44 @@ cover-image: "images/cover-jobim.jpg"
 
 <!-- # "Shri Jobim" (IVIM ambraça JOBIM) {#jobim} -->
 
-under construction (links to audio and video to be addeds)
+
  
-<!-- Title | Lyrics & Chords | Backing track |  Instrumental  | With voice | Live    -->
-Title | Original | Back track |  Instrumental  | Audio | Video
------ | :-------------: | :--------: | :------------: | :---: | :---:  
-Волна  | + | - | - | + |
-Не грусти | + | - | - | + |
-Самба пробуждения | + | - | - | + |
-зачем всё это? - | + | - | - | + |
-Грустно жить в мире одному | + | - | - | + |
-Жить как во сне - Vivo sonhado  | + | - | - | + |
-Медитация 1 (выше небес) | + | - | - | + |
-Медитация 22 (Волшебство) | + | - | - | + |
-Медитация 7  | + | - | - | + |
-Тихим теплым вечером | + | - | - | + |
-Корковадо | + | - | - | + |
+
+### Часть 1: O grand amor{-}
+
+Title | Original | Backing track |  Instrumental  | New
+----- | :-------------: | :--------: | :------------: | :---: 
+Дисгармония | + | - | - | + |
+Тихим теплым вечером - Корковадо | + | - | - | + |
 Самба одной ноты | + | - | - | + |
 Безчувственный | + | - | - | + |
-Дисгармония | + | - | - | + |
-РАДОСТЬ И ПЕЧАЛЬ (A FELICIDADE ) | + | - | - | + |
-вода жизни - Aqua de beber | + | - | - | + |
-динди | + | - | - | + |
+Dindi | + | - | - | + |
+Garota de Ipanema | + | - | - | + |
 Танцую самбу - Só Danço Sambа | + | - | - | + |
-Разъезд | + | - | - | + |
+Не уходи - Por causa de voce  | + | - | - | + |
+Я любил - Amor em paz  | + | - | - | + |
+о любовь - O grand amor | + | - | - | + |
+
+
+
+
+ 
+### Часть 2: Волна {-}
+<!-- Title | Lyrics & Chords | Backing track |  Instrumental  | With voice | Live    -->
+Title | Original | Back track |  Instrumental  | New
+----- | :-------------: | :--------: | :------------: | :---: 
+Волна - Wave | + | - | - | + 
+Не грусти -  Chega de Saudade  | + | - | - | + 
+Самба пробуждения - Favela| + | - | - | + 
+зачем всё это? - Unútil Paisagem  | + | - | - | + 
+Грустно жить в мире одному - Triste | + | - | - | + 
+Жить как во сне - Vivo sonhado  | + | - | - | + 
+Медитация 1 (выше небес) | + | - | - | + 
+Медитация 22 (Волшебство) | + | - | - | + 
+Есть радость и печаль - A felicidade | + | - | - | + 
+вода жизни - Aqua de beber | + | - | - | + 
+Разъезд - Departure | + | - | - | + 
+
 
 
 <!-- ### Credits {-} -->
@@ -89,10 +118,10 @@ Title | Original | Back track |  Instrumental  | Audio | Video
 
 ### Copyright note {-}
 
-Copyright &copy; Dmitry Gorodnichy, IVIM Inc. 1992-2017
+Copyright &copy; Dmitry Gorodnichy, IVIM Inc. 1992-2018
         
 All Rights Reserved. 
-All content are protected by the copyright law and may not be copied
+All content is protected by the copyright law and may not be copied
 without the expressed permission and the active reference to the source.
         
 
