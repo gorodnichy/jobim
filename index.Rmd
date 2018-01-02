@@ -36,7 +36,7 @@ output: bookdown::gitbook
 # #    dev: "cairo_pdf"
 # documentclass: book
 link-citations: yes
-description: "Songbook of Antonio Carlos Jobim songs interpreted bu Dmitry Gorodnichy in Ukrainian and Russian, prepared using R and bookdown"
+description: "Songbook of Antonio Carlos Jobim songs interpreted by Dmitry Gorodnichy in Ukrainian and Russian, prepared using R"
 github-repo: "gorodnichy/Shri-Jobim"
 url: 'http\://bookdown.org/gorodnichy/Shri-Jobim/'
 cover-image: "images/cover-book-ShriJobim.jpg"
@@ -88,6 +88,7 @@ Title | Original | Backing track |  Instrumental  | New
 Безчувственный | + | - | - | + |
 Dindi | + | - | - | + |
 Garota de Ipanema | + | - | - | + |
+Медитация 16 () | + | - | - | + 
 Танцую самбу - Só Danço Sambа | + | - | - | + |
 Не уходи - Por causa de voce  | + | - | - | + |
 Я любил - Amor em paz  | + | - | - | + |

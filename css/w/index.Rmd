@@ -1,6 +1,8 @@
 ---
 title: "Dmitry O. Gorodnichy"
-output: html_document
+output:
+  html_document: default
+#  pdf_document: default #use only html with websites!
 ---
 
 <style type="text/css">
@@ -16,31 +18,32 @@ output: html_document
 
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-2">
-<br>
-<br>
-<br>
+
 <font size=-2>
 
 ![Contact: dmitry@gorodnichy.ca](http://www.gorodnichy.ca/images/dmitry_gorodnichy.jpg)
+<!-- !(http://www.gorodnichy.ca/images/dmitry_gorodnichy.jpg) does not work-->
 
 
 <br>
 
 
 
-**Latest highlights:**
-<br>
+**Quick links:**
 
-Sep.2016: <a href="http://pubs.drdc-rddc.gc.ca/BASIS/pcandid/www/engpub/SDW?M%3D1%26W%3DAUTHOR+inc+phrase+like+%22Gorodnichy%22+sort+by+repdate+descend">ART in ABC Report is published by DRDC</a>
+<!-- **Popular:** -->
+<!-- <br> -->
+
+Sep.2016: <a href="http://pubs.drdc-rddc.gc.ca/BASIS/pcandid/www/engpub/SDW?M%3D1%26W%3DAUTHOR+inc+phrase+like+%22Gorodnichy%22+sort+by+repdate+descend">Analysis of Risks and Trends in Automated Border Control (ART in ABC) Report is published by DRDC</a>
 <br>
 
 Aug.2015: <a href="https://sites.google.com/site/vistercanada/projects/DRDC-CSS#TOC-ART-in-ABC:-Risk-analysis-of-face-and-iris-biometrics-in-border-access-control-applications-">Presentation on ART in ABC at Frontex is available on-line and video</a>.
 <br>
 
-Jul.2014: <a href="https://sites.google.com/site/dmitrygorodnichy/publications#TOC-Face-Recognition-in-Video">DRDC published 4 reports on Video Analytics evaluation, and 6 reports on Face Recognition in surveillance video evaluation</a>
+Jul.2014: <a href="https://sites.google.com/site/dmitrygorodnichy/publications#TOC-Face-Recognition-in-Video">Reports on Video Analytics and Face Recognition evaluation publicshed by DRDC </a>
 <br>
 
-Jun.2014: <a href="https://www.nist.gov/itl/iad/image-group/ibpc-2014-presentations">Presentations on Face Recognition Automated Border Control at published at NIST</a>.
+Jun.2014: <a href="https://www.nist.gov/itl/iad/image-group/ibpc-2014-presentations">Presentations on Face Recognition and Automated Border Control published at NIST</a>.
 
 
 
@@ -56,9 +59,15 @@ Jun.2014: <a href="https://www.nist.gov/itl/iad/image-group/ibpc-2014-presentati
 
 I'm a Senior Scientist at the <i>Canada Border Services Agency</i>, 
 and [Adjunct Professor at the University of Ottawa](http://engineering.uottawa.ca/eecs/people/gorodnichy-dmitry),
-working on the applications of *Artificial Intelligence* and *Data Science* for Automated Border Control, Biometrics and Video Analytics.
+working on the applications of *Artificial Intelligence* and *Data Science* for border control.
 
-I have Ph.D. in Mathematics and Computer Science, authored over a hundred of scientific papers and  inventions, including the [Nouse®](www.nouse.ca) (Nose as Mouse) Intelligent Vision Interface, which was featured world-wide and is used for over a decade in Ontario long-care facilities. Among other things, I'm Level 9 gymnast and compose [music](http://gorodnichy.ca/First-Day-Of-Love.htm).
+<!-- Automated Border Control, Biometrics and Video Analytics. -->
+
+I have Ph.D. in Mathematics and Computer Science, authored over a hundred of scientific papers, made several inventions, including the [Nouse®](www.nouse.ca) (Nose as Mouse) Intelligent Vision Interface featured world-wide and used by Ontario long-care facilities, and chaired a number of conferences in Neural Networks and Video Recognition, published by IEEE. 
+
+Among other things, I'm Level 9 gymnast, interpret
+[bosa-nova](http://IVIM.ca/dg/jobim), 
+and compose [music](http://gorodnichy.ca/First-Day-Of-Love.htm).
 
 
 <!-- I am also Adjunct Professor at the <a href="http://engineering.uottawa.ca/eecs/people/gorodnichy-dmitry">University of Ottawa</a> and a co-founder of <a href="http://ivim.ca/">IVIM Inc.</a> - the exclusive provider of <a href="http://www.nouse.ca/">Nouse®</a>, which is the<i> Ontario Ministry of Health and Long-Care</i> recommended mouse alternative technology that I have developed at the National Research Council of Canada. -->
@@ -66,15 +75,16 @@ I have Ph.D. in Mathematics and Computer Science, authored over a hundred of sci
 <!-- This site mirrors <a href="http://www.gorodnichy.ca/">www.gorodnichy.ca</a> and serves to archive information related to my scientific and engineering work.  -->
 
 
-What  you can find here - 
+
+
+
+What  to go from here:
 
 
 - Professional and academic work:  
     * <a href="https://sites.google.com/site/dmitrygorodnichy/projects">Projects and developed technologies </a>   
-         + <a href="https://sites.google.com/site/dmitrygorodnichy/Nouse">Nouse technology publications and history</a>   
-         + <a href="https://sites.google.com/site/dmitrygorodnichy/projects/PhD-PINN/LibPINN">Open Source Associative Neural Network Library</a>    
- 
-
+        + <a href="https://sites.google.com/site/dmitrygorodnichy/Nouse">Nouse technology publications and history</a>   
+        + <a href="https://sites.google.com/site/dmitrygorodnichy/projects/PhD-PINN/LibPINN">Open Source Associative Neural Network Library</a>    
     * <a href="https://sites.google.com/site/dmitrygorodnichy/publications">Publications </a>
     * <a href="https://sites.google.com/site/dmitrygorodnichy/lectures">Lectures and presentations</a> 
     * <a href="https://sites.google.com/site/dmitrygorodnichy/profile">Profile, Awards, Media coverage</a>  
@@ -88,17 +98,18 @@ What  you can find here -
 <a href="https://sites.google.com/site/dmitrygorodnichy/projects/FRiV">Neurons &amp; synapses : From Pavlov dogs to Face Recognition</a></li>
 <li>
 [Interesting facts about Visual Attention and how it is used in Computer Vision](http://www.visioninterface.net/fpiv04/preface.html) </li>
-<li>
-[Beautiful geometry of the human face and its use in automated face recognition](http://www.visioninterface.net/fpiv04/preface.html)</li>
-<li>
+<!-- <li> -->
+<!-- [Beautiful geometry of the human face and its use in automated face recognition](http://www.visioninterface.net/fpiv04/preface.html)</li> -->
+<!-- <li> -->
 <a href="https://sites.google.com/site/dmitrygorodnichy/projects/PhD-AI-vision">Meet "Boticelli" - a single-eye robot that could navigate himself around</a></li>
 <li>
-<a href="https://sites.google.com/site/dmitrygorodnichy/projects/piano-pedagogy">Watch how pianist use their fingers and hands</a> </li></ul>
+<a href="https://sites.google.com/site/dmitrygorodnichy/projects/piano-pedagogy">Watch how pianist use their fingers and hands</a> </li>
+</ul>
 <br>
 
+
 - Elsewhere: 
-    +
-    [Stackoverflow](https://stackoverflow.com/users/6805670/ivim), 
+    + [Stackoverflow](https://stackoverflow.com/users/6805670/ivim), 
 [GitHub](https://github.com/gorodnichy),
 [LinkedIn](http://www.linkedin.com/pub/dmitry-gorodnichy/97/8b5/637),
 [ResearchGate](https://www.researchgate.net/profile/Dmitry_Gorodnichy),

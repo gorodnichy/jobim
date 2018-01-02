@@ -1,0 +1,50 @@
+---
+title: "Dmitry O. Gorodnichy"
+output:
+#  word_document: default - use only html with websites!
+#  pdf_document: default
+  html_document: default
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+
+Song archives
+
+Copyright (R) Dmitry Gorodnichy
+
+
+<div class="col-sm-2">
+
+![Contact: dmitry@gorodnichy.ca](http://www.gorodnichy.ca/music/dmitry_gorodnichy.jpg)
+
+
+</div>
+
+<div class="col-sm-9">
+---
+
+### Archive of songs
+
+TBA
+
+
+</div>
+</div>
+<div class="row">
+
+***
+<center> <font size=-2>
+Copyright © Dmitry O. Gorodnichy <br>
+ Site built using [R Markdown](http://rmarkdown.rstudio.com/rmarkdown_websites.html)
+</font> <center>
