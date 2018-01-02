@@ -2,19 +2,10 @@
 
 # Wave 
 
-<!-- On piano,  -->
-<!-- played by TOM JOBIM & OSCAR PETERSON (1976 BBC & 1986 MONTREAL): -->
-
 <!-- [[embed url="https://youtu.be/e0mEAo3anwI"]] -->
-
-
 
 <embed  src="https://www.youtube.com/embed/e0mEAo3anwI" width="300">
 
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/e0mEAo3anwI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe> -->
-
-<!-- <iframe width="500"  src="https://youtu.be/e0mEAo3anwI" frameborder="0" allowfullscreen></iframe> -->
 
 <!-- iffff -->
 <!-- <iframe width="560" height="315" src="https://youtu.be/e0mEAo3anwI"></iframe> -->
@@ -22,10 +13,6 @@
 
 <!-- WORKS too !-->
 <!-- <object width="360" height="300" data="https://www.youtube.com/embed/e0mEAo3anwI"></object> -->
-
-
-
-
 
 
 <!-- video -->
@@ -451,6 +438,8 @@ A7+
 
 # Vivo sonhado 
 
+<embed src="https://www.youtube.com/embed/WE6EuNgv9s4" width="300">
+
 ## Жить как во сне {-}
 
 <blockquote>
@@ -516,6 +505,8 @@ G6 Gm5+
 
 
 #  A felicidade 
+
+<embed src="https://www.youtube.com/embed/gqhzemroh14" width="300">
 
 ###  Есть радость и печаль {-}
 
@@ -588,7 +579,6 @@ G6 Gm5+
 
 <embed align="center" src="https://www.youtube.com/embed/sT2BloTgw7k" width="300">
 
-sT2BloTgw7k
 ###  вода жизни {-}
 
 
@@ -670,6 +660,7 @@ sT2BloTgw7k
 #  Departure 
 
 
+<embed  src="https://www.youtube.com/embed/e0mEAo3anwI" width="300">
 ##  Разъезд {-}
 
 <blockquote>
