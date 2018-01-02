@@ -54,7 +54,7 @@ cover-image: "images/cover-book-ShriJobim.jpg"
 
 
 
-# Содержание {-}
+# Cover{-}
 
 <center>
 
@@ -76,7 +76,7 @@ Under construction - Links to audio and video to be added.
 <!-- # "Shri Jobim" (IVIM ambraça JOBIM) {#jobim} -->
 
 
- 
+## Table of Content {-}
 
 ### Часть 1: O grand amor{-}
 
@@ -116,13 +116,13 @@ End | + | - | - | +
 
 
 
-### Credits {-}
+## Credits {-}
 
 <!-- Prepared in R.  -->
 
 TBA
 
-### Copyright note {-}
+## Copyright note {-}
 
 Copyright &copy; Dmitry Gorodnichy, IVIM Inc. 1992-2018
         
