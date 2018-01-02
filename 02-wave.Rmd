@@ -1,4 +1,4 @@
-# Часть 2: Волна {-}
+# -- Часть 2: Волна -- {-}
 
 # Wave 
 
@@ -292,7 +292,7 @@ There'll be no more blues           Nothing........                 blues
 
 
 
-#  Favela (O morro não tem vez) 
+#  Favela
 
 <embed  src="https://www.youtube.com/embed/TTRcRFztIJA" width="300">
 
@@ -301,7 +301,7 @@ There'll be no more blues           Nothing........                 blues
 <blockquote>
 
 <cite>
-(Музыка: А. Жобим, Слова: Д. Городничий )
+Музыка: А. Жобим, Слова: Д. Городничий 
 </cite>
 
 <pre>
@@ -604,7 +604,7 @@ G6 Gm5+
 
    Я тебя найду 
    Сколько не пришлось бы мне искать, 
-   Água de beber camará  
+   Água de beber camará.  
    Я узнаю всё 
    что поможет мне тебя узнать.
    Где ты мой учитель, лучший друг и брат?
@@ -621,15 +621,12 @@ G6 Gm5+
    Что никуда не надо мне идти - 
    Лучший мой учитель и есть сама вода.
    
-   И вот, что я узнал у нее:
+   (И вот, что я узнал у нее:)
 
 в человеке все должно быть красивым -  
 слова и мысли, и дела.
 это и есть условием необходимым 
 цели, для которой мама нас родила. 
-
-
-...
 
    Aqua de beber 
    Água de beber camará
@@ -657,10 +654,139 @@ G6 Gm5+
 </blockquote>
 
 
+#Meditation
+
+##  Медитация #22 (Волшебство)
+
+
+<blockquote>
+<cite>
+Музыка: А. Жобим, 
+Слова: Д. Городничий
+</cite> 
+<pre>
+    Тот кто был влюблен, 
+    Кто поднялся выше небес, 
+    Исскуством окрылён,
+           Тот уж никогда 
+           Не захочет, не сможет идти
+           По любому другому пути.
+
+    Кто писал стихи,
+    Кто волшебных мелодий букет 
+    Мог среди звезд найти — 
+          Тот не сможет жить 
+          По-другому уже никогда:
+          Словно воздух — любовь, красота.
+
+Д а й   м н е   Б о г   п о н я т ь ,
+К а к   м и г   п р о з р е н ь я   Л ю д я м   п е р е д а т ь !
+
+    В час, когда один,
+    Когда в море бушуют ветра 
+    И выбьешься из сил,
+          Вспомни, как любил —
+          Окажешься снова ты там,
+          Где царит красота...
+       
+Г д е   б ы   н е   б ы л   я – 
+В с е г д а   с о   м н о ю  р а д о с т ь    б ы т и я.
+
+    2017
+
+    G6 Gº
+    G6 Bm7
+    E7/9-
+
+    Am7 Cm6
+    Bm7 E7/9-
+    Am7 D7/9
+
+    Cmaj7 Cm6
+    Bm7 E7/9- Am7 F#7/5+
+
+    G6 Gº
+    G6 Bm7 E7/9-
+
+    Am7 Cm6
+    Bm7 E7/9- Am7
+    Aº
+    G6
+</pre>
+</blockquote>
+
+
+## Медитация #7 (Выше небес)
+
+<blockquote>
+<cite>
+Музыка: А. Жобим, 
+Слова: Д. Городничий
+</cite> 
+<pre>
+В час когда одна 
+Ты стоишь на распутье дорог, 
+Не зная, где твоя, 
+Ты глаза закрой 
+и представь что ты далеко- 
+далеко за огромной горой.
+
+Там увидишь ты 
+безграничное поле из трав 
+Невиданной красоты. 
+Ты зайди в него - 
+И почувствуешь как легкий бриз 
+вдруг каснётся твоих ресниц.
+
+   Ты вдохни его 
+   и сразу завершится волшебство. 
+
+Вместо слабости 
+И растерянности 
+перед лицом неизвестности 
+Ты вдруг всё поймешь 
+Почему ты на свете живешь 
+И как дальше идти
+
+2017
+</pre>
+</blockquote>
+<!-- Original MEDITAÇÃO -->
+
+
+<!--     Quem acreditou -->
+<!--     No amor, no sorriso, na flor -->
+<!--     Então sonhou, sonhou… -->
+<!--     E perdeu a paz -->
+<!--     O amor, o sorriso e a flor -->
+<!--     Se transformam depressa demais -->
+
+<!--     Quem, no coraçao -->
+<!--     Abrigou a tristeza de ver -->
+<!--     Tudo isto se perder -->
+<!--     E, na solidão -->
+<!--     Procurou um caminho e seguiu, -->
+<!--     Já descrente de um dia feliz -->
+
+<!--     Q u e m c h o r o u , c h o r o u -->
+<!--     E t a n t o q u e -->
+<!--     S e u p r a n t o j á s e c o u -->
+
+<!--     Quem depois voltou -->
+<!--     Ao amor, ao sorriso e à flor -->
+<!--     Então tudo encontrou -->
+
+<!--     E a própria dor -->
+<!--     Revelou o caminho do amor -->
+<!--     E a tristeza acabou. -->
+
+
+
+
 #  Departure 
 
 
-<embed  src="https://www.youtube.com/embed/e0mEAo3anwI" width="300">
+<embed  src="https://www.youtube.com/embed/HOSrPWErNN8" width="300">
 ##  Разъезд {-}
 
 <blockquote>
@@ -691,7 +817,7 @@ G6 Gm5+
 </pre>
 </blockquote>
 
-##  Translation: Departure (`C'est la vie') {-}
+##  Departure {-}
 
 <blockquote>
 <cite>
@@ -726,16 +852,51 @@ As they are mutely echoing to us:
 </blockquote>
 
 
-<!-- ##  Когда {-} -->
+#  End 
 
-<!-- <blockquote> -->
-<!-- <cite> -->
-<!-- Слова: A. Городничий. -->
-<!-- Музыка: Д. Городничий  -->
-<!-- </cite> <pre> Когда  </pre> -->
-<!-- </blockquote> -->
+<embed  src="http://gorodnichy.ca/music/ete/when-I%27m-coming-back-v1.0.mp4" width="300">
 
-# Коментарии {-}
+##  Разница {-}
+
+<blockquote>
+<cite>
+Слова: Андрей Городничий, Музыка: Дмитрий Городничий
+</cite> <pre>
+Когда я через годы приезжаю
+В эти стены что хранили в мои сны,
+то разница как-будто небольшая
+как между черно-белым и цветным.
+
+Крадется сон прохладой предрассветной,
+Его наутро пледом застелю.
+И разница вдруг станет незаметной
+как между "ненавижу" и "люблю".
+
+В открытое окно в пущу листву я
+на подоконник капнет не вода
+и разницы уже не существует
+как между "подожди" и "никогда".
+
+2012
+</pre>
+</blockquote>
+</pre>
+</blockquote>
+
+
+
+<!-- video:   -->
+<!-- http://gorodnichy.ca/music/ete/when-I%27m-coming-back-v1.0.mp4  https://drive.google.com/open?id=1jCa97_K3xIoadR3wlHgyq_aHaRXbJSI0 -->
+
+Аккомпaнимент:  
+[Midi (1)](https://drive.google.com/open?id=1PQtlzIVXUZgbLZPuj6N964yxTFMtmbbL)
+[Midi (2)](https://drive.google.com/file/d/1onWVfM0PAmHmzK_2YBVrBT2cAElPMvRj/view?usp=drivesdk)
+[Midi (3)](https://drive.google.com/file/d/1JavqN9sRUadwzbTS-PFJLyhqne_op4O2/view?usp=drivesdk)
+[Midi (4)](https://drive.google.com/file/d/1jqUneglaCvLuzsBMmtAHp4XI2qblfo14/view?usp=drivesdk)
+[Video](https://drive.google.com/open?id=1lyR1L1y31djsSJQBju4Je0GUkzBIOYAi)
+
+
+# Comments {-}
 
 
 TBD

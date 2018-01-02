@@ -39,7 +39,7 @@ link-citations: yes
 description: "Songbook of Antonio Carlos Jobim songs interpreted bu Dmitry Gorodnichy in Ukrainian and Russian, prepared using R and bookdown"
 github-repo: "gorodnichy/Shri-Jobim"
 url: 'http\://bookdown.org/gorodnichy/Shri-Jobim/'
-cover-image: "images/cover-jobim.jpg"
+cover-image: "images/cover-book-ShriJobim.jpg"
 ---
 
 
@@ -57,7 +57,10 @@ cover-image: "images/cover-jobim.jpg"
 # Содержание {-}
 
 <center>
-<img alt="« Shri Jobim »" border="1" height="500" src="images/cover-jobim.jpg"  />
+
+<!-- [.](images/cover-book-ShriJobim.jpg) -->
+
+<img alt="« Shri Jobim »" border="1" height="500" src="images/cover-book-ShriJobim.jpg"  />
 <!-- <br> -->
 <!-- [Follow this album on Google+](https://plus.google.com/u/1/collection/Eg2aKE) -->
 
@@ -109,12 +112,15 @@ Title | Original | Back track |  Instrumental  | New
 Есть радость и печаль - A felicidade | + | - | - | + 
 вода жизни - Aqua de beber | + | - | - | + 
 Разъезд - Departure | + | - | - | + 
+End | + | - | - | + 
 
 
 
-<!-- ### Credits {-} -->
+### Credits {-}
 
-<!-- TBD -->
+<!-- Prepared in R.  -->
+
+TBA
 
 ### Copyright note {-}
 

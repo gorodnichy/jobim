@@ -4,9 +4,7 @@
 .Ruserdata
 .Rproj.user/
 _bookdown_files/
-_book/
 help/
-_readme.*
 fun/extract.R
 rsconnect/
 rsconnect*/

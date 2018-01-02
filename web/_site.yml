@@ -1,0 +1,19 @@
+name: "Dr. Dmitry O. Gorodnichy"
+navbar:
+  title: "www.gorodnichy.ca"
+  right:
+    - text: "Projects"
+      href: https://sites.google.com/site/dmitrygorodnichy/projects
+    - text: "Publications"
+      href: https://sites.google.com/site/dmitrygorodnichy/publications
+    - text: "Lectures"
+      href: https://sites.google.com/site/dmitrygorodnichy/lectures
+    - text: "Services"
+      href: https://sites.google.com/site/dmitrygorodnichy/services
+    - text: "Profile"
+      href: https://sites.google.com/site/dmitrygorodnichy/profile
+    - text: "Music"
+      href: music.html
+
+
+
