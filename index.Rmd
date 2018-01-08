@@ -40,7 +40,11 @@ output: bookdown::gitbook
 # #    dev: "cairo_pdf"
 # documentclass: book --> ?? No <- causes Error in compiling tex file with Russian letters
 link-citations: yes
+<<<<<<< HEAD
 description: "Antonio Carlos Jobim songs interpreted by Dmitry Gorodnichy"
+=======
+description: "Songbook of Antonio Carlos Jobim songs interpreted by Dmitry Gorodnichy in Ukrainian and Russian, prepared using R"
+>>>>>>> 25a9ab490070fed9f5a6e0d61783e2f7af548547
 github-repo: "gorodnichy/Shri-Jobim"
 url: 'http\://bookdown.org/gorodnichy/Shri-Jobim/'
 cover-image: "images/cover-book-ShriJobim.jpg"
@@ -107,7 +111,23 @@ Title | Original | Backing track  | Interpretation
 
 <!-- Play all originals: video, audio -->
 
+<<<<<<< HEAD
 <!-- Play all instrumental: video, audio -->
+=======
+Title | Original | Backing track |  Instrumental  | New
+----- | :-------------: | :--------: | :------------: | :---: 
+Дисгармония | + | - | - | + |
+Тихим теплым вечером - Корковадо | + | - | - | + |
+Самба одной ноты | + | - | - | + |
+Безчувственный | + | - | - | + |
+Dindi | + | - | - | + |
+Garota de Ipanema | + | - | - | + |
+Медитация 16 () | + | - | - | + 
+Танцую самбу - Só Danço Sambа | + | - | - | + |
+Не уходи - Por causa de voce  | + | - | - | + |
+Я любил - Amor em paz  | + | - | - | + |
+о любовь - O grand amor | + | - | - | + |
+>>>>>>> 25a9ab490070fed9f5a6e0d61783e2f7af548547
 
 <!-- Play all backing tracks: video, audio -->
 

@@ -484,11 +484,19 @@ Bm11
 # Meditation
 
 
+<<<<<<< HEAD
 <embed align="center" src="https://www.youtube.com/embed/wg9V9o5BvaA" width="300"></embed>  
 
 <!-- wg9V9o5BvaA   NlwRqD_hvuE  HGLUgbxlsYA-->
 
 ## Медитация #16 (В грезах любви) {-}
+=======
+<embed align="center" src="https://www.youtube.com/embed/wg9V9o5BvaA" width="300">
+
+<!-- wg9V9o5BvaA   NlwRqD_hvuE  HGLUgbxlsYA-->
+
+## Медитация #16 (О любви) {-}
+>>>>>>> 25a9ab490070fed9f5a6e0d61783e2f7af548547
 <!-- (И ладонь, и улыбка, и взгляд) -->
 
 <blockquote>
@@ -527,6 +535,7 @@ Bm11
 </pre>
 </blockquote>
 
+<<<<<<< HEAD
 <!-- 
 # Aqua de marco
 
@@ -681,6 +690,8 @@ Bm11
 
 -->
 
+=======
+>>>>>>> 25a9ab490070fed9f5a6e0d61783e2f7af548547
 # Só Danço Sambа
 
 <embed align="center" src="https://www.youtube.com/embed/AVk-9LmaM8c" width="300"></embed>  
