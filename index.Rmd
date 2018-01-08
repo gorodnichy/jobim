@@ -1,12 +1,16 @@
 --- 
-# title: "IVIM ambraça JOBIM"
-title: "Shri Jobim"
+#title: "«Ivim ambraça Jobim»"
+title: "«Shri Jobim»"
 # subtitle: "Tribute to Antonio Carlos Jobim in Ukrainian and Russian"
-author: "Дмитрий Городничий"
-#author: "Copyright (R) Dmitry Gorodnichy"
-date: "DRAFT. Last updated: `r Sys.Date()`"
+# subtitle: "Interpretations of Antonio Carlos Jobim songs in Russian"
+# subtitle: "Songs by and inspired by Antonio Carlos Jobim in Russian"
+# subtitle: "Antonio Carlos Jobim songbook"
+# author: "Дмитрий Городничий"
+author: "Dmitry Gorodnichy"
+#author: "Compiled by IVIM"
+# date: "DRAFT. Last updated: `r Sys.Date()`"
 # date: "`r Sys.Date()`"
-# date: "October 2017"
+# date: "31/12/2017"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 # output:
@@ -34,129 +38,100 @@ output: bookdown::gitbook
 #     pandoc_args: --chapters
 #     quote_footer: ["\\begin{flushright}", "\\end{flushright}"]
 # #    dev: "cairo_pdf"
-# documentclass: book
+# documentclass: book --> ?? No <- causes Error in compiling tex file with Russian letters
 link-citations: yes
-description: "Songbook of Antonio Carlos Jobim songs interpreted bu Dmitry Gorodnichy in Ukrainian and Russian, prepared using R and bookdown"
+description: "Antonio Carlos Jobim songs interpreted by Dmitry Gorodnichy"
 github-repo: "gorodnichy/Shri-Jobim"
 url: 'http\://bookdown.org/gorodnichy/Shri-Jobim/'
 cover-image: "images/cover-book-ShriJobim.jpg"
 ---
 
+<!-- <img alt="« Shri Jobim »" border="1" height="500" src="images/cover-book-ShriJobim.jpg"  /> <br>--> 
 
-<!-- # Introduction {-} -->
-
-<!-- ### Ivim ambraça Jobim {-} -->
-
-<!-- ### Cover{-} -->
-
-<!-- Музыка: Antonio Carlos Jobim -->
-<!-- Слова: ДГ -->
+<!-- [Follow this album on Google+](https://plus.google.com/u/1/collection/Eg2aKE)  -->
 
 
+<!-- To be updated Under construction - Links to audio and video to be added. -->
 
 # Cover{-}
 
-<center>
 
-<!-- [.](images/cover-book-ShriJobim.jpg) -->
-
-<img alt="« Shri Jobim »" border="1" height="500" src="images/cover-book-ShriJobim.jpg"  />
-<!-- <br> -->
-<!-- [Follow this album on Google+](https://plus.google.com/u/1/collection/Eg2aKE) -->
-
-
-Under construction - Links to audio and video to be added.
-
-</center>
-
-
-
-<!-- [TOC] -->
-
-<!-- # "Shri Jobim" (IVIM ambraça JOBIM) {#jobim} -->
+![[Follow this album on Google+](https://plus.google.com/u/1/collection/Eg2aKE)](images/cover-jobim.jpg)
 
 
 ## Table of Content {-}
 
-### Часть 1: O grand amor{-}
 
-Title | Original | Backing track |  Instrumental  | New
------ | :-------------: | :--------: | :------------: | :---: 
-Дисгармония | + | - | - | + |
-Тихим теплым вечером - Корковадо | + | - | - | + |
-Самба одной ноты | + | - | - | + |
-Безчувственный | + | - | - | + |
-Dindi | + | - | - | + |
-Garota de Ipanema | + | - | - | + |
-Танцую самбу - Só Danço Sambа | + | - | - | + |
-Не уходи - Por causa de voce  | + | - | - | + |
-Я любил - Amor em paz  | + | - | - | + |
-о любовь - O grand amor | + | - | - | + |
+<!-- Last updated:  31.12.2017 -->
+
+## Part 1: Grand amor {-}
+
+Title | Original | Backing track  | Interpretation
+----- | :-------------: | :--------: | :---: 
+Дисгармония - Desafinado | + | - | - 
+Тихим теплым вечером - Corcovado | + | - | - 
+Самба одной ноты - Samba de uno nota so | + | - | - 
+Безчувственный - Insensatez | + | - | - 
+Dindi | + | - | - 
+Garota de Ipanema | + | - | - 
+Медитация №16 (В грезах любви) - Meditação| + | - | - 
+Танцую самбу - Só Danço Sambа | + | - | - 
+<!-- Не уходи - Por causa de voce  | - | - | -  -->
+<!-- Я любил - Amor em paz  | - | - | -  -->
+<!-- о любовь - O grand amor | - | - | -  -->
 
 
 
 
  
-### Часть 2: Волна {-}
+## Part 2: Ocean {-}
+
 <!-- Title | Lyrics & Chords | Backing track |  Instrumental  | With voice | Live    -->
-Title | Original | Back track |  Instrumental  | New
------ | :-------------: | :--------: | :------------: | :---: 
-Волна - Wave | + | - | - | + 
-Не грусти -  Chega de Saudade  | + | - | - | + 
-Самба пробуждения - Favela| + | - | - | + 
-зачем всё это? - Unútil Paisagem  | + | - | - | + 
-Грустно жить в мире одному - Triste | + | - | - | + 
-Жить как во сне - Vivo sonhado  | + | - | - | + 
-Медитация 1 (выше небес) | + | - | - | + 
-Медитация 22 (Волшебство) | + | - | - | + 
-Есть радость и печаль - A felicidade | + | - | - | + 
-вода жизни - Aqua de beber | + | - | - | + 
-Разъезд - Departure | + | - | - | + 
-End | + | - | - | + 
+<!-- Title | In Portugese | Instrumental | Backing track  | In Russian -->
+<!-- ----- | :-------------: | :--------:  | :---: | :---:  -->
+Title | Original | Backing track  | Interpretation
+----- | :-------------: | :--------: | :---: 
+Волна - Wave | + | - | + 
+Не грусти -  Chega de Saudade  | + | - | - 
+Самба пробуждения - Favela| + | - | - 
+зачем всё это? - Unútil Paisagem  | + | - | - 
+Грустно жить в мире одному - Triste | + | - | - 
+Жить как во сне - Vivo sonhado  | + | - | - 
+Медитация №1 (Выше небес) - Meditação | + | - | - 
+Медитация №22 (Волшебство) - Meditação | + | - | - 
+Есть радость и печаль - A felicidade | + | - | - 
+вода жизни - Aqua de beber | + | - | - 
+Разъезд - Departure | + | + | + 
+Разница | + | + | + 
 
 
+<!-- Play all originals: video, audio -->
 
-## Credits {-}
+<!-- Play all instrumental: video, audio -->
 
-<!-- Prepared in R.  -->
+<!-- Play all backing tracks: video, audio -->
 
-TBA
+<!-- Play all interpretations: video, audio -->
+<!-- ## Credits {-} -->
+
+<!-- Original recording from YouTube -->
+
+<!-- Music by -->
+
+<!-- Lyrics by  -->
+
+<!-- Chords transcribed by  -->
+
+<!-- The books is created using bookdown in R.  -->
+<!-- Backing tracks are created using Chordbot. -->
+
+
 
 ## Copyright note {-}
 
-Copyright &copy; Dmitry Gorodnichy, IVIM Inc. 1992-2018
+Copyright &copy; Dmitry Gorodnichy, IVIM Inc. 1992-2017
         
 All Rights Reserved. 
 All content is protected by the copyright law and may not be copied
 without the expressed permission and the active reference to the source.
         
-
-
-<!-- # Comments {-} 
--->
-
-<!-- TBA  -->
-
-<!-- # Legal note {-} -->
-
-<!-- IVIM respects the intellectual property rights of all content creators, whether their work is affiliated with our site or not. -->
-
-<!-- If you have reason to suspect that your intellectual property rights have been infringed in any way that connects to our site, we strongly advise that you contact our copyright agent with a complaint as soon as possible. We take all violations of the Digital Millennium Copyright Act of 1998 extremely seriously. In order to ensure your complaint remains legitimate under the DMCA, please ensure your copyright complaint contains all of the following information: -->
-
-<!-- A signature, electronic or physical, of an individual who has been authorized to represent you, the copyright holder; -->
-
-<!-- Clear identification of the copyrighted item(s) in question, as well as identification of the work(s) infringing on the copyright holder's intellectual property rights; -->
-
-<!-- Contact information for you, the copyright holder, that BookTwoLives.com can use to contact you, including your full name, telephone number, physical address and e-mail address; -->
-
-<!-- A written letter stating that you, the copyright holder, "in good faith believes that the use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law"; -->
-
-<!-- A written letter stating that all of the information provided in the statement above is wholly accurate, and reaffirming that the writer of said letter has been legally authorized, under penalty of perjury, to represent you, the copyright holder. -->
-
-<!-- Contacting Our Web Site -->
-
-<!-- The statement of complaint that you provide us, containing all of the above information, should be sent to our Designated Copyright Agent. -->
-
-<!-- PLEASE REMEMBER THAT IF YOU CHOOSE TO MISREPRESENT ANY OF THE DETAILS REGARDING AN ALLEGED COPYRIGHT INFRINGEMENT, YOU WILL BE SUBJECT TO SERIOUS CIVIL PENALTIES UNDER FEDERAL LAW, INCLUDING ANY MONETARY DAMAGES, COURT COSTS AND LAWYERS FEES ACCRUED BY US, AND ANY COPYRIGHT HOLDERS OR COPYRIGHT HOLDER'S LICENSEES WHO ARE INJURED IN ANY CAPACITY FOLLOWING OUR RELIANCE ON THE VERACITY OF YOUR REPRESENTATION. YOU COULD ALSO BE CRIMINALLY PROSECUTED FOR ACTS OF PERJURY. -->
-
-<!-- Do not take anything outlined in this document as formal legal advice. For further information on the details required to lodge a formal DMCA notification, please refer to 17 U.S.C. 512(c)(3). -->

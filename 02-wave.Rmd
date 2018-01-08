@@ -1,10 +1,10 @@
-# -- Часть 2: Волна -- {-}
+# Part 2: «Ocean» {-}
 
 # Wave 
 
 <!-- [[embed url="https://youtu.be/e0mEAo3anwI"]] -->
 
-<embed  src="https://www.youtube.com/embed/e0mEAo3anwI" width="300">
+<embed  src="https://www.youtube.com/embed/e0mEAo3anwI" width="300"></embed>  
 
 
 <!-- iffff -->
@@ -74,7 +74,7 @@
 
 
 
-<embed src="https://www.youtube.com/embed/N8RVD7wMsDY" width="300">
+<embed src="https://www.youtube.com/embed/N8RVD7wMsDY" width="300"></embed>  
 
 
 
@@ -142,7 +142,7 @@ Amaj7 Fmaj7/5- A Dbm7 F#7/+5/9- F#7/+5
 
 # Chega de Saudade 
 
-<embed  src="https://www.youtube.com/embed/xWWnrpIwhac" width="300">
+<embed  src="https://www.youtube.com/embed/xWWnrpIwhac" width="300"></embed>  
 
 ## Не грусти {-}
 
@@ -185,7 +185,7 @@ Oсенней тучкой грусть к тебе придет,
 intro( Gm7 A7 Dm Dm/C E7/B Eb/Bb A7 Dm7 Eb79 )
 
 Dm7 E7
-Bbm6 A7 Dm7 Eb79 Dm7 Dm6Am7 
+Bbm6 A7 Dm7 Eb79 Dm7 Dm6Am7
 Bb6
 A7  A7/5+
 Dm7 E7
@@ -194,65 +194,20 @@ Gm7  A7 Dm7 Am/C E7  Bm6  A Dm7  (Em7  A7)
 
 D7M D7/9b E7/9 E(m)7
 A7/9b  Do  D6
-D7M Fº  Em7 
+D7M Fº  Em7
 E7/9 Gm6/Bb A7/9b
 
 D7M(9) Bm7 E7(9)
-F#7 Bm7 Bbm7 Am7 D7/9 G7+Gm7  
-F#m7   B7(13) 
+F#7 Bm7 Bbm7 Am7 D7/9 G7+Gm7
+F#m7   B7(13)
 E79 A74 F#7 B7/9
 E79 A74 D69 C7 B7
 E79 A74 D69 C7 B79-
-E79 A74 D69  
+E79 A74 D69
 outro.
 </pre>
 </blockquote>
 <!------------------------------------------------------>
-<!------------------------------------------------------>
-### No more blues  {-}
-
-<blockquote class="verse">
-
-<pre>
-Dm7                    Bº 
-No more blues     I'm   goin? back home  
-Bbm6    A7          Dm7  
-No, no more blues     I promise no more to roam  
-                E7        Am7                         Bb6 
-Home is where the heart is     The fun and parties  
-                           A7              A7/5+ 
-My heart's been right there all along  
-Dm7                    Bº 
-No more tears    And no more sighs  
-Bbm6               A7    Am6                    D7/9b 
-And no more fears    I?ll say no more good-byes  
-              Gm7        A7   Dm7 
-If travel beckons me      I swear I'm going to refuse  
-                   Bº                   Bm6                         Dm7  (Em7  A7/6 A7/5+) 
-I'm gonna settle down and    there'll be no more blues  
-D7M  B7/5+  E7/9               Em7 
-Everyday while I am far away  
-                          G/A       A7/9b              Do  D7M 
-My thoughts turn homeward, forever homeward  
-                                   Fº                             Em7 
-I've travelled round this world in search of happiness  
-                E7/9                                  G/A    A7/9b 
-But all the happiness I found was in my hometown  
-D7M                         E7/9 
-No more blues      I'm going back home  
-F#7                     Bm7            Bbm7    Am7      
-No, no more blues     I'm through with all my wanderings  
-D7/9    G7M                 Gm7                  F#m7                                     B7(5+) 
-Now I'll settle down and live my life    build a home  and get me a wife 
-                        E7/9             A7                       F#7 
-When we settle down         There'll be no more blues  
- B7/9-                                       E7/9                                          
-Nothing but happiness       When we settle down  
-G/A                     B7/9+      B7/9-                                 D7M/9                    
-There'll be no more blues           Nothing........                 blues
-</pre>
-</blockquote>
-
 
 
 <!-- ### Original lyrics {-} -->
@@ -294,7 +249,7 @@ There'll be no more blues           Nothing........                 blues
 
 #  Favela
 
-<embed  src="https://www.youtube.com/embed/TTRcRFztIJA" width="300">
+<embed  src="https://www.youtube.com/embed/TTRcRFztIJA" width="300"></embed>  
 
 ##  Самба пробуждения {-}
 
@@ -379,13 +334,11 @@ E7 Am
 <!-- cem, mil a batucar -->
 
 
-9-914GyPR6c
-
 # Unútil Paisagem 
 
-<embed  src="https://www.youtube.com/embed/9-914GyPR6c" width="300">
+<embed  src="https://www.youtube.com/embed/9-914GyPR6c" width="300"></embed>  
 
-##  зачем всё это? {-}
+## зачем всё это? {-}
 
 <blockquote>
 <cite>
@@ -438,7 +391,7 @@ A7+
 
 # Vivo sonhado 
 
-<embed src="https://www.youtube.com/embed/WE6EuNgv9s4" width="300">
+<embed src="https://www.youtube.com/embed/WE6EuNgv9s4" width="300"></embed>  
 
 ## Жить как во сне {-}
 
@@ -506,13 +459,13 @@ G6 Gm5+
 
 #  A felicidade 
 
-<embed src="https://www.youtube.com/embed/gqhzemroh14" width="300">
+<embed src="https://www.youtube.com/embed/gqhzemroh14" width="300"></embed>  
 
-###  Есть радость и печаль {-}
+##  Есть радость и печаль {-}
 
 <blockquote>
 <cite>
-(Музыка: А. Жобим, Слова: Д. Городничий, не оконченa )
+Музыка: А. Жобим, Слова: Д. Городничий
 </cite> <pre> 
 Есть радость и печаль 
 Живи и замечай. 
@@ -575,11 +528,11 @@ G6 Gm5+
 <!-- </pre> -->
 <!-- </blockquote> -->
 
-#  Aqua de beber
+# Aqua de beber
 
-<embed align="center" src="https://www.youtube.com/embed/sT2BloTgw7k" width="300">
+<embed align="center" src="https://www.youtube.com/embed/sT2BloTgw7k" width="300"></embed>  
 
-###  вода жизни {-}
+## вода жизни {-}
 
 
 <blockquote>
@@ -656,12 +609,12 @@ G6 Gm5+
 #Meditation
 
 
-<embed align="center" src="https://www.youtube.com/embed/HGLUgbxlsYA" width="300">
+<embed align="center" src="https://www.youtube.com/embed/HGLUgbxlsYA" width="300"></embed>  
 
 <!-- wg9V9o5BvaA   NlwRqD_hvuE  HGLUgbxlsYA-->
 
 
-##  Медитация #22 (Волшебство)
+##  Медитация #22 (Волшебство) {-}
 
 
 <blockquote>
@@ -684,8 +637,8 @@ G6 Gm5+
           По-другому уже никогда:
           Словно воздух — любовь, красота.
 
-Д а й   м н е   Б о г   п о н я т ь ,
-К а к   м и г   п р о з р е н ь я   Л ю д я м   п е р е д а т ь !
+Дай мне Бог понять,
+Как миг прозренья Людям передать!
 
     В час, когда один,
     Когда в море бушуют ветра 
@@ -694,10 +647,10 @@ G6 Gm5+
           Окажешься снова ты там,
           Где царит красота...
        
-Г д е   б ы   н е   б ы л   я – 
-В с е г д а   с о   м н о ю  р а д о с т ь    б ы т и я.
+Где бы не был я – 
+Всегда со мною радость бытия..
 
-    2017
+2017
 
     G6 Gº
     G6 Bm7
@@ -721,7 +674,7 @@ G6 Gm5+
 </blockquote>
 
 
-## Медитация #7 (Выше небес)
+## Медитация #7 (Выше небес) {-}
 
 <blockquote>
 <cite>
@@ -758,45 +711,6 @@ G6 Gm5+
 </blockquote>
 
 
-### Медитация #16 
-<!-- (И ладонь, и улыбка, и взгляд) -->
-
-<blockquote>
-<cite>
-Музыка: А. Жобим, 
-Слова: Андрей Городничий
-</cite> 
-<pre>
-Так не мог никто: 
-Утром ждал, днём встречал, ночь писал,
-Вновь скомкав свой листок;
-
-        Ей цветы дарил
-        И стихи сочинял и читал —
-        О любви только не говорил!
-
-Выпала роса
-Под окном, где стоять был рад
-В мечтаньях два часа:
-
-        Ведь она вчера
-        И ладонь, и улыбку, и взгляд
-        Доверяла ему как сестра!
-
-                Пульс остановив,
-                Решил, что ей 
-                Признается в любви!
-
-Лишь заснул к утру:
-Снился с мамой её разговор,
-Что он ей — лучший друг;
-
-        И сошёл с ума,
-        Когда имя его на весь двор
-        Прокричала сама…
-</pre>
-</blockquote>
-
 <!-- Original MEDITAÇÃO -->
 
 
@@ -831,8 +745,42 @@ G6 Gm5+
 
 #  Departure 
 
+<!-- 
+<blockquote>
+<cite>
+Music and lyrics: Dmitry Gorodnichy
+</cite> 
+<pre>
+When a farewell tear 
+Will cover with a sad mist our goodbyes,
+Try to forgive me words that you will hear,
+'Cause very likely it's the last time you look in my eyes.
 
-<embed  src="https://www.youtube.com/embed/HOSrPWErNN8" width="300">
+It`s only through the haze of rushing days
+That you'll be able to recall my name.
+But, oh, this haze is getting thicker, I should say,
+With every, every, every single day.
+
+R:     Departure is a tearing of the life!
+       It is so sad, so cruel, inevitable it is!
+       But we did know about it, both you and I,
+       as we have had and lost some already friends before this.
+
+And there's no need to search for words, no need,
+For they are useless. -  You just listen by yourself
+How fallen leaves are rustling below your feet.
+As they are mutely echoing to us:
+`It's just the way the life is'
+(`C'est la vie').
+
+1996, Edmonton
+
+</pre>
+</blockquote>
+
+-->
+
+<embed  src="https://www.youtube.com/embed/HOSrPWErNN8" width="300"></embed>  
 ##  Разъезд {-}
 
 <blockquote>
@@ -857,50 +805,22 @@ G6 Gm5+
 И мне не нужно подбирать слова. 
 Они бессильны. - Ты послушай сам, 
 Как под ногами шелестит опавшая листва, 
-безвучно повторяя нам: "Жизнь такова..." 
+безвучно повторяя нам: "Жизнь такова"...
 
 1992, Moscow-Kiev
 </pre>
 </blockquote>
 
-##  Departure {-}
-
-<blockquote>
-<cite>
-Music and lyrics: Dmitry Gorodnichy
-</cite> 
-<pre>
-When a farewell tear 
-Will cover with a sad mist our goodbyes,
-Try to forgive me words that you will hear,
-'Cause very likely it's the last time you look in my eyes.
-
-It`s only through the haze of rushing days
-That you'll be able to recall my name.
-But, oh, this haze is getting thicker, I should say,
-With every, every, every single day.
-
-R:     Departure - is a tearing of the life!
-       It is so sad, so cruel, inevitable it is!
-       But we did know about it, both you and I,
-       as we have had and lost some already friends before this.
-
-And there's no need to search for words, no need,
-For they are useless. -  You just listen by yourself
-How fallen leaves are rustling below your feet.
-As they are mutely echoing to us:
-`It's just the way the life is'
-(`C'est la vie').
-
-1996, Edmonton
-
-</pre>
-</blockquote>
 
 
 #  End 
 
-<embed  src="http://gorodnichy.ca/music/ete/when-I%27m-coming-back-v1.0.mp4" width="300">
+
+<embed  src="https://www.youtube.com/embed/eMCzn4p3Ftk" width="300"></embed>  
+
+
+
+<!-- Video: http://gorodnichy.ca/music/ete/when-I%27m-coming-back-v1.0.mp4 -->
 
 ##  Разница {-}
 
@@ -934,18 +854,32 @@ As they are mutely echoing to us:
 <!-- video:   -->
 <!-- http://gorodnichy.ca/music/ete/when-I%27m-coming-back-v1.0.mp4  https://drive.google.com/open?id=1jCa97_K3xIoadR3wlHgyq_aHaRXbJSI0 -->
 
-Аккомпaнимент:  
-[Midi (1)](https://drive.google.com/open?id=1PQtlzIVXUZgbLZPuj6N964yxTFMtmbbL)
-[Midi (2)](https://drive.google.com/file/d/1onWVfM0PAmHmzK_2YBVrBT2cAElPMvRj/view?usp=drivesdk)
-[Midi (3)](https://drive.google.com/file/d/1JavqN9sRUadwzbTS-PFJLyhqne_op4O2/view?usp=drivesdk)
-[Midi (4)](https://drive.google.com/file/d/1jqUneglaCvLuzsBMmtAHp4XI2qblfo14/view?usp=drivesdk)
+Аккомпaнимент:
+[Midi](https://drive.google.com/open?id=1PQtlzIVXUZgbLZPuj6N964yxTFMtmbbL), 
+<!-- [Midi (2)](https://drive.google.com/file/d/1onWVfM0PAmHmzK_2YBVrBT2cAElPMvRj/view?usp=drivesdk) -->
+<!-- [Midi (3)](https://drive.google.com/file/d/1JavqN9sRUadwzbTS-PFJLyhqne_op4O2/view?usp=drivesdk) -->
+<!-- [Midi (4)](https://drive.google.com/file/d/1jqUneglaCvLuzsBMmtAHp4XI2qblfo14/view?usp=drivesdk) -->
 [Video](https://drive.google.com/open?id=1lyR1L1y31djsSJQBju4Je0GUkzBIOYAi)
 
 
-# Comments {-}
+<!-- <video> -->
+<!--  <video width="320" height="240"> -->
+<!--   <source src="http://gorodnichy.ca/music/ete/when-I%27m-coming-back-v1.0.mp4" type="video/mp4"> -->
+<!-- Your browser does not support the video tag. -->
+<!-- </video> -->
 
 
-TBD
+<center>
+<br>
+
+<!-- **End** -->
+
+**--- ॐ --- **
+</center>
+<!-- # Comments {-} -->
+
+
+<!-- TBA -->
 
 
 
