@@ -1,0 +1,124 @@
+---
+title: "Dmitry O. Gorodnichy"
+output:
+  html_document: default
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+# Part 1: Grand amor {-}
+
+
+# Desafinado
+
+
+```{r echo=FALSE} 
+#encoding = "utf-8"
+#Sys.setlocale("LC_CTYPE", "russian")
+
+text <- "
+Жизнь моя похожа на мелодию 
+Любовь к тебе в ней создает гармонию 
+"
+print(text)
+
+```
+
+
+<!-- João Gilberto (1985) | Люда Городничая (2001) -->
+<!-- ----- | ------------- -->
+
+
+<!-- João Gilberto (1975)    -->
+<!-- <embed align="center" src="https://www.youtube.com/embed/n81JA6xSbcs" width="300"></embed>   -->
+
+<!-- Люда Городничая (2001)   -->
+<!-- <embed align="center" src="https://www.youtube.com/embed/phoncqrWLv4" width="300"></embed> -->
+
+
+## Дисгармония {-}
+
+<blockquote>
+<cite>
+Музыка: А. Жобим, Слова: Д. Городничий
+</cite>
+<pre>
+
+2012
+
+F7M G7/5- 
+Gm7 C9 Am7/5- D9- 
+Gm7 A9- D7M9 D9- 
+G7 G7 Gb7M Gb7/5-
+
+
+F7M G7/5- Gm7 C9 Am7/5- D9- 
+Gm7 A11/5+ Dm7(/4) E7 
+A7M A11/5+ G13 Gb7
+
+
+A7M Bb° Hm7 E6/9-
+A7M Am9 Bm11(/5-) Bb7/5-
+C7/5+ Db° Dm7 G13
+Gm7 Ebm6 Gm7 C9- 
+
+F7M G7/5- 
+Gm7 C9 
+Am7/5- D9- 
+Bb7M Bbm6 Am7 Ab°
+G7 Gb7/5+ 
+Gb7/5+ 
+G7 Gm7 C7 F C9- F6 F7M11+
+
+</pre>
+</blockquote>
+
+
+
+
+<div markdown="1" align="center" style="padding-right:48px;">
+wqeqweqwewqe
+</div><br>
+
+
+<table width="600" border="0" cellspacing="10" cellpadding="0">
+  <tbody>
+    <tr>
+      <td width="100">In Portuguese</td>
+      <td width="300px;"><audio controls>  
+      <source src="media/audio/air-to-breath-4-4.mid"></audio></td>
+            <td width="300px;"><video controls>  
+      <source src="media/video/when-I'm-coming-back-v1.0.mp4"></video></td>
+    </tr>
+    
+    <tr>
+      <td width="100">Instrumental</td>
+      <td width="300px;"><audio controls>  
+      <source src="media/audio/Dmitry_Gorodnichy-03-DEPARTURE.mp3"></audio></td>
+    </tr>
+        <tr>
+      <td width="100">Instrumental</td>
+      <td width="300px;"><video controls>  
+      <source src="media/video/03-ksp-gorodnichy-raz'ezd.wmv"></video></td>
+    </tr>
+
+  </tbody>
+</table>
+
+sdasdasd | sdasdas 
+-------- | -------
+<audio controls><source src="media/audio/air-to-breath-4-4.mid"></audio>|<audio controls><source src="media/audio/Dmitry_Gorodnichy-03-DEPARTURE.mp3"></audio>
+<video controls><source src="media/video/when-I'm-coming-back-v1.0.mp4"></video>|<video controls> <source src="media/video/03-ksp-gorodnichy-raz'ezd.wmv"></video>
+      
+      
+asdasd
+      
