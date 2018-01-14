@@ -1,19 +1,19 @@
----
-title: "Dmitry O. Gorodnichy"
-output:
-  html_document: default
----
-
-<style type="text/css">
-.title {
-  display: none;
-}
-
-#getting-started img {
-  margin-right: 10px;
-}
-
-</style>
+<!-- # --- -->
+<!-- # title: "Dmitry O. Gorodnichy" -->
+<!-- # output: -->
+<!-- #   html_document: default -->
+<!-- # --- -->
+<!-- # -->
+<!-- # <style type="text/css"> -->
+<!-- # .title { -->
+<!-- #   display: none; -->
+<!-- # } -->
+<!-- # -->
+<!-- # #getting-started img { -->
+<!-- #   margin-right: 10px; -->
+<!-- # } -->
+<!-- # -->
+<!-- # </style> -->
 
 # Part 1: Grand amor {-}
 
@@ -24,12 +24,16 @@ output:
 ```{r echo=FALSE} 
 #encoding = "utf-8"
 #Sys.setlocale("LC_CTYPE", "russian")
+Sys.setlocale("LC_CTYPE", "english")
 
 text <- "
 Жизнь моя похожа на мелодию 
 Любовь к тебе в ней создает гармонию 
 "
 print(text)
+
+library(knitr);library(wrapr);
+dtSongInfo %>% kable
 
 ```
 

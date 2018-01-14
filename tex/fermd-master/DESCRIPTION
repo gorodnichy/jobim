@@ -1,0 +1,9 @@
+Package: fermd
+Title: Markdown Template
+Version: 0.0.0.9000
+Authors@R: person("Maxim", "Kochurov", email = "maxim.v.kochurov@gmail.com", role = c("aut", "cre"))
+Description: Russian R Markdown preconfigured Template
+Encoding: UTF-8
+LazyData: true
+Remotes: github::krlmlr/rprojroot, github::bdemeshev/tikzsetup
+Depends: knitr, stargazer, rprojroot, tikzsetup

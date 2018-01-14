@@ -1,0 +1,188 @@
+--- 
+title: "«TEST Дмитрий»"
+# subtitle: "Дмитрий in Ukrainian and Russian"
+author: "Дмитрий Городничий"
+date: "31/12/2017"
+lang: russian
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+# output: 
+#   bookdown::gitbook:
+#     includes:
+# #      in_header: html_header.html  # uncomment for javascript-pulldowns
+#     config:
+#       toc:
+#           collapse: section
+#           scroll_highlight: yes
+#           before: | <li><a href="http://gorodnichy.ca">Dmitry O. Gorodnichy</a></li> # null
+#           after: | <li><a href="http://gorodnichy.ca">2018</a></li> #null
+#       edit: https://github.com/Tazinho/Advanced-R-Solutions/edit/master/%s
+# 
+# output:
+#   bookdown::pdf_book:
+# #    template: tex/template_journal.tex
+#     template: tex/template_thesis_classic.tex
+#     keep_tex: yes
+#     citation_package: natbib
+# #    latex_engine: xelatex
+#     toc_depth: 2
+#     toc_unnumbered: yes
+#     toc_appendix: yes
+#     pandoc_args: --chapters
+#     quote_footer: ["\\begin{flushright}", "\\end{flushright}"]
+# #    dev: "cairo_pdf"
+# documentclass: book
+# link-citations: yes
+# description: "Antonio Carlos Jobim songs interpreted by Dmitry Gorodnichy"
+# github-repo: "gorodnichy/Shri-Jobim"
+# url: 'http\://bookdown.org/gorodnichy/Shri-Jobim/'
+# cover-image: "images/cover-book-ShriJobim.jpg"
+---
+
+
+# Table of Content 
+
+oo0
+
+---
+
+
+
+
+<!-- ```{r setup, include=FALSE} -->
+<!-- knitr::opts_chunk$set(echo = TRUE) -->
+<!-- ``` -->
+
+## testing Волна bukvy
+
+
+```{r d7test, echo=F}
+
+require(magrittr);library(wrapr); library(data.table);
+library(knitr)
+
+
+Sys.getlocale("LC_CTYPE") # "English_Canada.1252"
+getOption("encoding"); #"native.enc"
+
+dd.kable <- function (dt) {
+  str <- "| "; for(i in 1:ncol(dt))  str <- paste0(str,names(dt)[i]," | ") ; print(str)
+  str <- "| "; for(i in 1:ncol(dt))   str <- paste0(str,":--------:", " | "); print(str)
+  for(r in 1:nrow(dt)){
+    str <- "| "; 
+    for(i in 1:ncol(dt)) str <- paste0(str,dt[i,r,with=F]," | ");
+    print(str)
+  }
+}
+
+
+
+#dtSongInfo - template
+dtSongInfo <- data.table(
+  album="jobim",
+  id="0",
+  title.short="placeholder - Волна", # or list of
+  title.full="placeholder",
+  title.long="placeholder-Волна- Волна", # quote ??
+  language="rus",
+  author.lyrics="DG",
+  author.music="DG", #
+  chords = "Am 4/4, E7 4/4",
+  text.eng="wave",
+  text.rus="Волна"
+)
+
+dtSongInfo
+
+dtSongInfo %>% dd.kable 
+
+```
+
+
+
+```{r echo=F} 
+
+text <- "
+Жизнь моя похожа на мелодию 
+Любовь к тебе в ней создает гармонию 
+ 
+
+"
+
+text
+
+
+print(text,encoding = "utf-8")
+
+iconv(text, "ISO_8859-2", "UTF-8")
+iconv(text, "ISO_8859-2", "windows-1251")
+iconv(text, "UTF-8", "windows-1251") # "Âîëíà"
+
+iconv(text, "UTF-8", "UTF-8") #"Волна"
+
+
+
+options(encoding = 'native.enc')
+options(encoding = 'UTF-8')
+
+dtSongInfo <- data.table(
+  album=c("Волна00000","Волна0000022222"),
+  text.rus=c("ВолнаВолна1111","ВолнаВолна7777") # it appears that when I paste  from web,it still saves in UTF-8.
+)
+
+dtSongInfo$album # "Волна"
+dtSongInfo # <U+0412><U+043E><U+043B><U+043D><U+0430>
+print(dtSongInfo,encoding="windows-1251"); print(dtSongInfo,encoding="UTF-8") #no effect
+dtSongInfo %>% kable() # <U+0412><U+043E><U+043B><U+043D><U+0430>
+
+#however is do the same with
+Sys.setlocale("LC_CTYPE", "russian") #"Russian_Russia.1251"
+# I get Âîëíà !!
+# and then I can this, and it works!
+
+str <- dtSongInfo$album
+iconv(str, "windows-1251", "UTF-8") #"Волна"
+
+cols <- names(dtSongInfo)
+colsRUS <- paste0(cols,".new")
+dtSongInfo[, lapply(.SD,function(x) {iconv(x, "windows-1251", "UTF-8")}), .SDcols=cols]
+
+
+
+#way 1b ####
+
+
+options(encoding='windows-1251') # ==> use this one
+dtSongInfo <- data.table(
+  album="Волна",
+  text.rus="ВолнаВолнаВолнаВолна" # it appears that when I paste  from web,it still saves in UTF-8.
+)
+
+
+dtSongInfo$album # "Волна"
+dtSongInfo # <U+0412><U+043E><U+043B><U+043D><U+0430>
+print(dtSongInfo,encoding="windows-1251"); print(dtSongInfo,encoding="UTF-8") #no effect
+
+
+options(encoding='windows-1251') # ==> use this one
+
+#way 2  lSongInfo <- list(); ####
+
+lSongInfo <- list();
+lSongInfo$album="ВолнаLLLL"
+lSongInfo$text="ВолнаLLLВолнаВолнаВолна" # it appears that when I paste  from web,it still saves in UTF-8.
+
+lSongInfo # ok
+
+lSongInfo %>% kable()
+
+dtSongInfo$album
+dtSongInfo
+print(dtSongInfo,encoding="windows-1251"); print(dtSongInfo,encoding="UTF-8") #no effect
+
+
+
+```
+
+
+

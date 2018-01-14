@@ -1,0 +1,43 @@
+---
+title: "Title"
+author: "Author"
+date: \today
+lang: russian
+graphics: yes
+fontsize: 12pt
+papersize: a4paper
+geometry: top=1.5cm, bottom=1.5cm, left=2cm, right=1cm
+output:
+  pdf_document:
+    toc: yes
+    keep_tex: yes
+    fig_caption: yes
+    template: style.tex
+    pandoc_args: [
+                   "--variable", "latex_engine:xelatex" 
+                 ]
+# custom packages for LaTeX
+header-includes:
+  - \usepackage{tikz}
+---
+
+```{r, include=FALSE}
+library(knitr)
+library(stargazer)
+#tikzsetup::tikzsetup()
+opts_chunk$set(cache=TRUE, echo=FALSE,
+               warning=FALSE)
+root <- rprojroot::is_rstudio_project
+```
+
+
+ZD
+DZZ
+ZX
+Z
+D
+
+
+ZXDZD
+D
+D

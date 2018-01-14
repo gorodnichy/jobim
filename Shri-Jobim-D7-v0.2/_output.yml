@@ -6,7 +6,7 @@ bookdown::gitbook:
       before: |
         <li><a href="http://gorodnichy.ca">Dmitry O. Gorodnichy</a></li>
       after: |
-        <li><a href="https://github.com/gorodnichy/Shri-Jobim"   target="blank">
+        <li><a href="https://github.com/gorodnichy/Shri-Jobim2"   target="blank">
         Produced using R</a></li>
         <li><a href="https://www.IVIM.ca"   target="blank">
         Gorodnichy, IVIM Inc. &copy; 2017 </a></li>
