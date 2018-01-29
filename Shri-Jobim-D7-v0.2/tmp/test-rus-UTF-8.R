@@ -1,6 +1,37 @@
-library(rjson);library(ggplot2);require(magrittr);
+
 library(knitr)
-require(magrittr);library(wrapr); library(data.table);
+print(sessionInfo())
+Sys.getlocale("LC_CTYPE") # "English_Canada.1252"
+getOption("encoding"); #"native.enc"
+
+
+
+Sys.setlocale("LC_CTYPE", "russian") #"Russian_Russia.1251"
+options(encoding = 'UTF-8')
+
+
+
+dt <- data.frame(
+  name=c("Борис Немцов","Martin Luter King"),
+  year=c("2015","1968")
+)
+
+dt$name;
+dt; kable(dt)
+print(dt,encoding="windows-1251"); print(dt,encoding="UTF-8") #no effect
+
+dt$name <- enc2utf8(as.character(dt$name))
+dt; kable(dt)
+
+
+
+#####################################33 #
+
+library(rjson);library(ggplot2);require(magrittr);library(wrapr);
+library(knitr)
+require(magrittr);library(data.table);
+
+print(sessionInfo())
 
 #File: testing to undertand how russian coding is done Windows vs. Rstudio vs. data.table / kable
 
@@ -8,9 +39,53 @@ require(magrittr);library(wrapr); library(data.table);
 
 # http://blog.rolffredheim.com/2013/01/r-and-foreign-characters.html
 
+Encoding(colnames(YOURDATAFRAME)) <- "UTF-8"
+Encoding(dtInfo) <- "UTF-8"
+
 # how to UTF-8 to 1251 in R
 # https://tomizonor.wordpress.com/2013/04/17/file-utf8-windows/
 # https://www.smashingmagazine.com/2012/06/all-about-unicode-utf8-character-sets
+
+
+Sys.setlocale(,"russian")
+Sys.setlocale(,"ru_RU")
+
+
+#[1] "ru_RU/ru_RU/ru_RU/C/ru_RU/C"
+test1 = c("привет","пока")
+
+write(test1, file="test2.txt")
+
+
+
+#THIS WORKS ####
+Sys.setlocale("LC_CTYPE", "russian") #"Russian_Russia.1251"
+options(encoding = 'UTF-8')
+
+test2 = enc2utf8(c("привет","пока"))
+write(test2, file="test2.txt")
+
+dtInfo <- data.table(
+  album=enc2utf8(c("Волна","Волна2")),
+  text=c("ВолнаВолна","ВолнаВолна33") # it appears that when I paste  from web,it still saves in UTF-8.
+)
+
+dtInfo # <U+0412><U+043E><U+043B><U+043D><U+0430>
+dtInfo$album # "Волна"
+dtInfo$text # "Волна"
+dtInfo # <U+0412><U+043E><U+043B><U+043D><U+0430>
+print(dtInfo,encoding="windows-1251"); print(dtInfo,encoding="UTF-8") #no effect
+dtInfo %>% kable() # <U+0412><U+043E><U+043B><U+043D><U+0430>
+
+
+
+
+brr2rus <- function(x) { #<U+041D>  <=> Н
+  as.character(parse(text = shQuote(gsub("<U\\+([A-Z0-9]+)>", "\\\\u\\1",x))))
+}
+
+as.character(parse(text = shQuote(gsub("<U\\+([A-Z0-9]+)>", "\\\\u\\1", "<U+041D>"))))
+
 
 ############################################ #
 # test 1: Sys.setlocale and l10n_info ? ####
@@ -37,46 +112,47 @@ options(encoding = 'native.enc')
 options(encoding = 'UTF-8')
 options(encoding='windows-1251') # ==> use this one
 
-#way 1a dtSongInfo  ####
+#way 1a dtInfo  ####
 
 options(encoding = 'native.enc')
 options(encoding = 'UTF-8')
 
-dtSongInfo <- data.table(
-  album=c("Волна","Волна2"),
-  text.rus=c("ВолнаВолна","ВолнаВолна33") # it appears that when I paste  from web,it still saves in UTF-8.
+dtInfo <- data.table(
+  album=enc2utf8(c("Волна","Волна2")),
+  text=c("ВолнаВолна","ВолнаВолна33") # it appears that when I paste  from web,it still saves in UTF-8.
 )
 
-dtSongInfo$album # "Волна"
-dtSongInfo # <U+0412><U+043E><U+043B><U+043D><U+0430>
-print(dtSongInfo,encoding="windows-1251"); print(dtSongInfo,encoding="UTF-8") #no effect
-dtSongInfo %>% kable() # <U+0412><U+043E><U+043B><U+043D><U+0430>
+dtInfo$album # "Волна"
+dtInfo$text # "Волна"
+dtInfo # <U+0412><U+043E><U+043B><U+043D><U+0430>
+print(dtInfo,encoding="windows-1251"); print(dtInfo,encoding="UTF-8") #no effect
+dtInfo %>% kable() # <U+0412><U+043E><U+043B><U+043D><U+0430>
 
 #however is do the same with
 Sys.setlocale("LC_CTYPE", "russian") #"Russian_Russia.1251"
 # I get Âîëíà !!
 # and then I can this, and it works!
 
-str <- dtSongInfo$album
+str <- dtInfo$album
 iconv(str, "windows-1251", "UTF-8") #"Волна"
 
-cols <- names(dtSongInfo)
+cols <- names(dtInfo)
 colsRUS <- paste0(cols,".new")
-dtSongInfo[, lapply(.SD,function(x) {iconv(x, "windows-1251", "UTF-8")}), .SDcols=cols]
+dtInfo[, lapply(.SD,function(x) {iconv(x, "windows-1251", "UTF-8")}), .SDcols=cols]
 
 
 #way 1b ####
 
 options(encoding='windows-1251') # ==> use this one
-dtSongInfo <- data.table(
+dtInfo <- data.table(
   album="Волна",
   text.rus="ВолнаВолнаВолнаВолна" # it appears that when I paste  from web,it still saves in UTF-8.
 )
 
 
-dtSongInfo$album # "Волна"
-dtSongInfo # <U+0412><U+043E><U+043B><U+043D><U+0430>
-print(dtSongInfo,encoding="windows-1251"); print(dtSongInfo,encoding="UTF-8") #no effect
+dtInfo$album # "Волна"
+dtInfo # <U+0412><U+043E><U+043B><U+043D><U+0430>
+print(dtInfo,encoding="windows-1251"); print(dtInfo,encoding="UTF-8") #no effect
 
 
 options(encoding='windows-1251') # ==> use this one
@@ -91,9 +167,9 @@ lSongInfo # ok
 
 lSongInfo %>% kable()
 
-dtSongInfo$album
-dtSongInfo
-print(dtSongInfo,encoding="windows-1251"); print(dtSongInfo,encoding="UTF-8") #no effect
+dtInfo$album
+dtInfo
+print(dtInfo,encoding="windows-1251"); print(dtInfo,encoding="UTF-8") #no effect
 
 
 
@@ -102,9 +178,9 @@ print(dtSongInfo,encoding="windows-1251"); print(dtSongInfo,encoding="UTF-8") #n
 
 
 options(encoding = 'UTF-8') # "Aieia". With Sys.setlocale("LC_CTYPE", "english") - "?????"
-Sys.setlocale("LC_CTYPE", "russian"); options(encoding = 'UTF-8'); dtSongInfo #"Aieia".
-Sys.setlocale("LC_CTYPE", "russian"); options(encoding = 'windows-1251'); dtSongInfo #"Aieia".
-Sys.setlocale("LC_CTYPE", "english"); options(encoding = 'UTF-8'); dtSongInfo #<U+0412><U+043E><U+043B><U+043D>
+Sys.setlocale("LC_CTYPE", "russian"); options(encoding = 'UTF-8'); dtInfo #"Aieia".
+Sys.setlocale("LC_CTYPE", "russian"); options(encoding = 'windows-1251'); dtInfo #"Aieia".
+Sys.setlocale("LC_CTYPE", "english"); options(encoding = 'UTF-8'); dtInfo #<U+0412><U+043E><U+043B><U+043D>
 
 
 # test 4: convert a character vector between encodings####
@@ -128,11 +204,11 @@ iconv(str, "UTF-8", "windows-1251") %>%
 
 # test 5:  apply it !
 
-dtSongInfo %>%  kable
-#dtSongInfo %>% kable (encoding = "utf-8")
+dtInfo %>%  kable
+#dtInfo %>% kable (encoding = "utf-8")
 
 
-dt <- dtSongInfo
+dt <- dtInfo
 
 dd.kable <- function (dt) {
   str <- "| "; for(i in 1:ncol(dt))  str <- paste0(str,names(dt)[i]," | ") ; print(str)
@@ -145,16 +221,16 @@ dd.kable <- function (dt) {
 }
 
 str
-paste0("|", dtSongInfo$album, "|", dtSongInfo$text.rus , "|")
+paste0("|", dtInfo$album, "|", dtInfo$text.rus , "|")
 
-#To achieve the same effect as dtSongInfo %>%  kable:
+#To achieve the same effect as dtInfo %>%  kable:
 
-paste0("|", dtSongInfo$album, "|", dtSongInfo$text.rus , "|")
+paste0("|", dtInfo$album, "|", dtInfo$text.rus , "|")
 
 paste0("  # This works !
-|", dtSongInfo$album, "|", dtSongInfo$text.rus , "|
-|", dtSongInfo$album, "|", dtSongInfo$text.rus , "|
-|", dtSongInfo$album, "|", dtSongInfo$text.rus , "|")
+|", dtInfo$album, "|", dtInfo$text.rus , "|
+|", dtInfo$album, "|", dtInfo$text.rus , "|
+|", dtInfo$album, "|", dtInfo$text.rus , "|")
 
 
 
@@ -173,8 +249,8 @@ markdown::markdownToHTML("index.md", "index2-1251-.html")
 browseURL(paste("file://", file.path(getwd(), "test.html"), sep = ""))
 
 
-#dtSongInfo - template
-dtSongInfo <- data.table(
+#dtInfo - template
+dtInfo <- data.table(
   album="?????",
   id="111",
   title.short="placeholder - ?????", # or list of
@@ -209,7 +285,7 @@ dtSongRecording <- data.table(
 dtAlbum - data.table(title.short, title.full)
 
 #Way 1
-song <- dtSongInfo
+song <- dtInfo
 #Or Way 3 (best?) as csongInfo ? Class
 
 
@@ -237,83 +313,5 @@ song <- data.table(song)
 kable(song[,.(title.long,text.eng)])
 kable(song[,.(title.long,text.rus)])
 
-song$text.rus
-
-# old.locale <- Sys.setlocale()
-# Sys.setlocale("LC_CTYPE", "russian")
-# Sys.setlocale(old.locale)
-#
-# encoding = "utf-8"
-# Sys.setlocale("LC_CTYPE", "russian")
-# knit("test.rmd", encoding = "utf-8")
 
 
-  ????? - Wave
-(??????: ?. ?????, ?????: ?. ?????????? )
-
-if (T) {
-text <- "
-Закрой глаза -
-И ты увидишь мир таким,
-Каким он будет, есть и был,
-Солнцем храним,
-И все твои волнения вдруг
-Рассеются как волны в океане.
-"
-}
-
-2017
-
-Wave
-
-DM7     Bdim                  Am7  D7b9
-Vou te contar, os olhos ja nao podem ver
-GM7      Gm6           F#13 F#75+ B9 B7b9
-Coisas que so o coracao pode entender
-E9
-Fundamental e' mesmo o amor
-Bb7  A7          Dm7   A75+
-E' impossivel ser feliz sozinho
-
-DM7     Bdim                 Am7  D7b9
-O resto e' mar, e' tudo que eu nem sei contar
-GM7     Gm6          F#13 F#75+ B9 B7b9
-Sao coisas lindas que eu tenho pra te dar
-E9
-Vem de mansinho a brisa e me diz
-Bb7  A7          Dm7   G7
-E' impossivel ser feliz sozinho
-
-
-Gm7        C9     FM7
-Da primeira vez e' a cidade
-Fm7        Bb9        Gm7       A7b9(3) A7b9(6) A7b9(9)
-Da segunda, o cais, a eternidade
-
-
-DM7    Bdim                   Am7  D7b9
-Agora eu ja sei da onda que se ergueu no mar
-GM7           Gm6          F#13 F#75+ B9 B7b9
-E das estrelas que esquecemos de contar
-E9
-O amor se deixa surpreender
-Bb7   A7      Dm7     A75+
-  Enquanto a noite vem nos envolver
-
-
-
-
-Original played in Canada
-https://youtu.be/e0mEAo3anwI
-
-Audio: -1 track (accompaniment only)
-drive.google.com/file/d/0B8AIVMjP8IzRT0N0aWE0ZV9Qbm8/view?usp=drivesdk
-
-? ??????? drive.google.com - ?????.mp3
-https://drive.google.com/file/d/0B8bu8TIv2xHiSEltdTRDTDBxaEE/view?usp=drivesdk
-
-Learn to play it on guitar: youtube.com - Wave - Bossa Nova Guitar Lesson \#18: Advanced Phrase 137x
-https://youtu.be/-KvhDcZu0FI
-
-Guitar score and backing track
-https://youtu.be/KNMttfYb5Qs

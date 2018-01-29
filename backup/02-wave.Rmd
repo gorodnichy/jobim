@@ -1,0 +1,897 @@
+# Part 2: «Ocean» {-}
+
+# Wave 
+
+<!-- [[embed url="https://youtu.be/e0mEAo3anwI"]] -->
+
+<embed  src="https://www.youtube.com/embed/e0mEAo3anwI" width="300"></embed>  
+
+
+<!-- iffff -->
+<!-- <iframe width="560" height="315" src="https://youtu.be/e0mEAo3anwI"></iframe> -->
+
+
+<!-- WORKS too !-->
+<!-- <object width="360" height="300" data="https://www.youtube.com/embed/e0mEAo3anwI"></object> -->
+
+
+<!-- video -->
+<!--  <video width="320" height="240" autoplay> -->
+<!--   <source src="movie.mp4" type="video/mp4"> -->
+<!--   <source src="movie.ogg" type="video/ogg"> -->
+<!-- Your browser does not support the video tag. -->
+<!-- </video>  -->
+
+
+<!-- http://gtwebdev.com/workshop/misc/verse.php -->
+## Волна {-}
+
+<blockquote>
+<cite>
+Музыка: А. Жобим.
+Слова: Д. Городничий
+</cite>
+<pre>
+Закрой глаза -
+И ты увидишь мир таким,
+Каким он будет, есть и был,
+Солнцем храним,
+И все твои волнения вдруг
+Рассеются как волны в океане.
+
+Замри на миг -
+И в этот миг услышишь ты
+Вселенской радости аккорд
+И красоты.
+В себя впусти ты этот звук,
+И всё тебе понятным сразу станет.
+
+   В этом звуке слышишь ты любовь.
+   И ты знаешь, что она с тобой...
+
+И так всегда
+Ничто не было и не есть
+Кроме любви твоей одной
+Сейчас и здесь.
+А остальное лишь мираж,
+Хотя порою это забываешь.
+
+Она с тобой. (И каждый раз)
+Теперь когда захочешь ты,
+Ты знаешь как тебе попасть
+В мир красоты,
+Себя волною каждый раз
+В бескрайнем океане ощущая.
+
+   Всё, что знать хотел - её спроси
+   И ответ с собою унеси...
+
+Март 2017
+
+(Dm7 G/D)
+D7+ Go
+Am7 Ao
+G7+ Gm6
+B7+ Daug
+E74(B7) E7(Bm7)
+Bb7(9) A7(13)
+
+Dm7 G/D
+Dm7 G/D
+
+Gm7 C7(Gm6) Am7
+Fm7 Bb7(Fm6) Gm7 Bbm6(A74) A7
+
+</pre>
+</blockquote>
+
+# Triste 
+
+
+
+<embed src="https://www.youtube.com/embed/N8RVD7wMsDY" width="300"></embed>  
+
+
+
+## Грустно жить в мире одному
+<!-- (Ни этот простор -->
+<!-- Дали голубой, -->
+<!-- Ни детский восторг, -->
+<!-- Пережитый тобой...) -->
+
+<blockquote>
+<cite>
+Музыка: А. Жобим, Слова: Д. Городничий
+</cite>
+<pre>
+Грустно жить в мире одному, 
+Встречать рассвет и никому 
+Не рассказать, никак
+Не словом описать
+  Ни свет дальних звёзд,
+  Ни моря прибой,
+  Ни запах берёз,
+  Ни ветра покой...
+
+Надо жить так, чтоб было с кем
+Тебе делиться этим всем,
+Что увидишь, услышишь ты
+Неземной красоты,
+Ведь грустно в мире одному.
+
+
+Грустно мечтать и думать что,
+Мечты твои не увидит никто, 
+Всё, что с любовью
+Создаёшь ты в своих снах,
+  Ни сад полный роз, 
+  Цветущих зимой,
+  Ни лунный аккорд,
+  Сочинённый тобой...
+
+Но то, что серцем рождено,
+Способно взмыть так высоко!
+И не так много лет пройдет
+Как твой сад зацветет
+И зазвучит вновь твой аккорд!
+
+2017
+
+(on open strings, A)
+
+Amaj7 Fmaj7/5- Amaj7 Fmaj7/5- A(bass)
+Fmaj7/5- Amaj7 Dbm7 F#7/+5/9- F#7/+5 Bm7
+D G#º Db7 F#m7 Db7/9+
+Dbmaj7 G#7/6 Dbm9 F#m7 Bm7 E6
+
+Amaj7 F#maj7/5- Amaj7 Em7 A7/9- A7/6/9-
+Dmaj7 Dm6 Dbm7 Cº
+Bm7 E7/9- Am7 Am6
+Amaj7 Fmaj7/5- A Dbm7 F#7/+5/9- F#7/+5
+
+</pre>
+</blockquote>
+
+# Chega de Saudade 
+
+<embed  src="https://www.youtube.com/embed/xWWnrpIwhac" width="300"></embed>  
+
+## Не грусти {-}
+
+
+<blockquote>
+<cite>
+(Музыка: А. Жобим, Слова: Д. Городничий )
+</cite>
+<pre>
+Не грусти, взгляни в окно. - 
+Там столько света, солнце взошло давно! 
+Солнце ведь для всех нас, 
+И даже в грустный час 
+Тебя всегда утешит оно. 
+
+Не грусти, всё хорошо. - 
+А по-другому быть не может даже!   
+Ты спроси у солнца, и оно подскажет, 
+Как так сделать, чтоб грустный блюз прошёл.
+
+   Вспомни, как под небом голубым*
+   С тобой сидели и песни пели, 
+   И наполнялась музыкой Вселенная 
+   И было ясно, что жизнь необыкновенная!
+
+И вот так всегда, когда 
+Oсенней тучкой грусть к тебе придет,
+Ты её пролей дождем
+Чтоб засияло всё кругом  
+И в самом деле засияет небосвод 
+Весёлой радугой и сердце запоёт!
+Так саме все навколо тебе засiя
+Веселкoй радістной і серце заспіва!
+
+
+(* как на берегу морском / как в палатке под дождем / как с гитарой за костром /сидели вместе и пели песни) 
+
+2017
+
+intro( Gm7 A7 Dm Dm/C E7/B Eb/Bb A7 Dm7 Eb79 )
+
+Dm7 E7
+Bbm6 A7 Dm7 Eb79 Dm7 Dm6Am7
+Bb6
+A7  A7/5+
+Dm7 E7
+Bbm6  A7  D7+ D7/9b
+Gm7  A7 Dm7 Am/C E7  Bm6  A Dm7  (Em7  A7)
+
+D7M D7/9b E7/9 E(m)7
+A7/9b  Do  D6
+D7M Fº  Em7
+E7/9 Gm6/Bb A7/9b
+
+D7M(9) Bm7 E7(9)
+F#7 Bm7 Bbm7 Am7 D7/9 G7+Gm7
+F#m7   B7(13)
+E79 A74 F#7 B7/9
+E79 A74 D69 C7 B7
+E79 A74 D69 C7 B79-
+E79 A74 D69
+outro.
+</pre>
+</blockquote>
+<!------------------------------------------------------>
+
+
+<!-- ### Original lyrics {-} -->
+
+<!-- <blockquote> -->
+<!-- <pre> -->
+<!-- Vai minha tristeza -->
+<!-- E diz a ela -->
+<!-- Que sem ela não pode ser -->
+<!-- Diz-lhe numa prece -->
+<!-- Que ela regresse -->
+<!-- Por que eu não posso mais sofrer -->
+<!-- Chega de saudade -->
+<!-- A realidade -->
+<!-- É que sem ela não há paz -->
+<!-- Não há beleza -->
+<!-- É só tristeza -->
+<!-- E a melancolia -->
+<!-- Que não sai de mim -->
+<!-- Não sai de mim, não sai -->
+
+<!-- Mas se ela voltar, se ela voltar -->
+<!-- Que coisa linda, -->
+<!-- que coisa louca -->
+<!-- Pois há menos peixinhos a nadar no mar -->
+<!-- Do que os beijinhos Que eu darei na sua boca -->
+
+<!-- Dentro dos meus braços -->
+<!-- Os abraços hão de ser, milhões de abraços -->
+<!-- Apertado assim, colado assim, calado assim -->
+<!-- Abraços e beijinhos e carinhos sem ter fim -->
+<!-- Que é pra acabar com este negócio de você -->
+<!-- Viver sem mim. Não quero mais este negócio -->
+<!-- </pre> -->
+<!-- </blockquote> -->
+
+
+
+
+#  Favela
+
+<embed  src="https://www.youtube.com/embed/TTRcRFztIJA" width="300"></embed>  
+
+##  Самба пробуждения {-}
+
+<blockquote>
+
+<cite>
+Музыка: А. Жобим, Слова: Д. Городничий 
+</cite>
+
+<pre>
+Он был угрюм,
+Душа и ум 
+Покрыты коркой льда.
+Но вот она -
+Пришла как весна,
+Лед растопив, как спящая с детства мечта.
+
+И понял он
+Что он не жил,
+А лишь существовал,
+И что ясней,
+Всё стало вместе с ней 
+И с ней он сможет всё, о чем так мечтал.
+
+   Только она-то не знала,
+   Кто она есть для него,
+   Как ни чём не бывало, 
+   Оставила одного. 
+
+Как дальше быть?
+Она ушла -
+Что будет с ним теперь?
+Умрёт с мечтой?
+Иль сможет всё таки жить,
+Окрыленный ею и без потерь?
+    
+   Пусть же ему самба эта 
+   Заиграет во сне,
+   Чтобы проснувшись с расветом,
+   Он с радостью вспомнил о ней!
+
+Она - цветок,
+Пять новых нот,
+Восхода солнца миг.
+И он не тот,
+И сам знает, что
+Всего чего хотел он, уже достиг!
+
+Март 2017
+
+
+Am/E Am6
+Dm7/A(F) G#o7
+Gm7 Gm6/F
+G6 G+
+C7+ C7+/B
+Go(C7+/A) A7/G
+Am9(C6) E74
+Am
+
+C6(C7+) Am6
+Dm7 D7+
+C7+ C+
+E7 Am
+</pre>
+</blockquote>
+
+
+
+<!-- ### In Portuguese (original) {-} -->
+
+<!-- O morro no tem vez -->
+<!-- E o que ele fez j foi demais -->
+<!-- Mas olhem bem vocs -->
+<!-- Quando derem vez ao morro -->
+<!-- Toda a cidade vai cantar -->
+<!-- Morro pede passagem -->
+<!-- Morro quer se mostrar -->
+<!-- Abram alas pro morro -->
+<!-- Tamborim vai falar -->
+<!-- um, dois, trs -->
+<!-- cem, mil a batucar -->
+
+
+# Unútil Paisagem 
+
+<embed  src="https://www.youtube.com/embed/9-914GyPR6c" width="300"></embed>  
+
+## зачем всё это? {-}
+
+<blockquote>
+<cite>
+(Музыка: А. Жобим, Слова: Д. Городничий )
+</cite>
+<pre>
+О,
+зачем
+это лето мне
+эти звезды в далеке
+это небо, луна и рассвет
+что вот-вот вновь настанет
+если тебя нет
+зачем мне
+всё это?
+
+Если б ты
+был сейчас со мной
+рядом был со мной всегда
+всё имело бы смысл и тогда
+жизнь была б не напрасна,
+всё бы было прекрасно
+всё бы было как надо
+был бы ты рядом
+ты - рядом
+всегда...
+
+
+Март 2017
+
+
+A6 Ab7+13
+G7+(#13) F#7(13)
+Bm7(9)
+Dm,7+,7,6
+C#7(13) C#7(b13)
+F#74(9) F#74(b9)
+B(m?)7(#9)
+E74 A7(13)
+D7(9) A7+
+Bb7(13)
+
+...
+Bb7(9/#11)
+A7+
+</pre>
+</blockquote>
+
+
+
+# Vivo sonhado 
+
+<embed src="https://www.youtube.com/embed/WE6EuNgv9s4" width="300"></embed>  
+
+## Жить как во сне {-}
+
+<blockquote>
+<cite>
+Музыка: А. Жобим. 
+Слова: Д. Городничий
+</cite>
+
+<pre>
+Ну почему
+я постоянно вижу тебя ?
+В каждом окне, в каждом пейзаже, в бликах огня?
+Машешь рукою ты мне
+с улыбкою на устах
+Что это - сон лишь? Мечта?
+может быть да,
+а быть может и нет.
+
+Вeдь почему
+Всюду, где ты, слышу музыку я ?
+Это - песня твоя  и её не узнать просто нельзя.
+Джазовый мягкий аккорд -
+Знакомый мнe соль секст минор 
+Да это ты - нет сомнения!
+
+Вот почему
+Мне хорошо на яву и во сне. –
+Чтобы со мной не произошло ты приходишь ко мне.
+взгляд твой полон любви,
+света и красоты
+и я, когда тяжело, сливаюсь с ним -
+с этим взглядом твоим.
+
+Вот почему
+всегда и вокруг слышу музыку я.
+В каплях росы, в свете луны - красота бытия.
+Слышу всё тот-же аккорд
+Любимый мной Gm6.
+Да это ты - свет и радость моя!
+
+     2017
+
+
+(G7+/ Gm5+/)
+G7+/
+Gm5+/
+G7+/
+Bm7 E7(b9)
+
+Am7 Cm7(9)/6
+Bm7 E7(b9)
+Am7 D7(b9)
+G7+ Gm7
+G7+/
+Gm5+/
+G7+/
+B7(13/b13) E7(#59)
+A7(13/b13)
+Am7 D7(b9)
+G6 Gm5+
+</pre>
+</blockquote>
+
+
+#  A felicidade 
+
+<embed src="https://www.youtube.com/embed/gqhzemroh14" width="300"></embed>  
+
+##  Есть радость и печаль {-}
+
+<blockquote>
+<cite>
+Музыка: А. Жобим, Слова: Д. Городничий
+</cite> <pre> 
+Есть радость и печаль 
+Живи и замечай. 
+Живи и замечай. 
+Есть радость и печаль. 
+
+Так бывает грусть к тебе придёт. 
+Её не бойся и не проганяй
+В жизни так бывает, 
+что лишь когда взгруснёшь
+Увидишь до чего же мир хорош. 
+
+А этот мир действительно прекрасный,
+Уметь лишь надо видеть красоту. 
+Открой своё сердце
+Услышь свои чувства -
+И ты, когда захочешь, 
+способeн на такое, 
+И в небе ты найдёшь свою звезду, 
+и полетишь вслед за этой звездою.
+
+
+Есть радость и печаль 
+Живи и замечай. 
+Живи и замечай. 
+Есть радость и печаль 
+
+...
+
+Выйдешь утром на январский снег.
+Услышишь пение птицы в тишине
+ты все поймешь, 
+ты все увидишь сам
+и взор твой обратиться к небесам...
+
+2017
+</pre>
+</blockquote>
+
+
+<!-- ### Счастье - это легкий мотылек {-} -->
+
+<!-- <blockquote> -->
+<!-- <cite> -->
+<!-- Музыка: А. Жобим.  -->
+<!-- Слова: А. Иващенко (Адаптация) -->
+<!-- </cite> <pre> -->
+
+<!-- Счастье - это легкий мотылек -->
+<!-- Кружится, набирает высоту -->
+<!-- Но жизнь недолга, -->
+<!-- и остаётся только -->
+<!-- Мечтать, чтоб бесконечный ветер дул. -->
+
+<!-- Счастье - это хрупкая роса  -->
+<!-- Пристроилось у края лепестка -->
+<!-- Блестит она спокойно, -->
+<!-- качается невольно -->
+<!-- И падает слезой любви с цветка. -->
+<!-- </pre> -->
+<!-- </blockquote> -->
+
+# Aqua de beber
+
+<embed align="center" src="https://www.youtube.com/embed/sT2BloTgw7k" width="300"></embed>  
+
+## вода жизни {-}
+
+
+<blockquote>
+<cite>
+Музыка: А. Жобим, 
+Слова: Д. Городничий
+</cite> 
+<pre> 
+Я так хотел узнать, откуда
+Явились мы и как нам жить,
+К чему должны стремиться люди
+И у кого могу я это всё спросить
+
+   И я услышал я
+   в шуме ветра, в песне соловья 
+   Есть источник знаний и добра 
+   чистый как вода 
+   вечный как сама наша Земля - 
+   Зовется Água de beber camará  
+   
+
+   Я тебя найду 
+   Сколько не пришлось бы мне искать, 
+   Água de beber camará.  
+   Я узнаю всё 
+   что поможет мне тебя узнать.
+   Где ты мой учитель, лучший друг и брат?
+
+И я пошел бродить по свету 
+Поднялся чуть ли не до небес. 
+Услышал много песен я неспетых,
+но не найдя ничего, вернулся вновь к себе.
+
+   И уже когда 
+   Дальнею дорогой утомлен 
+   Сел я у ручья, чтоб воды попить 
+   Вдруг я осознал,
+   Что никуда не надо мне идти - 
+   Лучший мой учитель и есть сама вода.
+   
+   (И вот, что я узнал у нее:)
+
+в человеке все должно быть красивым -  
+слова и мысли, и дела.
+это и есть условием необходимым 
+цели, для которой мама нас родила. 
+
+   Aqua de beber 
+   Água de beber camará
+   Я тебя нашел тебя и Я так рад. 
+   Aqua de beber 
+   agua de beber comorade
+   Ты учитель мой, мой друг и брат.
+
+Я так хотел узнать, зачем мы
+Явились в этот мир и как нам жить. 
+И вот ответ - Чтобы быть любимым
+и жить надо так чтобы другим любовь дарить.
+
+   Aqua de beber - 
+   мой источник знаний и добра.
+   Água de beber camará
+   Чтоб не делал я 
+   С тобой жизнь полноценней во сто крат
+   Água de beber camará
+   
+
+2017 
+
+</pre>
+</blockquote>
+
+
+#Meditation
+
+
+<embed align="center" src="https://www.youtube.com/embed/HGLUgbxlsYA" width="300"></embed>  
+
+<!-- wg9V9o5BvaA   NlwRqD_hvuE  HGLUgbxlsYA-->
+
+
+##  Медитация #22 (Волшебство) {-}
+
+
+<blockquote>
+<cite>
+Музыка: А. Жобим, 
+Слова: Д. Городничий
+</cite> 
+<pre>
+    Тот кто был влюблен, 
+    Кто поднялся выше небес, 
+    Исскуством окрылён,
+           Тот уж никогда 
+           Не захочет, не сможет идти
+           По любому другому пути.
+
+    Кто писал стихи,
+    Кто волшебных мелодий букет 
+    Мог среди звезд найти — 
+          Тот не сможет жить 
+          По-другому уже никогда:
+          Словно воздух — любовь, красота.
+
+Дай мне Бог понять,
+Как миг прозренья Людям передать!
+
+    В час, когда один,
+    Когда в море бушуют ветра 
+    И выбьешься из сил,
+          Вспомни, как любил —
+          Окажешься снова ты там,
+          Где царит красота...
+       
+Где бы не был я – 
+Всегда со мною радость бытия..
+
+2017
+
+    G6 Gº
+    G6 Bm7
+    E7/9-
+
+    Am7 Cm6
+    Bm7 E7/9-
+    Am7 D7/9
+
+    Cmaj7 Cm6
+    Bm7 E7/9- Am7 F#7/5+
+
+    G6 Gº
+    G6 Bm7 E7/9-
+
+    Am7 Cm6
+    Bm7 E7/9- Am7
+    Aº
+    G6
+</pre>
+</blockquote>
+
+
+## Медитация #7 (Выше небес) {-}
+
+<blockquote>
+<cite>
+Музыка: А. Жобим, 
+Слова: Д. Городничий
+</cite> 
+<pre>
+В час когда одна 
+Ты стоишь на распутье дорог, 
+Не зная, где твоя, 
+Ты глаза закрой 
+и представь что ты далеко- 
+далеко за огромной горой.
+
+Там увидишь ты 
+безграничное поле из трав 
+Невиданной красоты. 
+Ты зайди в него - 
+И почувствуешь как легкий бриз 
+вдруг каснётся твоих ресниц.
+
+   Ты вдохни его 
+   и сразу завершится волшебство. 
+
+Вместо слабости 
+И растерянности 
+перед лицом неизвестности 
+Ты вдруг всё поймешь 
+Почему ты на свете живешь 
+И как дальше идти
+
+2017
+</pre>
+</blockquote>
+
+
+<!-- Original MEDITAÇÃO -->
+
+
+<!--     Quem acreditou -->
+<!--     No amor, no sorriso, na flor -->
+<!--     Então sonhou, sonhou… -->
+<!--     E perdeu a paz -->
+<!--     O amor, o sorriso e a flor -->
+<!--     Se transformam depressa demais -->
+
+<!--     Quem, no coraçao -->
+<!--     Abrigou a tristeza de ver -->
+<!--     Tudo isto se perder -->
+<!--     E, na solidão -->
+<!--     Procurou um caminho e seguiu, -->
+<!--     Já descrente de um dia feliz -->
+
+<!--     Q u e m c h o r o u , c h o r o u -->
+<!--     E t a n t o q u e -->
+<!--     S e u p r a n t o j á s e c o u -->
+
+<!--     Quem depois voltou -->
+<!--     Ao amor, ao sorriso e à flor -->
+<!--     Então tudo encontrou -->
+
+<!--     E a própria dor -->
+<!--     Revelou o caminho do amor -->
+<!--     E a tristeza acabou. -->
+
+
+
+
+#  Departure 
+
+<!-- 
+<blockquote>
+<cite>
+Music and lyrics: Dmitry Gorodnichy
+</cite> 
+<pre>
+When a farewell tear 
+Will cover with a sad mist our goodbyes,
+Try to forgive me words that you will hear,
+'Cause very likely it's the last time you look in my eyes.
+
+It`s only through the haze of rushing days
+That you'll be able to recall my name.
+But, oh, this haze is getting thicker, I should say,
+With every, every, every single day.
+
+R:     Departure is a tearing of the life!
+       It is so sad, so cruel, inevitable it is!
+       But we did know about it, both you and I,
+       as we have had and lost some already friends before this.
+
+And there's no need to search for words, no need,
+For they are useless. -  You just listen by yourself
+How fallen leaves are rustling below your feet.
+As they are mutely echoing to us:
+`It's just the way the life is'
+(`C'est la vie').
+
+1996, Edmonton
+
+</pre>
+</blockquote>
+
+-->
+
+<embed  src="https://www.youtube.com/embed/HOSrPWErNN8" width="300"></embed>  
+##  Разъезд {-}
+
+<blockquote>
+<cite>
+Музыка и Слова: Д. Городничий
+</cite> <pre>
+Когда прощальная слеза 
+Застелет облаком печальным растованье, 
+Сумей простить мне всё, что я сказал, - 
+Мы втретимся когда-нибудь едва ли. 
+
+Сквозь дым толпой идущих дней 
+Ты сможешь только вспоминать меня. 
+Но этот дым - он всё сильней 
+становится день ото дня. 
+
+Разъезд - вот скрежет бытия 
+Такой тоскливый, молчаливо неизбежный. 
+Об этом знали ты и я, 
+ведь были же друзья у нас и прежде. 
+
+И мне не нужно подбирать слова. 
+Они бессильны. - Ты послушай сам, 
+Как под ногами шелестит опавшая листва, 
+безвучно повторяя нам: "Жизнь такова"...
+
+1992, Moscow-Kiev
+</pre>
+</blockquote>
+
+
+
+#  End 
+
+
+<embed  src="https://www.youtube.com/embed/eMCzn4p3Ftk" width="300"></embed>  
+
+
+
+<!-- Video: http://gorodnichy.ca/music/ete/when-I%27m-coming-back-v1.0.mp4 -->
+
+##  Разница {-}
+
+<blockquote>
+<cite>
+Слова: Андрей Городничий, Музыка: Дмитрий Городничий
+</cite> <pre>
+Когда я через годы приезжаю
+В те стены что хранили в мои сны,
+то разница как-будто небольшая
+как между черно-белым и цветным.
+
+Крадется сон прохладой предрассветной,
+Его наутро пледом застелю.
+И разница вдруг станет незаметной
+как между "ненавижу" и "люблю".
+
+В открытое окно в пущу листву я
+на подоконник капнет не вода
+и разницы уже не существует
+как между "подожди" и "никогда".
+
+2012
+</pre>
+</blockquote>
+</pre>
+</blockquote>
+
+
+
+<!-- video:   -->
+<!-- http://gorodnichy.ca/music/ete/when-I%27m-coming-back-v1.0.mp4  https://drive.google.com/open?id=1jCa97_K3xIoadR3wlHgyq_aHaRXbJSI0 -->
+
+Аккомпaнимент:
+[Midi](https://drive.google.com/open?id=1PQtlzIVXUZgbLZPuj6N964yxTFMtmbbL), 
+<!-- [Midi (2)](https://drive.google.com/file/d/1onWVfM0PAmHmzK_2YBVrBT2cAElPMvRj/view?usp=drivesdk) -->
+<!-- [Midi (3)](https://drive.google.com/file/d/1JavqN9sRUadwzbTS-PFJLyhqne_op4O2/view?usp=drivesdk) -->
+<!-- [Midi (4)](https://drive.google.com/file/d/1jqUneglaCvLuzsBMmtAHp4XI2qblfo14/view?usp=drivesdk) -->
+[Video](https://drive.google.com/open?id=1lyR1L1y31djsSJQBju4Je0GUkzBIOYAi)
+
+
+<!-- <video> -->
+<!--  <video width="320" height="240"> -->
+<!--   <source src="http://gorodnichy.ca/music/ete/when-I%27m-coming-back-v1.0.mp4" type="video/mp4"> -->
+<!-- Your browser does not support the video tag. -->
+<!-- </video> -->
+
+
+<center>
+<br>
+
+<!-- **End** -->
+
+**--- ॐ --- **
+</center>
+<!-- # Comments {-} -->
+
+
+<!-- TBA -->
+
+
+

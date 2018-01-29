@@ -2,6 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+.RDataTmp
 .privD7
 .Rproj.user/
 _bookdown_files/
