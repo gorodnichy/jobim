@@ -40,27 +40,32 @@ output: bookdown::gitbook
 # #    dev: "cairo_pdf"
 # documentclass: book --> ?? No <- causes Error in compiling tex file with Russian letters
 link-citations: yes
-<<<<<<< HEAD
-description: "Antonio Carlos Jobim songs interpreted by Dmitry Gorodnichy"
-=======
-description: "Songbook of Antonio Carlos Jobim songs interpreted by Dmitry Gorodnichy in Ukrainian and Russian, prepared using R"
->>>>>>> 25a9ab490070fed9f5a6e0d61783e2f7af548547
+description: "Antonio Carlos Jobim songs (re)interpreted by Dmitry Gorodnichy"
 github-repo: "gorodnichy/Shri-Jobim"
 url: 'http\://bookdown.org/gorodnichy/Shri-Jobim/'
 cover-image: "images/cover-book-ShriJobim.jpg"
 ---
 
-<!-- <img alt="« Shri Jobim »" border="1" height="500" src="images/cover-book-ShriJobim.jpg"  /> <br>--> 
+<!-- <img alt="« Shri Jobim »" border="1" height="500" src="images/cover-book-ShriJobim.jpg"  /> <br> -->
+
+<!-- DLQ EPUB -->
+
+# Introduction {-}
+
+
 
 <!-- [Follow this album on Google+](https://plus.google.com/u/1/collection/Eg2aKE)  -->
 
 
 <!-- To be updated Under construction - Links to audio and video to be added. -->
 
-# Cover{-}
+
+<!-- ![[Follow this album on Google+](https://plus.google.com/u/1/collection/Eg2aKE)](images/cover-cd-ShriJobim.jpg) -->
 
 
-![[Follow this album on Google+](https://plus.google.com/u/1/collection/Eg2aKE)](images/cover-jobim.jpg)
+```{r, fig.cap="CD Cover", out.width='75%', fig.align='left', echo=FALSE}
+knitr::include_graphics("images/cover-cd-ShriJobim.jpg")
+```
 
 
 ## Table of Content {-}
@@ -68,70 +73,51 @@ cover-image: "images/cover-book-ShriJobim.jpg"
 
 <!-- Last updated:  31.12.2017 -->
 
-## Part 1: Grand amor {-}
+### Part 1: Grand amor {-}
 
-Title | Original | Backing track  | Interpretation
------ | :-------------: | :--------: | :---: 
-Дисгармония - Desafinado | + | - | - 
-Тихим теплым вечером - Corcovado | + | - | - 
-Самба одной ноты - Samba de uno nota so | + | - | - 
-Безчувственный - Insensatez | + | - | - 
-Dindi | + | - | - 
-Garota de Ipanema | + | - | - 
-Медитация №16 (В грезах любви) - Meditação| + | - | - 
-Танцую самбу - Só Danço Sambа | + | - | - 
-<!-- Не уходи - Por causa de voce  | - | - | -  -->
-<!-- Я любил - Amor em paz  | - | - | -  -->
-<!-- о любовь - O grand amor | - | - | -  -->
+Title | Original | Interpretation
+----- | :------: | :---: 
+Дисгармония - Desafinado | + | [+](media/desafinado-w-joao.mp3)  [+](media/desafinado-w-stan.mp3) 
+Тихим теплым вечером - Corcovado | + | - 
+Самба одной ноты - Samba de uno nota so | + | - 
+Безчувственный - Insensatez | + | - 
+Dindi | + | - 
+Garota de Ipanema | + | - 
+Медитация №16 (В грезах любви) - Meditação | + | - 
+Танцую самбу - Só Danço Sambа | + | - 
+Великая любовь - O grand amor | + | -
 
 
-
+<!-- Не уходи - Por causa de voce  | - | - -->
+<!-- Я любил - Amor em paz  | - | - -->
 
  
-## Part 2: Ocean {-}
+### Part 2: Ocean {-}
 
 <!-- Title | Lyrics & Chords | Backing track |  Instrumental  | With voice | Live    -->
 <!-- Title | In Portugese | Instrumental | Backing track  | In Russian -->
 <!-- ----- | :-------------: | :--------:  | :---: | :---:  -->
-Title | Original | Backing track  | Interpretation
------ | :-------------: | :--------: | :---: 
-Волна - Wave | + | - | + 
-Не грусти -  Chega de Saudade  | + | - | - 
-Самба пробуждения - Favela| + | - | - 
-зачем всё это? - Unútil Paisagem  | + | - | - 
-Грустно жить в мире одному - Triste | + | - | - 
-Жить как во сне - Vivo sonhado  | + | - | - 
-Медитация №1 (Выше небес) - Meditação | + | - | - 
-Медитация №22 (Волшебство) - Meditação | + | - | - 
-Есть радость и печаль - A felicidade | + | - | - 
-вода жизни - Aqua de beber | + | - | - 
-Разъезд - Departure | + | + | + 
-Разница | + | + | + 
+Title | Original |  Interpretation
+----- | :------: | :---: 
+Волна - Wave | + | + 
+Не грусти -  Chega de Saudade  | + | - 
+Самба пробуждения - Favela| + | - 
+зачем всё это? - Unútil Paisagem  | + | - 
+Грустно жить в мире одному - Triste | + | - 
+Жить как во сне - Vivo sonhado  | + | - 
+Медитация №1 (Выше небес) - Meditação | + | - 
+Медитация №22 (Волшебство) - Meditação | + | - 
+Есть радость и печаль - A felicidade | + | - 
+вода жизни - Aqua de beber | + | - 
+Разъезд - Departure | + | + 
+Разница - Conclusion | + | + 
 
 
 <!-- Play all originals: video, audio -->
-
-<<<<<<< HEAD
 <!-- Play all instrumental: video, audio -->
-=======
-Title | Original | Backing track |  Instrumental  | New
------ | :-------------: | :--------: | :------------: | :---: 
-Дисгармония | + | - | - | + |
-Тихим теплым вечером - Корковадо | + | - | - | + |
-Самба одной ноты | + | - | - | + |
-Безчувственный | + | - | - | + |
-Dindi | + | - | - | + |
-Garota de Ipanema | + | - | - | + |
-Медитация 16 () | + | - | - | + 
-Танцую самбу - Só Danço Sambа | + | - | - | + |
-Не уходи - Por causa de voce  | + | - | - | + |
-Я любил - Amor em paz  | + | - | - | + |
-о любовь - O grand amor | + | - | - | + |
->>>>>>> 25a9ab490070fed9f5a6e0d61783e2f7af548547
-
 <!-- Play all backing tracks: video, audio -->
-
 <!-- Play all interpretations: video, audio -->
+
 <!-- ## Credits {-} -->
 
 <!-- Original recording from YouTube -->

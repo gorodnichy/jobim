@@ -63,12 +63,15 @@
 Себя волною каждый раз
 В бескрайнем океане ощущая.
 
-   Всё, что знать хотел - её спроси
+   Всё, что знать хотел - его спроси
    И ответ с собою унеси...
+
 
 Март 2017
 
-(Dm7 G/D)
+
+(Dm7 G/D) x 2
+
 D7+ Go
 Am7 Ao
 G7+ Gm6
@@ -76,12 +79,10 @@ B7+ Daug
 E74(B7) E7(Bm7)
 Bb7(9) A7(13)
 
-Dm7 G/D
-Dm7 G/D
 
-Gm7 C7(Gm6) Am7
-Fm7 Bb7(Fm6) Gm7 Bbm6(A74) A7
-
+   Gm7 C7(Gm6) Am7
+   Fm7 Bb7(Fm6) Gm7 Bbm6(A74) A7
+   
 </pre>
 </blockquote>
 
@@ -110,7 +111,7 @@ Fm7 Bb7(Fm6) Gm7 Bbm6(A74) A7
 Не словом описать
   Ни свет дальних звёзд,
   Ни моря прибой,
-  Ни запах берёз,
+  Ни запах берёз,
   Ни ветра покой...
 
 Надо жить так, чтоб было с кем
@@ -505,7 +506,6 @@ G6 Gm5+
 Живи и замечай. 
 Есть радость и печаль 
 
-...
 
 Выйдешь утром на январский снег.
 Услышишь пение птицы в тишине
@@ -514,6 +514,20 @@ G6 Gm5+
 и взор твой обратиться к небесам...
 
 2017
+
+
+C7+   C7+      Gb°    B7    Em7
+
+C7+   Bm7/5-             
+E7/9- Am7      Am6         Gm7  C7
+F7+   Fm6    Am7             D7/9
+Am7   D7/9      Am7
+
+C7+     Gm7     C7/9     F7+
+Dm7     G7      C7+
+Gbm7/5- B7/9-   Em7
+Dº      Am7     D7/9
+Am7     D7/9    Am7
 </pre>
 </blockquote>
 
@@ -614,9 +628,27 @@ G6 Gm5+
 
 2017 
 
+
+[Intro]  
+Bm7  C#7  F#7(b13)  
+Bm7  C#7  F#7(b13)  
+Bm7  G7M  Bm7  F#m7(b5)
+
+Bm7     C#7  F#7(b13)
+Bm7  E7(9)
+Em7(9)     A7(13)  D7M(9)  D6(9)
+C#7  F#7(b13)
+Bm7    D7(9)
+C#7         F#7(4)
+Bm7
+
+B7   E7   
+Em7(9)  Bm7
+
 </pre>
 </blockquote>
 
+[Chords](https://www.cifraclub.com.br/tom-jobim/agua-de-beber/) 
 
 #Meditation
 
@@ -819,13 +851,13 @@ As they are mutely echoing to us:
 Как под ногами шелестит опавшая листва, 
 безвучно повторяя нам: "Жизнь такова"...
 
-1992, Moscow-Kiev
+1992
 </pre>
 </blockquote>
 
 
 
-#  End 
+#  Conclusion 
 
 
 <embed  src="https://www.youtube.com/embed/eMCzn4p3Ftk" width="300"></embed>  
@@ -883,10 +915,7 @@ As they are mutely echoing to us:
 
 <center>
 <br>
-
-<!-- **End** -->
-
-**--- ॐ --- **
+** --- ॐ --- **
 </center>
 <!-- # Comments {-} -->
 
