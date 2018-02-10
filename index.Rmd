@@ -1,8 +1,8 @@
 --- 
 #title: "«Ivim ambraça Jobim»"
 title: "«Shri Jobim»"
-# subtitle: "Tribute to Antonio Carlos Jobim in Ukrainian and Russian"
-# subtitle: "Interpretations of Antonio Carlos Jobim songs in Russian"
+subtitle: "(Tribute to Antonio Carlos Jobim in Ukrainian and Russian, 1992-2017)"
+# subtitle: "(Interpretations of Antonio Carlos Jobim songs in Russian"
 # subtitle: "Songs by and inspired by Antonio Carlos Jobim in Russian"
 # subtitle: "Antonio Carlos Jobim songbook"
 # author: "Дмитрий Городничий"
@@ -25,22 +25,9 @@ output: bookdown::gitbook
 #           after: null
 #       edit: https://github.com/Tazinho/Advanced-R-Solutions/edit/master/%s
 # 
-# output:
-#   bookdown::pdf_book:
-# #    template: tex/template_journal.tex
-#     template: tex/template_thesis_classic.tex
-#     keep_tex: yes
-#     citation_package: natbib
-# #    latex_engine: xelatex
-#     toc_depth: 2
-#     toc_unnumbered: yes
-#     toc_appendix: yes
-#     pandoc_args: --chapters
-#     quote_footer: ["\\begin{flushright}", "\\end{flushright}"]
-# #    dev: "cairo_pdf"
 # documentclass: book --> ?? No <- causes Error in compiling tex file with Russian letters
 link-citations: yes
-description: "Antonio Carlos Jobim songs (re)interpreted by Dmitry Gorodnichy"
+description: "Antonio Carlos Jobim songs re-interpreted by Dmitry Gorodnichy"
 github-repo: "gorodnichy/Shri-Jobim"
 url: 'http\://bookdown.org/gorodnichy/Shri-Jobim/'
 cover-image: "images/cover-book-ShriJobim.jpg"
@@ -50,94 +37,228 @@ cover-image: "images/cover-book-ShriJobim.jpg"
 
 <!-- DLQ EPUB -->
 
-# Introduction {-}
 
 
+# Foreword {-}
+
+
+<!-- Introduction  От автора  -->
+
+<!-- Этот альбом составлен для моих родителей и детей.
+записан с мыслями о моих родителях и детях.
+
+И последнее это мой главный проект года написание и издание книжки переводов интерпретаций моих любимых песен Жобима. 
+
+Уже много лет я их очень люблю . мы их любили слушать и играть с моими родителями,  и когда их не стало  я  как-то особенно стал их чувствовать  и эти чувства мне захотелось  передать в словах. А что получилась читайте и слушайте сами.
+
+
+Приятного прослушивания
+
+Ваш Д.Г. -->
 
 <!-- [Follow this album on Google+](https://plus.google.com/u/1/collection/Eg2aKE)  -->
 
 
-<!-- To be updated Under construction - Links to audio and video to be added. -->
+<!-- 
+```{r,  fig.cap="CD Cover", out.width='75%', fig.align='center', echo=FALSE}
+knitr::include_graphics("images/cover-cd-ShriJobim.jpg")
+```
+-->
 
-
-<!-- ![[Follow this album on Google+](https://plus.google.com/u/1/collection/Eg2aKE)](images/cover-cd-ShriJobim.jpg) -->
-
-
-```{r, fig.cap="CD Cover", out.width='75%', fig.align='left', echo=FALSE}
+```{r,  out.width='75%', fig.align='center', echo=FALSE}
 knitr::include_graphics("images/cover-cd-ShriJobim.jpg")
 ```
 
+## От автора {-}
 
-## Table of Content {-}
+<i>В этот альбом вошли переводы и интерпретации  моих любимых песен Антонио Карлоса Жобима. 
+Уже много лет они звучат во мне. Мы их любили слушать и играть с моими родителями.  А когда их не стало,   я  как-то особенно стал их чувствовать, и эти чувства мне захотелось  передать в словах. Результат -  этот альбом. 
+
+В альбом также вошли переводы и интерпретации других авторов, включая моих дорогих брата и племянницы, а также несколько песен, рождённых под влиянием жобимовской музыки.
+
+Приятного прослушивания! 
+
+<p align=right> Дмитрий Городничий </p>
+<!-- Упрощённые аккорды прилагаются для желающих их сыграть. -->
+</i>
+
+---
+
+<i>This album contains interpretations of my favourite Jobim's bosa-nova songs in Russian and Ukrainian. 
+These songs are dear to my heart for many years, much loved and also played by my parents. 
+Following my parents' passing,  I started feeling them on a new deeper level, wanting to transcribe my feelings in words.  The result is this album. 
+
+The album also contains interpretations by other authors including that by my dear brother and niece as well as a couple of my songs inspired by Jobim. 
+
+<!-- Thank you for letting me share my feelings with you.  -->
+Enjoy - Music doesnot have linquistic borders !
 
 
-<!-- Last updated:  31.12.2017 -->
+<p align=right> Dmitry Gorodnichy </p>
+
+
+
+</i>
+
+<!-- 
+## Copyright note {-}
+
+Copyright &copy; Dmitry Gorodnichy, IVIM Inc. 1992-2018.
+
+The use the copyrighted material for non-commercial purposes. The reference to the source is required. 
+All Rights Reserved.  
+The author grants the right to use the copyrighted material for non-commercial purposes. The reference to the source is required. 
+-->
+
+
+# Table of Content {-}
+
+Last updated:  31.1.2018
+
+## Содержание  {-}
+<!-- Files added since last update are marked * -->
+
+
+Альбом состоит из двух тематически разделенных частей. 
+<!-- В последующих страницах прилагаются записи всех песен: оригиналы из YouTube и новые их интерпретации.  -->
+
+<!-- Альбом состоит из песен  тематически разделенных ИЗ двух частей. -->
+
+В последующих страницах, помимо слов и аккордов, прилагаются записи песен: оригиналы из YouTube и  их новые интерпретации в формате mp3. 
+Записи, помеченные "+", содержат дорожку, наложенную на *правый* канал первоначальной записи. Регулируя баланс, можно достичь желаемой громкости добавленной дорожки.
+
+<!-- песни страницы к песни странице  -->
+Переход от песни к песни можно осуществить либо через открывающееся слева меню, 
+либо передвигаясь последовательно  по линкам внизу каждой страницы. 
+<!-- Имеющиеся на данный момент записи прилагаются в линках. -->
+
+
+<!-- ## Архив музыки {-} -->
+
+
+
+<!--
+Музыка всех песен: Жобим, кроме 19-20 (ДГ)  
+Слова всех песен: ДГ, кроме 6 (Иващенко), 7,20 (Андрей Г.), 9 (Даша Г.)  
+-->
+<!-- Гитара, синтезаторы, голос: ДГ. Все други -->
+
+
 
 ### Part 1: Grand amor {-}
 
-Title | Original | Interpretation
------ | :------: | :---: 
-Дисгармония - Desafinado | + | [+](media/desafinado-w-joao.mp3)  [+](media/desafinado-w-stan.mp3) 
-Тихим теплым вечером - Corcovado | + | - 
-Самба одной ноты - Samba de uno nota so | + | - 
-Безчувственный - Insensatez | + | - 
-Dindi | + | - 
-Garota de Ipanema | + | - 
-Медитация №16 (В грезах любви) - Meditação | + | - 
-Танцую самбу - Só Danço Sambа | + | - 
-Великая любовь - O grand amor | + | -
-
-
+Title | Available recordings
+----- | :---: 
+Дисгармония - Desafinado |  + +
+Тихим теплым вечером - Corcovado | + 
+Самба одной ноты - Samba de uno nota so | + + 
+Безчувственный - Insensatez | + 
+Диньджи - Dindi | - 
+Garota de Ipanema | - 
+Медитация №16 (В грезах любви) - Meditação | - 
+Танцую самбу - Só Danço Sambа | - 
+Великая любовь - O grand amor | -
 <!-- Не уходи - Por causa de voce  | - | - -->
 <!-- Я любил - Amor em paz  | - | - -->
+
+
 
  
 ### Part 2: Ocean {-}
 
-<!-- Title | Lyrics & Chords | Backing track |  Instrumental  | With voice | Live    -->
-<!-- Title | In Portugese | Instrumental | Backing track  | In Russian -->
-<!-- ----- | :-------------: | :--------:  | :---: | :---:  -->
-Title | Original |  Interpretation
------ | :------: | :---: 
-Волна - Wave | + | + 
-Не грусти -  Chega de Saudade  | + | - 
-Самба пробуждения - Favela| + | - 
-зачем всё это? - Unútil Paisagem  | + | - 
-Грустно жить в мире одному - Triste | + | - 
-Жить как во сне - Vivo sonhado  | + | - 
-Медитация №1 (Выше небес) - Meditação | + | - 
-Медитация №22 (Волшебство) - Meditação | + | - 
-Есть радость и печаль - A felicidade | + | - 
-вода жизни - Aqua de beber | + | - 
-Разъезд - Departure | + | + 
-Разница - Conclusion | + | + 
+
+Title | Available recordings
+----- | :---: 
+Волна - Wave | + +
+Самба пробуждения - Favela| - 
+зачем всё это? - Unútil Paisagem  | + +
+Грустно жить в мире одному - Triste | + +
+Жить как во сне - Vivo sonhado  | - 
+Медитация №1 (Выше небес) - Meditação | + 
+Медитация №22 (Волшебство) - Meditação | - 
+Есть радость и печаль - A felicidade | + 
+вода жизни - Aqua de beber | - 
+Разъезд - Departure | + 
+Разница - The difference| + 
+
+<!-- 
+
+Title | Available recordings
+----- | :---: 
+Дисгармония - Desafinado |  [+Joao](http://www.ivim.ca/dg/jobim/media/desafinado-w-joao.mp3)  [+Stan](http://www.ivim.ca/dg/jobim/media/desafinado-w-stan.mp3) 
+Тихим теплым вечером - Corcovado | [+Stan](http://www.ivim.ca/dg/jobim/media/corcovado-w-stan.mp3)  [+Joao](http://www.ivim.ca/dg/jobim/media/corcovado-w-joao.mp3) 
+Самба одной ноты - Samba de uno nota so | [+Elis](http://www.ivim.ca/dg/jobim/media/samba-de-uno-nota-w-elis.mp3)  [+Joao](http://www.ivim.ca/dg/jobim/media/samba-de-uno-nota-w-joao.mp3) 
+Безчувственный - Insensatez | [+Joao](http://www.ivim.ca/dg/jobim/media/insensatez-w-joao.mp3) 
+Диньджи - Dindi | - 
+Garota de Ipanema | - 
+Медитация №16 (В грезах любви) - Meditação | - 
+Танцую самбу - Só Danço Sambа | - 
+Великая любовь - O grand amor | -
 
 
-<!-- Play all originals: video, audio -->
+ 
+### Part 2: Ocean {-}
+
+
+Title | Available recordings
+----- | :---: 
+Волна - Wave | [w.Guitar](http://www.ivim.ca/dg/jobim/media/wave-D7.mp3)  [w.Piano](http://www.ivim.ca/dg/jobim/media/wave-w-instr.mp3) 
+Не грусти -  Chega de Saudade  | - 
+Самба пробуждения - Favela| - 
+зачем всё это? - Unútil Paisagem  | [+Elis](http://www.ivim.ca/dg/jobim/media/unutil-paisagem-w-elis.mp3)  [w.Piano](http://www.ivim.ca/dg/jobim/media/unutil-paisagem-w-instr.mp3) 
+Грустно жить в мире одному - Triste | [+Elis](http://www.ivim.ca/dg/jobim/media/triste-w-elis.mp3)  [w.Piano](http://www.ivim.ca/dg/jobim/media/triste-w-instr.mp3) 
+Жить как во сне - Vivo sonhado  | - 
+Медитация №1 (Выше небес) - Meditação | [w.synth](http://www.ivim.ca/dg/jobim/media/meditation1-D7.mp3) 
+Медитация №22 (Волшебство) - Meditação | - 
+Есть радость и печаль - A felicidade | [+Ella](http://www.ivim.ca/dg/jobim/media/a-felicidade-w-ella.mp3) 
+вода жизни - Aqua de beber | - 
+Разъезд - Departure | + 
+Разница - The difference| [Midi](https://drive.google.com/open?id=1PQtlzIVXUZgbLZPuj6N964yxTFMtmbbL)
+
+
+-->
+
+<!-- 
+[+Ella](http://www.ivim.ca/dg/jobim/media/a-felicidade-w-ella.mp3)
+[+Stan](http://www.ivim.ca/dg/jobim/media/corcovado-w-stan.mp3)
+[+Joao](http://www.ivim.ca/dg/jobim/media/corcovado-w-joao.mp3)
+[+Joao](http://www.ivim.ca/dg/jobim/media/desafinado-w-joao.mp3)
+[+Stan](http://www.ivim.ca/dg/jobim/media/desafinado-w-stan.mp3)
+[+Joao](http://www.ivim.ca/dg/jobim/media/insensatez-w-joao.mp3)
+[w.synth](http://www.ivim.ca/dg/jobim/media/meditation1-D7.mp3)
+[+Elis](http://www.ivim.ca/dg/jobim/media/samba-de-uno-nota-w-elis.mp3)
+[+Joao](http://www.ivim.ca/dg/jobim/media/samba-de-uno-nota-w-joao.mp3)
+[+Elis](http://www.ivim.ca/dg/jobim/media/triste-w-elis.mp3)
+[w.Piano](http://www.ivim.ca/dg/jobim/media/triste-w-instr.mp3)
+[+Elis](http://www.ivim.ca/dg/jobim/media/unutil-paisagem-w-elis.mp3)
+[w.Piano](http://www.ivim.ca/dg/jobim/media/unutil-paisagem-w-instr.mp3)
+[+Ella](http://www.ivim.ca/dg/jobim/media/wave-D7.mp3)
+[w.Piano](http://www.ivim.ca/dg/jobim/media/wave-w-instr.mp3)
+-->
+
+<!-- 
+[Video](https://drive.google.com/open?id=1lyR1L1y31djsSJQBju4Je0GUkzBIOYAi)
+
+
+
+[ [Играть все](http://www.ivim.ca/dg/jobim/media/jobim.m3u) ]
+[ [Выбрать из директории](http://www.ivim.ca/dg/jobim/media) ]
+
+-->
+<!-- <audio controls><source src="http://www.ivim.ca/dg/jobim/media/jobim.m3u"></audio> -->
+
+
 <!-- Play all instrumental: video, audio -->
 <!-- Play all backing tracks: video, audio -->
 <!-- Play all interpretations: video, audio -->
 
-<!-- ## Credits {-} -->
 
-<!-- Original recording from YouTube -->
+
 
 <!-- Music by -->
-
 <!-- Lyrics by  -->
-
 <!-- Chords transcribed by  -->
-
 <!-- The books is created using bookdown in R.  -->
 <!-- Backing tracks are created using Chordbot. -->
 
 
-
-## Copyright note {-}
-
-Copyright &copy; Dmitry Gorodnichy, IVIM Inc. 1992-2017
-        
-All Rights Reserved. 
-All content is protected by the copyright law and may not be copied
-without the expressed permission and the active reference to the source.
-        

@@ -1,6 +1,10 @@
 # Part 1: «Grand amor» {-}
 
 
+```{r,  out.width='75%', fig.align='center', echo=FALSE}
+knitr::include_graphics("images/cover-ShriJobim-part1.jpg")
+```
+
 # Desafinado
 
 
@@ -13,6 +17,15 @@ João Gilberto (1975)
 
 Люда Городничая (2001)  
 <embed align="center" src="https://www.youtube.com/embed/phoncqrWLv4" width="300"></embed>
+
+
+[+ Joao](http://www.ivim.ca/dg/jobim/media/desafinado-w-joao.mp3)
+
+<audio controls><source src="http://www.ivim.ca/dg/jobim/media/desafinado-w-joao.mp3"></audio>
+
+[+ Stan](http://www.ivim.ca/dg/jobim/media/desafinado-w-stan.mp3)
+
+<audio controls><source src="http://www.ivim.ca/dg/jobim/media/desafinado-w-stan.mp3"></audio>
 
 
 ## Дисгармония {-}
@@ -87,6 +100,14 @@ G7 Gm7 C7 F C9- F6 F7M11+
 
 <!-- _8xnQZ86fN4 -->
 
+
+[+ Stan](http://www.ivim.ca/dg/jobim/media/corcovado-w-stan.mp3)
+
+<audio controls><source src="http://www.ivim.ca/dg/jobim/media/corcovado-w-stan.mp3"></audio>
+
+[+ Joao](http://www.ivim.ca/dg/jobim/media/corcovado-w-joao.mp3)
+
+<audio controls><source src="http://www.ivim.ca/dg/jobim/media/corcovado-w-joao.mp3"></audio>
 
 ##  Тихим теплым вечером {-}
 
@@ -171,6 +192,11 @@ F7M          Fm6         Am6
 #  Samba de uno nota so 
 
 <embed align="center" src="https://www.youtube.com/embed/naeq6fFmDpI?t=41s" width="300"></embed>  
+
+
+[+ Elis](http://www.ivim.ca/dg/jobim/media/samba-de-uno-nota-w-elis.mp3)
+[+ Joao](http://www.ivim.ca/dg/jobim/media/samba-de-uno-nota-w-joao.mp3)
+
 
 ##  Самба одной ноты {-}
 
@@ -275,6 +301,12 @@ B0 Bb7/-5
 
 <embed align="center" src="https://www.youtube.com/embed/PHIe9B5plDI" width="300"></embed>  
 
+[+ Joao](http://www.ivim.ca/dg/jobim/media/insensatez-w-joao.mp3)
+
+
+<audio controls><source src="http://www.ivim.ca/dg/jobim/media/insensatez-w-joao.mp3"></audio>
+
+
 ##  Безчувственный {-}
 
 
@@ -288,7 +320,6 @@ B0 Bb7/-5
 я был жесток,
 бездушен был
 когда ты была со мною 
-
   ты 
   читала мне
   свои стихи
@@ -298,7 +329,6 @@ B0 Bb7/-5
 нам соловей
 и не было
 тебя нежней на всей планете
-
    но
    я не ценил
    и ты ушла
@@ -308,7 +338,6 @@ B0 Bb7/-5
 теперь мне быть 
 мне не забыть 
 твои глаза твою улыбку 
-
    мир
    совсем другим 
    стал без тебя 
@@ -317,12 +346,11 @@ B0 Bb7/-5
 ночь
 теперь не та 
 рассвет не тот 
-В нем нет ни радости ни цвета 
-
-   Как
-   же мне вернуть 
-   Тебя вернуть, 
-   Как мне вернуть опять всё это?... 
+в нем нет ни радости ни цвета 
+   как
+   же мне вернуть
+   тебя вернуть, 
+   как мне вернуть опять всё это?... 
 
 2011
                         
@@ -347,7 +375,7 @@ Bm7
 
 <embed align="center" src="https://www.youtube.com/embed/eEK6gyoR7LQ" width="300"></embed>  
 
-##  динди {-}
+##  Диньджи  {-}
 
 <blockquote>
 <cite>
@@ -365,7 +393,7 @@ Bm7
 О ком он поёт? -
 Поёт он о тебе.
 
-О динди,
+О Диньджи,
 где найти мне такие слова
 чтобы чувства свои передать.
 Радость моя, ты моя Благодать.
@@ -375,11 +403,11 @@ Bm7
 Ты - музыка моя
 нежная, светлая.
 
-Знаешь что, Динди,
+Знаешь что, Диньджи,
 Я лечу к тебе через мира
 Словно птица на крыльях любви
 Где б ни был ты
-Мой любимый Динди...
+Мой любимый Диньджи...
 
 2017
 
@@ -513,7 +541,7 @@ CM7
 
 # Garota de Ipanema
 
-<embed align="center" src="https://www.youtube.com/embed/91ofb4JEwQY" width="300"></embed>  
+<embed  src="https://www.youtube.com/embed/91ofb4JEwQY" width="300"></embed>  
 
 
 <!-- ) -->
@@ -539,7 +567,7 @@ CM7
 <!-- ) -->
 
 
-##  Garota de Ipanema  {-}
+##  Девушка из Ипанемы {-}
 
 <blockquote>
 <cite>
@@ -586,11 +614,10 @@ CM7
 </blockquote>
 
 
-# Meditation
+# Meditação
 
 
-<<<<<<< 
-<embed align="center" src="https://www.youtube.com/embed/wg9V9o5BvaA" width="300"	>
+<embed src="https://www.youtube.com/embed/wg9V9o5BvaA" width="300"	>
 
 <!-- wg9V9o5BvaA   NlwRqD_hvuE  HGLUgbxlsYA-->
 
@@ -608,33 +635,31 @@ CM7
 Утром ждал, днём встречал, ночь писал,
 Вновь скомкав свой листок;
 
-        Ей цветы дарил
-        И стихи сочинял и читал —
-        О любви только не говорил!
+    Ей цветы дарил
+    И стихи сочинял и читал —
+    О любви только не говорил!
 
 Выпала роса
 Под окном, где стоять был рад
 В мечтаньях два часа:
 
-        Ведь она вчера
-        И ладонь, и улыбку, и взгляд
-        Доверяла ему как сестра!
+    Ведь она вчера
+    И ладонь, и улыбку, и взгляд
+    Доверяла ему как сестра!
 
-                Пульс остановив,
-                Решил, что ей 
-                Признается в любви!
+        Пульс остановив,
+        Решил, что ей 
+        Признается в любви!
 
 Лишь заснул к утру:
 Снился с мамой её разговор,
 Что он ей — лучший друг;
 
-        И сошёл с ума,
-        Когда имя его на весь двор
-        Прокричала сама…
-        
-        
+    И сошёл с ума,
+    Когда имя его на весь двор
+    Прокричала сама…
+    
 2017
-
 
     G6 Gº
     G6 Bm7

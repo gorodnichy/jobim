@@ -1,13 +1,25 @@
 # Part 2: «Ocean» {-}
 
+
+```{r,  out.width='75%', fig.align='center', echo=FALSE}
+knitr::include_graphics("images/cover-ShriJobim-part2.jpg")
+```
+
 # Wave 
 
 <!-- [[embed url="https://youtu.be/e0mEAo3anwI"]] -->
 
-<embed  src="https://www.youtube.com/embed/e0mEAo3anwI" width="300"></embed>  
+<embed src="https://www.youtube.com/embed/e0mEAo3anwI"></embed>  
+
+[w.Guitar](http://www.ivim.ca/dg/jobim/media/wave-D7.mp3)  
+
+<audio controls><source src="http://www.ivim.ca/dg/jobim/media/wave-D7.mp3"></audio>
+
+[w.Piano](http://www.ivim.ca/dg/jobim/media/wave-w-instr.mp3)  
+
+<audio controls><source src="http://www.ivim.ca/dg/jobim/media/wave-w-instr.mp3"></audio> 
 
 
-<!-- iffff -->
 <!-- <iframe width="560" height="315" src="https://youtu.be/e0mEAo3anwI"></iframe> -->
 
 
@@ -66,9 +78,9 @@
    Всё, что знать хотел - его спроси
    И ответ с собою унеси...
 
-
 Март 2017
 
+-------------------------------------
 
 (Dm7 G/D) x 2
 
@@ -79,10 +91,8 @@ B7+ Daug
 E74(B7) E7(Bm7)
 Bb7(9) A7(13)
 
-
    Gm7 C7(Gm6) Am7
    Fm7 Bb7(Fm6) Gm7 Bbm6(A74) A7
-   
 </pre>
 </blockquote>
 
@@ -93,8 +103,13 @@ Bb7(9) A7(13)
 <embed src="https://www.youtube.com/embed/N8RVD7wMsDY" width="300"></embed>  
 
 
+[+ Elis](http://www.ivim.ca/dg/jobim/media/triste-w-elis.mp3)  
+<audio controls><source src="http://www.ivim.ca/dg/jobim/media/triste-w-elis.mp3"></audio>
 
-## Грустно жить в мире одному
+[w.Piano](http://www.ivim.ca/dg/jobim/media/triste-w-instr.mp3)
+<audio controls><source src="http://www.ivim.ca/dg/jobim/media/triste-w-instr.mp3"></audio>
+
+## Грустно жить в мире одному {-}
 <!-- (Ни этот простор -->
 <!-- Дали голубой, -->
 <!-- Ни детский восторг, -->
@@ -130,10 +145,10 @@ Bb7(9) A7(13)
   Ни лунный аккорд,
   Сочинённый тобой...
 
-Но то, что серцем рождено,
+Но то, что сердцем рождено,
 Способно взмыть так высоко!
 И не так много лет пройдет
-Как твой сад зацветет
+Как твой сад зацветет,
 И зазвучит вновь твой аккорд!
 
 2017
@@ -349,9 +364,21 @@ E7 Am
 
 # Unútil Paisagem 
 
-<embed  src="https://www.youtube.com/embed/9-914GyPR6c" width="300"></embed>  
+<embed  src="https://www.youtube.com/embed/9-914GyPR6c" width="300"></embed> 
 
-## зачем всё это? {-}
+
+[+ Elis](http://www.ivim.ca/dg/jobim/media/unutil-paisagem-w-elis.mp3)    
+
+
+<audio controls><source src="http://www.ivim.ca/dg/jobim/media/unutil-paisagem-w-elis.mp3"></audio>
+
+
+[w.Piano](http://www.ivim.ca/dg/jobim/media/unutil-paisagem-w-instr.mp3)
+
+<audio controls><source src="http://www.ivim.ca/dg/jobim/media/unutil-paisagem-w-instr.mp3"></audio>
+
+
+## Зачем всё это? {-}
 
 <blockquote>
 <cite>
@@ -360,8 +387,8 @@ E7 Am
 <pre>
 О,
 зачем
-это лето мне
-эти звезды в далеке
+это лето мне 
+эти звезды в далеке 
 это небо, луна и рассвет
 что вот-вот вновь настанет
 если тебя нет
@@ -393,7 +420,6 @@ B(m?)7(#9)
 E74 A7(13)
 D7(9) A7+
 Bb7(13)
-
 ...
 Bb7(9/#11)
 A7+
@@ -473,6 +499,12 @@ G6 Gm5+
 #  A felicidade 
 
 <embed src="https://www.youtube.com/embed/gqhzemroh14" width="300"></embed>  
+
+
+
+[+ Ella](http://www.ivim.ca/dg/jobim/media/a-felicidade-w-ella.mp3)
+
+<audio controls><source src="http://www.ivim.ca/dg/jobim/media/a-felicidade-w-ella.mp3"></audio>
 
 ##  Есть радость и печаль {-}
 
@@ -650,7 +682,7 @@ Em7(9)  Bm7
 
 [Chords](https://www.cifraclub.com.br/tom-jobim/agua-de-beber/) 
 
-#Meditation
+#Meditação
 
 
 <embed align="center" src="https://www.youtube.com/embed/HGLUgbxlsYA" width="300"></embed>  
@@ -658,7 +690,13 @@ Em7(9)  Bm7
 <!-- wg9V9o5BvaA   NlwRqD_hvuE  HGLUgbxlsYA-->
 
 
-##  Медитация #22 (Волшебство) {-}
+
+[w.synth](http://www.ivim.ca/dg/jobim/media/meditation1-D7.mp3)
+
+<audio controls><source src="http://www.ivim.ca/dg/jobim/media/meditation1-D7.mp3"></audio>
+
+
+##  Медитация #1 (Волшебство) {-}
 
 
 <blockquote>
@@ -667,32 +705,30 @@ Em7(9)  Bm7
 Слова: Д. Городничий
 </cite> 
 <pre>
-    Тот кто был влюблен, 
-    Кто поднялся выше небес, 
-    Исскуством окрылён,
-           Тот уж никогда 
-           Не захочет, не сможет идти
-           По любому другому пути.
 
-    Кто писал стихи,
-    Кто волшебных мелодий букет 
-    Мог среди звезд найти — 
-          Тот не сможет жить 
-          По-другому уже никогда:
-          Словно воздух — любовь, красота.
+В час когда одна 
+Ты стоишь на распутье дорог, 
+Не зная, где твоя, 
+Ты глаза закрой 
+и представь что ты далеко- 
+далеко за огромной горой.
 
-Дай мне Бог понять,
-Как миг прозренья Людям передать!
+Там увидишь ты 
+безграничное поле из трав 
+Невиданной красоты. 
+Ты зайди в него - 
+И почувствуешь как легкий бриз 
+вдруг каснётся твоих ресниц.
 
-    В час, когда один,
-    Когда в море бушуют ветра 
-    И выбьешься из сил,
-          Вспомни, как любил —
-          Окажешься снова ты там,
-          Где царит красота...
-       
-Где бы не был я – 
-Всегда со мною радость бытия..
+   Ты вдохни его 
+   и сразу завершится волшебство. 
+
+Вместо слабости 
+И растерянности 
+перед лицом неизвестности 
+Ты вдруг всё поймешь 
+Почему ты на свете живешь 
+И как дальше идти.
 
 2017
 
@@ -726,29 +762,32 @@ Em7(9)  Bm7
 Слова: Д. Городничий
 </cite> 
 <pre>
-В час когда одна 
-Ты стоишь на распутье дорог, 
-Не зная, где твоя, 
-Ты глаза закрой 
-и представь что ты далеко- 
-далеко за огромной горой.
+Тот кто был влюблен, 
+Кто поднялся выше небес, 
+Исскуством окрылён,
+   Тот уж никогда 
+   Не захочет, не сможет идти
+   По любому другому пути.
 
-Там увидишь ты 
-безграничное поле из трав 
-Невиданной красоты. 
-Ты зайди в него - 
-И почувствуешь как легкий бриз 
-вдруг каснётся твоих ресниц.
+Кто писал стихи,
+Кто волшебных мелодий букет 
+Мог среди звезд найти — 
+  Тот не сможет жить 
+  По-другому уже никогда:
+  Словно воздух — любовь, красота.
 
-   Ты вдохни его 
-   и сразу завершится волшебство. 
+Дай мне Бог понять,
+Как миг прозренья Людям передать!
 
-Вместо слабости 
-И растерянности 
-перед лицом неизвестности 
-Ты вдруг всё поймешь 
-Почему ты на свете живешь 
-И как дальше идти
+В час, когда один,
+Когда в море бушуют ветра 
+И выбьешься из сил,
+  Вспомни, как любил —
+  Окажешься снова ты там,
+  Где царит красота...
+   
+Где бы не был я – 
+Всегда со мною радость бытия!
 
 2017
 </pre>
@@ -857,7 +896,7 @@ As they are mutely echoing to us:
 
 
 
-#  Conclusion 
+#  The Difference
 
 
 <embed  src="https://www.youtube.com/embed/eMCzn4p3Ftk" width="300"></embed>  
@@ -915,7 +954,7 @@ As they are mutely echoing to us:
 
 <center>
 <br>
-** --- ॐ --- **
+**- ॐ -**
 </center>
 <!-- # Comments {-} -->
 
