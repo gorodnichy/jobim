@@ -1,13 +1,11 @@
 --- 
 #title: "«Ivim ambraça Jobim»"
 title: "«Shri Jobim»"
-subtitle: "(Tribute to Antonio Carlos Jobim in Ukrainian and Russian, 1992-2017)"
-# subtitle: "(Interpretations of Antonio Carlos Jobim songs in Russian"
-# subtitle: "Songs by and inspired by Antonio Carlos Jobim in Russian"
+subtitle: "Tribute to Antonio Carlos Jobim in Ukrainian and Russian"
+# subtitle: "(Interpretations of Antonio Carlos Jobim songs in Russian , 1992-2017)"
 # subtitle: "Antonio Carlos Jobim songbook"
 # author: "Дмитрий Городничий"
 author: "Dmitry Gorodnichy"
-#author: "Compiled by IVIM"
 # date: "DRAFT. Last updated: `r Sys.Date()`"
 # date: "`r Sys.Date()`"
 # date: "31/12/2017"
@@ -30,7 +28,7 @@ link-citations: yes
 description: "Antonio Carlos Jobim songs re-interpreted by Dmitry Gorodnichy"
 github-repo: "gorodnichy/Shri-Jobim"
 url: 'http\://bookdown.org/gorodnichy/Shri-Jobim/'
-cover-image: "images/cover-book-ShriJobim.jpg"
+cover-image: "c_jobim/cover-book-ShriJobim.jpg"
 ---
 
 <!-- <img alt="« Shri Jobim »" border="1" height="500" src="images/cover-book-ShriJobim.jpg"  /> <br> -->
@@ -39,24 +37,7 @@ cover-image: "images/cover-book-ShriJobim.jpg"
 
 
 
-# Foreword {-}
-
-
-<!-- Introduction  От автора  -->
-
-<!-- Этот альбом составлен для моих родителей и детей.
-записан с мыслями о моих родителях и детях.
-
-И последнее это мой главный проект года написание и издание книжки переводов интерпретаций моих любимых песен Жобима. 
-
-Уже много лет я их очень люблю . мы их любили слушать и играть с моими родителями,  и когда их не стало  я  как-то особенно стал их чувствовать  и эти чувства мне захотелось  передать в словах. А что получилась читайте и слушайте сами.
-
-
-Приятного прослушивания
-
-Ваш Д.Г. -->
-
-<!-- [Follow this album on Google+](https://plus.google.com/u/1/collection/Eg2aKE)  -->
+# Содержание {-}
 
 
 <!-- 
@@ -66,65 +47,54 @@ knitr::include_graphics("images/cover-cd-ShriJobim.jpg")
 -->
 
 ```{r,  out.width='75%', fig.align='center', echo=FALSE}
-knitr::include_graphics("images/cover-cd-ShriJobim.jpg")
+knitr::include_graphics("c_jobim/cover-cd-ShriJobim.jpg")
 ```
 
+
+
+<!--
 ## От автора {-}
 
-<i>В этот альбом вошли переводы и интерпретации  моих любимых песен Антонио Карлоса Жобима. 
+<i>В этот альбом вошли мои переводы и интерпретации  любимых песен Антонио Карлоса Жобима. 
+
 Уже много лет они звучат во мне. Мы их любили слушать и играть с моими родителями.  А когда их не стало,   я  как-то особенно стал их чувствовать, и эти чувства мне захотелось  передать в словах. Результат -  этот альбом. 
 
-В альбом также вошли переводы и интерпретации других авторов, включая моих дорогих брата и племянницы, а также несколько песен, рождённых под влиянием жобимовской музыки.
+В альбом также вошли переводы и интерпретации других авторов, включая моих  брата и племянницы, а также несколько песен, рождённых под влиянием жобимовской музыки. Аккорды прилагаются.
 
 Приятного прослушивания! 
 
 <p align=right> Дмитрий Городничий </p>
-<!-- Упрощённые аккорды прилагаются для желающих их сыграть. -->
+Упрощённые аккорды прилагаются для желающих их сыграть. 
 </i>
 
 ---
 
 <i>This album contains interpretations of my favourite Jobim's bosa-nova songs in Russian and Ukrainian. 
-These songs are dear to my heart for many years, much loved and also played by my parents. 
-Following my parents' passing,  I started feeling them on a new deeper level, wanting to transcribe my feelings in words.  The result is this album. 
+<!- These songs are dear to my heart for many years, much loved and also played by my parents. 
+Following my parents' passing,  I started feeling them on a new deeper level, wanting to transcribe my feelings in words.  The result is this album. ->
 
-The album also contains interpretations by other authors including that by my dear brother and niece as well as a couple of my songs inspired by Jobim. 
+The album also contains interpretations by other authors including that by my  brother and niece as well as a couple of my songs inspired by Jobim. Chords are provided.
 
-<!-- Thank you for letting me share my feelings with you.  -->
+<!- Thank you for letting me share my feelings with you.  ->
 Enjoy - Music doesnot have linquistic borders !
 
 
 <p align=right> Dmitry Gorodnichy </p>
 
 
-
 </i>
 
-<!-- 
-## Copyright note {-}
-
-Copyright &copy; Dmitry Gorodnichy, IVIM Inc. 1992-2018.
-
-The use the copyrighted material for non-commercial purposes. The reference to the source is required. 
-All Rights Reserved.  
-The author grants the right to use the copyrighted material for non-commercial purposes. The reference to the source is required. 
 -->
 
 
-# Table of Content {-}
 
-Last updated:  31.1.2018
-
-## Содержание  {-}
-<!-- Files added since last update are marked * -->
+<!-- # Table of Content {-} -->
 
 
-Альбом состоит из двух тематически разделенных частей. 
-<!-- В последующих страницах прилагаются записи всех песен: оригиналы из YouTube и новые их интерпретации.  -->
+Альбом состоит из тематически разделенных двух частей. Первая часть («Grand amor») состоит из песен о любви, вторая  («Ocean») из песен о смысле и красоте жизни.
 
-<!-- Альбом состоит из песен  тематически разделенных ИЗ двух частей. -->
 
-В последующих страницах, помимо слов и аккордов, прилагаются записи песен: оригиналы из YouTube и  их новые интерпретации в формате mp3. 
+Помимо слов и аккордов, прилагаются записи песен: оригиналы из YouTube и  их новые интерпретации в формате mp3. 
 Записи, помеченные "+", содержат дорожку, наложенную на *правый* канал первоначальной записи. Регулируя баланс, можно достичь желаемой громкости добавленной дорожки.
 
 <!-- песни страницы к песни странице  -->
@@ -133,19 +103,16 @@ Last updated:  31.1.2018
 <!-- Имеющиеся на данный момент записи прилагаются в линках. -->
 
 
+
+
 <!-- ## Архив музыки {-} -->
 
 
 
-<!--
-Музыка всех песен: Жобим, кроме 19-20 (ДГ)  
-Слова всех песен: ДГ, кроме 6 (Иващенко), 7,20 (Андрей Г.), 9 (Даша Г.)  
--->
-<!-- Гитара, синтезаторы, голос: ДГ. Все други -->
+<i> Last updated:  31.1.2018 </i> <br>
 
+<b> Часть 1: «Grand amor»  </b>
 
-
-### Part 1: Grand amor {-}
 
 Title | Available recordings
 ----- | :---: 
@@ -162,17 +129,18 @@ Garota de Ipanema | -
 <!-- Я любил - Amor em paz  | - | - -->
 
 
-
+<br>
  
-### Part 2: Ocean {-}
+<b> Часть 2:  «Ocean»  </b>
 
 
 Title | Available recordings
 ----- | :---: 
 Волна - Wave | + +
+Грустно жить в мире одному - Triste | + +
+Не грусти - Chega de Saudade | + +
 Самба пробуждения - Favela| - 
 зачем всё это? - Unútil Paisagem  | + +
-Грустно жить в мире одному - Triste | + +
 Жить как во сне - Vivo sonhado  | - 
 Медитация №1 (Выше небес) - Meditação | + 
 Медитация №22 (Волшебство) - Meditação | - 
@@ -180,6 +148,11 @@ Title | Available recordings
 вода жизни - Aqua de beber | - 
 Разъезд - Departure | + 
 Разница - The difference| + 
+
+
+<!-- Гитара, синтезаторы, голос: ДГ. Все други -->
+
+
 
 <!-- 
 
@@ -260,5 +233,28 @@ Title | Available recordings
 <!-- Chords transcribed by  -->
 <!-- The books is created using bookdown in R.  -->
 <!-- Backing tracks are created using Chordbot. -->
+
+
+
+
+Музыка: Жобим, кроме 19-20 (Дмитрий Городничий).   
+Слова: Дмитрий Городничий, кроме 6 (Алексей  Иващенко), 7,20 (Андрей Городничий), 9 (Даша Городничaя).  
+
+
+
+Версия для печати:  [PDF](Shri-Jobim.pdf), [EPUB](Shri-Jobim.epub).   
+Online: https://bookdown.org/gorodnichy/jobim, [www.ivim.ca/dg/jobim](http://www.ivim.ca/dg/jobim).
+
+<!-- [Follow this album on Google+](https://plus.google.com/u/1/collection/Eg2aKE)  -->
+
+
+Книга сделана с использованием [R](https://www.rstudio.com/) and [bookdown](https://bookdown.org/). Источник на [github](https://github.com/gorodnichy/Shri-Jobim).
+
+## Copyright note {-}
+
+Copyright &copy; Dmitry Gorodnichy, IVIM Inc. 1992-2018.   
+All Rights Reserved. The use the copyrighted material for non-commercial purposes is allowed. The reference to the source is required. 
+ 
+<!-- The author grants the right to use the copyrighted material for non-commercial purposes. The reference to the source is required.  -->
 
 

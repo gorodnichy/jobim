@@ -1,8 +1,10 @@
-# Part 2: «Ocean» {-}
+# Часть 2: «Ocean» {-}
+
+<b> <p align="center"> Песни о смысле и красоте жизни </p> </b>
 
 
 ```{r,  out.width='75%', fig.align='center', echo=FALSE}
-knitr::include_graphics("images/cover-ShriJobim-part2.jpg")
+knitr::include_graphics("c_jobim/cover-ShriJobim-part2.jpg")
 ```
 
 # Wave 
@@ -11,13 +13,6 @@ knitr::include_graphics("images/cover-ShriJobim-part2.jpg")
 
 <embed src="https://www.youtube.com/embed/e0mEAo3anwI"></embed>  
 
-[w.Guitar](http://www.ivim.ca/dg/jobim/media/wave-D7.mp3)  
-
-<audio controls><source src="http://www.ivim.ca/dg/jobim/media/wave-D7.mp3"></audio>
-
-[w.Piano](http://www.ivim.ca/dg/jobim/media/wave-w-instr.mp3)  
-
-<audio controls><source src="http://www.ivim.ca/dg/jobim/media/wave-w-instr.mp3"></audio> 
 
 
 <!-- <iframe width="560" height="315" src="https://youtu.be/e0mEAo3anwI"></iframe> -->
@@ -96,18 +91,20 @@ Bb7(9) A7(13)
 </pre>
 </blockquote>
 
+
+[w.Guitar](http://www.ivim.ca/dg/jobim/media/wave-D7.mp3)  
+
+<audio controls><source src="http://www.ivim.ca/dg/jobim/media/wave-D7.mp3"></audio>
+
+[w.Piano](http://www.ivim.ca/dg/jobim/media/wave-w-instr.mp3)  
+
+<audio controls><source src="http://www.ivim.ca/dg/jobim/media/wave-w-instr.mp3"></audio> 
+
 # Triste 
 
 
 
 <embed src="https://www.youtube.com/embed/N8RVD7wMsDY" width="300"></embed>  
-
-
-[+ Elis](http://www.ivim.ca/dg/jobim/media/triste-w-elis.mp3)  
-<audio controls><source src="http://www.ivim.ca/dg/jobim/media/triste-w-elis.mp3"></audio>
-
-[w.Piano](http://www.ivim.ca/dg/jobim/media/triste-w-instr.mp3)
-<audio controls><source src="http://www.ivim.ca/dg/jobim/media/triste-w-instr.mp3"></audio>
 
 ## Грустно жить в мире одному {-}
 <!-- (Ни этот простор -->
@@ -167,6 +164,15 @@ Amaj7 Fmaj7/5- A Dbm7 F#7/+5/9- F#7/+5
 
 </pre>
 </blockquote>
+
+
+
+[+ Elis](http://www.ivim.ca/dg/jobim/media/triste-w-elis.mp3)  
+<audio controls><source src="http://www.ivim.ca/dg/jobim/media/triste-w-elis.mp3"></audio>
+
+[w.Piano](http://www.ivim.ca/dg/jobim/media/triste-w-instr.mp3)
+<audio controls><source src="http://www.ivim.ca/dg/jobim/media/triste-w-instr.mp3"></audio>
+
 
 # Chega de Saudade 
 
@@ -366,18 +372,6 @@ E7 Am
 
 <embed  src="https://www.youtube.com/embed/9-914GyPR6c" width="300"></embed> 
 
-
-[+ Elis](http://www.ivim.ca/dg/jobim/media/unutil-paisagem-w-elis.mp3)    
-
-
-<audio controls><source src="http://www.ivim.ca/dg/jobim/media/unutil-paisagem-w-elis.mp3"></audio>
-
-
-[w.Piano](http://www.ivim.ca/dg/jobim/media/unutil-paisagem-w-instr.mp3)
-
-<audio controls><source src="http://www.ivim.ca/dg/jobim/media/unutil-paisagem-w-instr.mp3"></audio>
-
-
 ## Зачем всё это? {-}
 
 <blockquote>
@@ -425,6 +419,18 @@ Bb7(9/#11)
 A7+
 </pre>
 </blockquote>
+
+
+
+[+ Elis](http://www.ivim.ca/dg/jobim/media/unutil-paisagem-w-elis.mp3)    
+
+
+<audio controls><source src="http://www.ivim.ca/dg/jobim/media/unutil-paisagem-w-elis.mp3"></audio>
+
+
+[w.Piano](http://www.ivim.ca/dg/jobim/media/unutil-paisagem-w-instr.mp3)
+
+<audio controls><source src="http://www.ivim.ca/dg/jobim/media/unutil-paisagem-w-instr.mp3"></audio>
 
 
 
@@ -501,11 +507,6 @@ G6 Gm5+
 <embed src="https://www.youtube.com/embed/gqhzemroh14" width="300"></embed>  
 
 
-
-[+ Ella](http://www.ivim.ca/dg/jobim/media/a-felicidade-w-ella.mp3)
-
-<audio controls><source src="http://www.ivim.ca/dg/jobim/media/a-felicidade-w-ella.mp3"></audio>
-
 ##  Есть радость и печаль {-}
 
 <blockquote>
@@ -562,6 +563,12 @@ Dº      Am7     D7/9
 Am7     D7/9    Am7
 </pre>
 </blockquote>
+
+
+
+[+ Ella](http://www.ivim.ca/dg/jobim/media/a-felicidade-w-ella.mp3)
+
+<audio controls><source src="http://www.ivim.ca/dg/jobim/media/a-felicidade-w-ella.mp3"></audio>
 
 
 <!-- ### Счастье - это легкий мотылек {-} -->
@@ -690,12 +697,6 @@ Em7(9)  Bm7
 <!-- wg9V9o5BvaA   NlwRqD_hvuE  HGLUgbxlsYA-->
 
 
-
-[w.synth](http://www.ivim.ca/dg/jobim/media/meditation1-D7.mp3)
-
-<audio controls><source src="http://www.ivim.ca/dg/jobim/media/meditation1-D7.mp3"></audio>
-
-
 ##  Медитация #1 (Волшебство) {-}
 
 
@@ -752,6 +753,14 @@ Em7(9)  Bm7
     G6
 </pre>
 </blockquote>
+
+
+
+
+
+[w.synth](http://www.ivim.ca/dg/jobim/media/meditation1-D7.mp3)
+
+<audio controls><source src="http://www.ivim.ca/dg/jobim/media/meditation1-D7.mp3"></audio>
 
 
 ## Медитация #7 (Выше небес) {-}
@@ -954,7 +963,7 @@ As they are mutely echoing to us:
 
 <center>
 <br>
-**- ॐ -**
+** ॐ **
 </center>
 <!-- # Comments {-} -->
 
