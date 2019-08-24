@@ -6,8 +6,8 @@
 .privD7
 .Rproj.user/
 _bookdown_files/
-help/
-fun/extract.R
+_book/
+backup/
 rsconnect/
 rsconnect*/
 rsconnectbaydap/
