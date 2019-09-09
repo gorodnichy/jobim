@@ -689,7 +689,7 @@ Em7(9)  Bm7
 
 [Chords](https://www.cifraclub.com.br/tom-jobim/agua-de-beber/) 
 
-#Meditação
+# Meditação {#Meditacao}
 
 
 <embed align="center" src="https://www.youtube.com/embed/HGLUgbxlsYA" width="300"></embed>  
@@ -763,7 +763,7 @@ Em7(9)  Bm7
 <audio controls><source src="http://www.ivim.ca/dg/jobim/media/meditation1-D7.mp3"></audio>
 
 
-## Медитация #7 (Выше небес) {-}
+## Медитация #7 (Когда ты выше небес) {-}
 
 <blockquote>
 <cite>

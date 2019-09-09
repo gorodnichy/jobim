@@ -1,14 +1,16 @@
 --- 
 #title: "«Ivim ambraça Jobim»"
 title: "«Shri Jobim»"
-subtitle: "Tribute to Antonio Carlos Jobim in Ukrainian and Russian"
-# subtitle: "(Interpretations of Antonio Carlos Jobim songs in Russian , 1992-2017)"
+subtitle: "Songs of Antonio Carlos Jobim, re-intepreted" 
+#(in Ukrainian and Russian)"
+# subtitle: "(Interpretations of Antonio Carlos Jobim songs in Russian 
+#subtitle: "Tribute to Antonio Carlos Jobim in Ukrainian and Russian"
 # subtitle: "Antonio Carlos Jobim songbook"
 # author: "Дмитрий Городничий"
 author: "Dmitry Gorodnichy"
 # date: "DRAFT. Last updated: `r Sys.Date()`"
 # date: "`r Sys.Date()`"
-# date: "31/12/2017"
+date: "Version 1.2.1 (2019/08/30)"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 # output:
@@ -37,46 +39,30 @@ cover-image: "c_jobim/cover-book-ShriJobim.jpg"
 
 
 
-# Содержание {-}
 
 
-<!-- 
-```{r,  fig.cap="CD Cover", out.width='75%', fig.align='center', echo=FALSE}
-knitr::include_graphics("images/cover-cd-ShriJobim.jpg")
-```
--->
-
-```{r,  out.width='75%', fig.align='center', echo=FALSE}
-knitr::include_graphics("c_jobim/cover-cd-ShriJobim.jpg")
-```
+# Foreword / От автора {-}
 
 
+<i>This album contains my interpretations of my favourite Jobim's bosa-nova songs in Russian and Ukrainian. 
+These songs have been dear to my heart for many years. - 
 
-<!--
-## От автора {-}
-
-<i>В этот альбом вошли мои переводы и интерпретации  любимых песен Антонио Карлоса Жобима. 
-
-Уже много лет они звучат во мне. Мы их любили слушать и играть с моими родителями.  А когда их не стало,   я  как-то особенно стал их чувствовать, и эти чувства мне захотелось  передать в словах. Результат -  этот альбом. 
-
-В альбом также вошли переводы и интерпретации других авторов, включая моих  брата и племянницы, а также несколько песен, рождённых под влиянием жобимовской музыки. Аккорды прилагаются.
-
-Приятного прослушивания! 
-
-<p align=right> Дмитрий Городничий </p>
-Упрощённые аккорды прилагаются для желающих их сыграть. 
-</i>
-
----
-
-<i>This album contains interpretations of my favourite Jobim's bosa-nova songs in Russian and Ukrainian. 
-<!- These songs are dear to my heart for many years, much loved and also played by my parents. 
-Following my parents' passing,  I started feeling them on a new deeper level, wanting to transcribe my feelings in words.  The result is this album. ->
+They were much loved by my parents, who could also play some of them on piano.
+Following the passing of my parents (in 2003 and then in 2016),  I started feeling them on a new, deeper level.
+Then I started playing them on the guitar, however with my own lyrics which transcribe my feelings in words.  The result is this album. 
 
 The album also contains interpretations by other authors including that by my  brother and niece as well as a couple of my songs inspired by Jobim. Chords are provided.
 
-<!- Thank you for letting me share my feelings with you.  ->
-Enjoy - Music doesnot have linquistic borders !
+
+What is beautiful about music is that as eternal as it trans
+People of all time and a
+This makes it sacred, expecially such beautiful music as composed by Jobim.
+
+is  you don't need to know the language
+
+<!-- Enjoy !- Music does not have linquistic borders ! -->
+
+Thank you for letting me share my feelings with you.  
 
 
 <p align=right> Dmitry Gorodnichy </p>
@@ -84,7 +70,27 @@ Enjoy - Music doesnot have linquistic borders !
 
 </i>
 
--->
+---
+
+<i>В этот альбом вошли мои переводы и интерпретации  любимых песен Антонио Карлоса Жобима. 
+Уже много лет они звучат во мне. Мы их любили слушать и играть с моими родителями.  А когда их не стало,   я  как-то особенно стал их чувствовать, и эти чувства мне захотелось  передать в словах. Результат -  этот альбом. 
+
+В альбом также вошли переводы и интерпретации других авторов, 
+<!-- включая моих  брата и племянницы,  -->
+а также несколько песен, рождённых под влиянием жобимовской музыки.
+
+Аккорды,  втом варианте как я их играю, прилагаются.
+<!-- Упрощённые аккорды прилагаются для желающих их сыграть.  -->
+
+<!-- Приятного прослушивания !  -->
+
+<p align=right> Дмитрий Городничий </p>
+
+</i>
+
+---
+
+
 
 
 
@@ -105,11 +111,25 @@ Enjoy - Music doesnot have linquistic borders !
 
 
 
+## Содержание {-}
+
+
+<!-- 
+```{r,  fig.cap="CD Cover", out.width='75%', fig.align='center', echo=FALSE}
+knitr::include_graphics("images/cover-cd-ShriJobim.jpg")
+```
+-->
+
+  ```{r,  out.width='75%', fig.align='center', echo=FALSE}
+knitr::include_graphics("c_jobim/cover-cd-ShriJobim.jpg")
+```
+
+
 <!-- ## Архив музыки {-} -->
 
 
 
-<i> Last updated:  31.1.2018 </i> <br>
+<!-- <i> Last updated:  31.1.2018 </i> <br> -->
 
 <b> Часть 1: «Grand amor»  </b>
 
