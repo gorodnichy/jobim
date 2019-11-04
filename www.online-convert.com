@@ -1,13 +1,1 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-.RDataTmp
-.privD7
-.Rproj.user/
-_bookdown_files/
-help/
-fun/extract.R
-rsconnect/
-rsconnect*/
-rsconnectbaydap/
+www.online-convert.com

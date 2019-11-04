@@ -1,0 +1,236 @@
+---
+title: "Advanced R Solutions"
+author: "Malte Grosser, Henning Bumann, Peter Hurford & Robert Krzyzanowski"
+date: "`r Sys.Date()`"
+knit: "bookdown::render_book"
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    includes:
+#      in_header: html_header.html  # uncomment for javascript-pulldowns
+    config:
+      toc:
+          collapse: section
+          scroll_highlight: yes
+          before: null
+          after: null
+      edit: https://github.com/Tazinho/Advanced-R-Solutions/edit/master/%s
+documentclass: book
+bibliography: [packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: Tazinho/Advanced-R-Solutions
+# before_chapter_script: ["before_chapter_script_1.R"]
+description: "Solutions to the exercises in Hadley Wickham's book Advanced R."
+cover-image: images/advrs_cover3.png
+---
+
+
+# Prerequisites {-}
+
+```{r global_options, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+
+<!-- Global options -->
+```{r}
+knitr::opts_chunk$set(echo = FALSE, 
+                      cache = T,
+                      eval = TRUE, 
+                      message = FALSE,
+                      warning = FALSE, 
+                      fig.path = "Figures/",
+                      fig.width = 12, 
+                      fig.height = 8)
+```
+
+
+```{r fig.align='center', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html')}
+knitr::include_graphics('images/advrs_cover3.png', dpi = NA)
+```
+
+This book aims to contribute solutions to Hadley Wickham's book [Advanced R](http://adv-r.had.co.nz/).
+It is planned to finish until end of 2017. The code can be found on [github](https://github.com/Tazinho/Advanced-R-Solutions.git). 
+
+The date of the exercise versions in Hadley's book is January 25th 2017.
+
+```{r eval=FALSE, echo = FALSE}
+devtools::install_github("rstudio/bookdown")
+date()
+```
+
+
+```{r, echo = FALSE, warning=FALSE}
+suppressPackageStartupMessages(library(dplyr))
+suppressPackageStartupMessages(library(tidyr))
+suppressPackageStartupMessages(library(ggplot2))
+suppressPackageStartupMessages(library(forcats))
+suppressPackageStartupMessages(library(methods))
+df <- tibble::tribble(~`1 Data structures`, ~`2 Subsetting`, ~`3 Functions`, ~`4 OO field guide`, ~`5 Environments`, ~`6 Exceptions and debugging`, ~`7 Functional programming`, ~`8 Functionals`, ~`9 Function operators`, ~`10 Non standard evaluation`, ~`11 Expressions`, ~`12 Domain specific languages`, ~`13 Performance`, ~`14 Profiling`, ~`15 Memory`, ~`16 Rcpp`,
+                      "x",             "x",            "x",                 "x",               "x",                           "-",                         "x",              "x",                     "x",                           "x",               "x",                             "-",               "-",             "x",          "x",        "x",
+                      "x",             "x",            "x",                 "x",               "x",                           "x",                         "x",              "x",                     "x",                           "x",               "x",                             "-",               "x",             "x",          "x",        "x",                                                                      
+                      "x",             "x",            "x",                 "x",               "x",                           "x",                         "x",              "x",                     "x",                           "x",               "x",                             "-",               "x",             "-",          "x",        "x",                                   
+                      "x",             "x",            "x",                 "x",               "x",                            NA,                         "-",              "x",                     "x",                           "x",               "x",                             "-",               "-",             "x",          "x",        "x",                                   
+                      "x",             "x",            "x",                 "x",               "x",                            NA,                         "x",              "x",                     "x",                           "x",               "x",                             "-",               "x",             "x",          "-",        "x",                                   
+                      "x",             "x",            "x",                 "x",               "x",                            NA,                         "x",              "x",                     "-",                           "x",               "x",                             "-",               "-",             "x",          "-",        "-",                                   
+                      "x",             "x",            "x",                 "x",               "x",                            NA,                         "x",              "x",                     "x",                           "x",               "x",                             "-",               "-",             "x",          "-",        "x",                                   
+                      "x",             "x",            "x",                 "x",               "x",                            NA,                         "x",              "x",                     "x",                           "x",               "x",                              NA,               "-",             "-",          "-",        "x",                                   
+                      "x",             "x",            "x",                 "-",               "x",                            NA,                         "x",              "x",                     "x",                           "x",               "x",                              NA,               "-",             "x",          "-",        "x",                                   
+                      "x",             "x",            "x",                 "x",               "x",                            NA,                         "x",              "x",                     "x",                           "x",               "x",                              NA,               "-",             "x",           NA,        "-",                                   
+                      "x",              NA,            "x",                 "x",               "x",                            NA,                         "x",              "x",                     "-",                           "x",               "x",                              NA,               "-",             "-",           NA,         NA,                                   
+                      "x",              NA,            "x",                  NA,               "x",                            NA,                         "x",              "-",                     "-",                           "x",               "-",                              NA,                NA,             "x",           NA,         NA,                                   
+                      "x",              NA,            "x",                  NA,               "x",                            NA,                         "-",              "x",                     "x",                           "x",               "x",                              NA,                NA,             "x",           NA,         NA,                                   
+                      "x",              NA,            "x",                  NA,               "x",                            NA,                         "-",              "x",                     "-",                           "x",               "x",                              NA,                NA,             "x",           NA,         NA,                                   
+                      "x",              NA,            "x",                  NA,               "x",                            NA,                          NA,              "x",                     "x",                           "x",               "x",                              NA,                NA,             "x",           NA,         NA,                                   
+                      NA,              NA,            "x",                  NA,                NA,                            NA,                          NA,              "x",                     "x",                           "x",               "x",                              NA,                NA,              NA,           NA,         NA,                                   
+                      NA,              NA,            "x",                  NA,                NA,                            NA,                          NA,              "x",                     "x",                           "x",               "-",                              NA,                NA,              NA,           NA,         NA,                                   
+                      NA,              NA,            "x",                  NA,                NA,                            NA,                          NA,              "x",                     "-",                           "x",               "-",                              NA,                NA,              NA,           NA,         NA,                                   
+                      NA,              NA,            "x",                  NA,                NA,                            NA,                          NA,              "x",                     "x",                           "x",               "x",                              NA,                NA,              NA,           NA,         NA,                                   
+                      NA,              NA,             NA,                  NA,                NA,                            NA,                          NA,              "x",                      NA,                           "x",               "-",                              NA,                NA,              NA,           NA,         NA,                                   
+                      NA,              NA,             NA,                  NA,                NA,                            NA,                          NA,              "x",                      NA,                           "x",               "x",                              NA,                NA,              NA,           NA,         NA,                                   
+                      NA,              NA,             NA,                  NA,                NA,                            NA,                          NA,              "x",                      NA,                           "x",               "x",                              NA,                NA,              NA,           NA,         NA,                                   
+                      NA,              NA,             NA,                  NA,                NA,                            NA,                          NA,              "-",                      NA,                           "x",               "x",                              NA,                NA,              NA,           NA,         NA,                                   
+                      NA,              NA,             NA,                  NA,                NA,                            NA,                          NA,              "x",                      NA,                           "x",               "x",                              NA,                NA,              NA,           NA,         NA,                                   
+                      NA,              NA,             NA,                  NA,                NA,                            NA,                          NA,              "x",                      NA,                           "x",               "x",                              NA,                NA,              NA,           NA,         NA,                                   
+                      NA,              NA,             NA,                  NA,                NA,                            NA,                          NA,              "x",                      NA,                            NA,               "-",                              NA,                NA,              NA,           NA,         NA,                                   
+                      NA,              NA,             NA,                  NA,                NA,                            NA,                          NA,               NA,                      NA,                            NA,               "x",                              NA,                NA,              NA,           NA,         NA,                                   
+                      NA,              NA,             NA,                  NA,                NA,                            NA,                          NA,               NA,                      NA,                            NA,               "x",                              NA,                NA,              NA,           NA,         NA,                                   
+                      NA,              NA,             NA,                  NA,                NA,                            NA,                          NA,               NA,                      NA,                            NA,               "x",                              NA,                NA,              NA,           NA,         NA,                                   
+                      NA,              NA,             NA,                  NA,                NA,                            NA,                          NA,               NA,                      NA,                            NA,               "-",                              NA,                NA,              NA,           NA,         NA,                                   
+                      NA,              NA,             NA,                  NA,                NA,                            NA,                          NA,               NA,                      NA,                            NA,               "x",                              NA,                NA,              NA,           NA,         NA,                                   
+                      NA,              NA,             NA,                  NA,                NA,                            NA,                          NA,               NA,                      NA,                            NA,               "x",                              NA,                NA,              NA,           NA,         NA,                                   
+                      NA,              NA,             NA,                  NA,                NA,                            NA,                          NA,               NA,                      NA,                            NA,               "-",                              NA,                NA,              NA,           NA,         NA,                                   
+                      NA,              NA,             NA,                  NA,                NA,                            NA,                          NA,               NA,                      NA,                            NA,               "x",                              NA,                NA,              NA,           NA,         NA,                                   
+                      NA,              NA,             NA,                  NA,                NA,                            NA,                          NA,               NA,                      NA,                            NA,               "x",                              NA,                NA,              NA,           NA,         NA)
+
+df[df == "x"] <- TRUE
+df[df == "-"] <- FALSE
+#df[df == ""] <- NA 
+
+df[] <- lapply(df, as.logical)
+
+df <- df %>% mutate(exercise = 1:n())
+
+df <- gather_(df, "chapter", "solved", setdiff(names(df), "exercise"))
+df <- df %>% filter(!is.na(solved))
+
+quote_solutions <- mean(df$solved)
+  
+df <- df %>% separate(chapter, "nr", sep = " ", remove = FALSE) %>% 
+  mutate(nr = as.integer(nr), 
+         chapter = factor(chapter),
+         chapter = fct_reorder(chapter, nr, .desc = TRUE),
+         solved = as.character(solved),
+         id = 1:n())
+df <- as_data_frame(df)
+
+solved_exercises <- 
+  ggplot(df, aes(x = chapter, fill = solved, group = -id)) +
+  scale_y_continuous(expand = c(0,0)) +
+  geom_bar(colour = "white") + 
+  theme(legend.position="none",
+        axis.text.x = element_blank(),
+        axis.title.x = element_blank(),
+        axis.ticks.x = element_blank(),
+        axis.text.y = element_text(size=12),
+        axis.title.y = element_blank(),
+        axis.ticks.y = element_blank()) +
+  coord_flip() +
+  theme(axis.line = element_blank(),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.border = element_blank(),
+        panel.background = element_blank()) +
+  ggtitle(paste0("Solved exercises (", round(100 * quote_solutions), "%)"))
+solved_exercises
+```
+
+For the [2nd edition of Advanced R](https://adv-r.hadley.nz/), we are working on solutions of new/updated chapters:
+
+```{r, echo = FALSE, warning = FALSE}
+df_new <- tibble::tribble(~`1 S3`, ~`2 S4`, ~`3 R6`, ~`4 Expressions`, ~`5 Tidy evaluation`, ~`6 Non standard evaluation`, ~`7 Code generation`,
+                          "x",             "-",            "-",  "-",  "-",  "-", "-",
+                          "x",             "-",            "-",  "-",  NA,  "-", "-",
+                          "-",             "-",            NA,  "-",  NA,  "-", "-",
+                          "x",             "-",            NA,  "-",  NA,  "-", "-",
+                          "x",             "-",            NA,  "-",  NA,  "-", "-",
+                          "x",             "-",            NA,  "-",  NA,  "-", "-",
+                          "x",             "-",            NA,  "-",  NA,  "-", "-",
+                          "x",              NA,            NA,  "-",  NA,  "-", "-",
+                          "x",              NA,            NA,  "-",  NA,  "-", "-",
+                          "x",              NA,            NA,  "-",  NA,  "-", "-",
+                          "-",              NA,            NA,  "-",  NA,  "-", "-",
+                          "x",              NA,            NA,  "-",  NA,  "-", "-",
+                          "x",              NA,            NA,  "-",  NA,  "-", "-",
+                          "x",              NA,            NA,  "-",  NA,  "-", "-",
+                          "x",              NA,            NA,  "-",  NA,  "-", "-",
+                          "x",              NA,            NA,  "-",  NA,  "-", "-",
+                          "x",              NA,            NA,  "-",  NA,  "-", "-",
+                          "x",              NA,             NA,  "-",  NA,  "-", "-",
+                          "x",              NA,             NA,  "-",  NA,  "-", "-",
+                          NA,              NA,             NA,  "-",  NA,  "-", "-",
+                          NA,              NA,             NA,  "-",  NA,  "-",  NA,
+                          NA,              NA,             NA,  "-",  NA,  "-",  NA,
+                          NA,              NA,             NA,  "-",  NA,  "-",  NA,
+                          NA,              NA,             NA,  "-",  NA,  "-",  NA,
+                          NA,              NA,             NA,  "-",  NA,  "-",  NA,
+                          NA,              NA,             NA,  "-",  NA,   NA,  NA,
+                          NA,              NA,             NA,   NA,  NA,   NA,  NA,
+                          NA,              NA,             NA,   NA,  NA,   NA,  NA,
+                          NA,              NA,             NA,   NA,  NA,   NA,  NA,
+                          NA,              NA,             NA,   NA,  NA,   NA,  NA,
+                          NA,              NA,             NA,   NA,  NA,   NA,  NA,
+                          NA,              NA,             NA,   NA,  NA,   NA,  NA,
+                          NA,              NA,             NA,   NA,   NA,  NA,  NA)
+
+df_new[df_new == "x"] <- TRUE
+df_new[df_new == "-"] <- FALSE
+#df_new[df_new == ""] <- NA 
+
+df_new[] <- lapply(df_new, as.logical)
+
+df_new <- df_new %>% mutate(exercise = 1:n())
+
+df_new <- gather_(df_new, "chapter", "solved", setdiff(names(df_new), "exercise"))
+df_new <- df_new %>% filter(!is.na(solved))
+
+quote_solutions <- mean(df_new$solved)
+
+df_new <- df_new %>% separate(chapter, "nr", sep = " ", remove = FALSE) %>% 
+  mutate(nr = as.integer(nr), 
+         chapter = factor(chapter),
+         chapter = fct_reorder(chapter, nr, .desc = TRUE),
+         solved = as.character(solved),
+         id = 1:n())
+df_new <- as_data_frame(df_new)
+
+solved_exercises <- 
+  ggplot(df_new, aes(x = chapter, fill = solved, group = -id)) +
+  scale_y_continuous(expand = c(0,0)) +
+  geom_bar(colour = "white") + 
+  theme(legend.position="none",
+        axis.text.x = element_blank(),
+        axis.title.x = element_blank(),
+        axis.ticks.x = element_blank(),
+        axis.text.y = element_text(size=12),
+        axis.title.y = element_blank(),
+        axis.ticks.y = element_blank()) +
+  coord_flip() +
+  theme(axis.line = element_blank(),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.border = element_blank(),
+        panel.background = element_blank()) +
+  ggtitle(paste0("Solved exercises (", round(100 * quote_solutions), "%)"))
+solved_exercises
+```
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work by Malte Grosser, Henning Bumann, Peter Hurford & Robert Krzyzanowski is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>

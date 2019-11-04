@@ -1,0 +1,258 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+
+```
+if (F) {
+
+library(rjson)
+require(magrittr);library(wrapr); library(ggplot2);library(data.table);
+library(knitr)
+
+
+
+listAll <- list(title = "NA", album=NA, language=list("eng", "rus"), chordbot="")
+
+
+dtAll <- data.table(  #dtDiscography
+  title = NA, album=NA, language=NA, chordbot=NA
+  )
+
+dtSongInfo <- data.table(
+  album="jobim",   id="0",
+  title.short="placeholder", # or list of
+  title.full="placeholder",  title.long="placeholder", # quote ??
+  language="rus",
+  author.lyrics="DG",   author.music="DG", #
+  chords = "-",   text.eng="",   text.rus=""
+)
+
+dtSongRecording <- data.table(
+  id="0",
+  title.short="placeholder",
+
+  backing.track="",
+  audio=""
+)
+
+
+dtAlbum - data.table(
+title.short, title.full)
+
+
+
+
+}
+```
+
+
+
+
+    
+# MY QUESTION - responded
+
+https://stackoverflow.com/questions/48868942/automating-the-generation-of-preformated-text-in-rmarkdown-using-r/48869824?noredirect=1#comment84754632_48869824
+
+```{r echo=FALSE, results='asis'}
+library(data.table) ; library(glue)
+
+
+require(magrittr);library(data.table);
+library(knitr)
+
+
+# Way 1 using dt #### 
+dtSongTemplate <- data.table(
+  album="«Мои Цветы» (Детский альбом)",   
+  title="placeholder", # or list of
+  author.lyrics="DG",   author.music="DG", #
+  chords = "-",   text.eng="",   
+  text.rus="
+  dfsdfsdf
+  sdfdsf"
+)
+
+
+dtSongTemplate2 <- data.table(
+  album="«Мои Цветы» (Детский альбом)",   
+  title="placeholder2", # or list of
+  author.lyrics="DG",   author.music="DG", #
+  chords = "-",   text.eng="",   
+  text.rus="
+  dfsdfsdf2
+  sdfdsf2"
+)
+
+dtAlbum <- NULL
+dtAlbum <- rbind(dtAlbum,dtSongTemplate)
+dtAlbum <- rbind(dtAlbum,dtSongTemplate2)
+dtAlbum
+
+dtAlbum %>% nrow()
+dtAlbum[1]$author.lyrics
+
+
+# Way 1 using list #### 
+
+songTemplate <- list(
+  album="«Мои Цветы» (Детский альбом)",   
+  title="placeholder", # or list of
+  author.lyrics="DG",   author.music="DG", #
+  chords = "-",   text.eng="",   
+  text.rus="
+  dfsdfsdf
+  sdfdsf"
+)
+
+
+song2 <- list(
+  album="«Мои Цветы» (Детский альбом)",   
+  title="placeholder2", # or list of
+  author.lyrics="DG",   author.music="DG", #
+  chords = "-",   text.eng="",   
+  text.rus="
+  dfsdfsdf2
+  sdfdsf2"
+)
+
+
+
+
+album <- list()
+album[[1]] <- song
+album[[2]] <- song2
+
+album %>% length()
+album[[1]]$author.lyrics
+
+
+
+for (cutX in unique(dt$cut)) {
+  dtCutX <- dt[cut==cutX, lapply(.SD,mean), .SDcols=5:7]
+  cat("\n\n# Section: The Properties of Cut {cutX} \n")  
+  
+  cat(glue::glue("\n\n# Section: The Properties of Cut {cutX} \n \n")) 
+    
+  cat(glue::glue("This Section describes the properties of cut {cutX}. Table below shows its mean values:\n"))
+  print(knitr::kable(dtCutX))
+  cat(glue::glue("\n\nThe largest carat value for cut {cutX} is {dt[cut=='Ideal', max(carat)]}\n"))
+}
+```
+
+
+
+<!-- 
+#  OTHER RELATED (POSSIBLY)
+
+## Looping through code in knitr and rmarkdown
+
+https://stackoverflow.com/questions/30893358/looping-through-code-in-knitr-and-rmarkdown?rq=1
+
+```
+---
+output: 
+  pdf_document:
+    includes:
+    classoption: landscape
+    geometry: margin=1.75cm
+---
+```
+
+
+`r  x1_list <- list(x1_front <- data.frame("col1" = rnorm(10), "col2" = rnorm(10)), x1_back <- data.frame("col1" = rnorm(10), "col2" = rnorm(10))) `
+`r  x2_list <- list(x2_front <- data.frame("col1" = rnorm(10), "col2" = rnorm(10)), x2_back <- data.frame("col1" = rnorm(10), "col2" = rnorm(10))) `
+`r master_list <- list(x1_list, x2_list) `
+
+`r num <- 1` 
+
+## Name `r num`: First Table
+
+\vspace*{0.5in}
+
+```{r echo = F, results = 'asis', message = F, warning = F, fig.width = 8, fig.height = 8, size = 'Large'}
+library(xtable)
+print(xtable(master_list[[num]][[1]]),type='latex',comment = FALSE,floating=FALSE)
+
+```
+
+
+\newpage
+
+## Manager `r num`: Second Table
+
+```{r echo = F, results = 'asis', message = F, warning = F, fig.align = 'center', fig.width = 9, fig.height = 7, fig.show = 'hold', size = 'Large'}
+
+print(xtable(master_list[[num]][[2]]),type='latex',comment = FALSE,floating=FALSE)
+```       
+
+\newpage
+
+`r num <- 2` 
+
+## Name `r num`: First Table
+
+\vspace*{0.5in}
+
+```{r echo = F, results = 'asis', message = F, warning = F, fig.width = 8, fig.height = 8, size = 'Large'}
+
+print(xtable(master_list[[num]][[1]]),type='latex',comment = FALSE,floating=FALSE)
+
+```
+
+\newpage
+
+## Manager `r num`: Second Table
+
+```{r echo = F, results = 'asis', message = F, warning = F, fig.align = 'center', fig.width = 9, fig.height = 7, fig.show = 'hold', size = 'Large'}
+
+print(xtable(master_list[[num]][[2]]),type='latex',comment = FALSE,floating=FALSE)
+```       
+
+
+solution is on the page, using two files
+
+## replacing-the-print-function-in-knitr-chunk-evaluation
+
+
+https://stackoverflow.com/questions/15599948/replacing-the-print-function-in-knitr-chunk-evaluation?rq=1
+
+
+TEST
+====
+
+```{r}
+
+require(pander)
+print <- function(...) pander(..., style = "rmarkdown") # makes sure that everyhing that everyprint will pass through pander
+
+summary(cars)
+```
+
+
+```{r, eval=FALSE}
+library(knitr)
+knit2html("test.rmd") #
+
+
+http://stackoverflow.com/questions/10646665/how-to-convert-r-markdown-to-html-i-e-what-does-knit-html-do-in-rstudio-0-9
+# http://quantifyingmemory.blogspot.co.il/2013/02/reproducible-research-with-r-knitr.html
+```
+
+END.
+
+-->
+
+
+## set the "pander" function as an alternative "print" function for when compiling knitr 
+
+https://stackoverflow.com/questions/15599948/replacing-the-print-function-in-knitr-chunk-evaluation?rq=1
+
+also really nice
+
+https://www.r-statistics.com/2013/03/write-ms-word-document-using-r-with-as-little-overhead-as-possible/
+
+
+
+

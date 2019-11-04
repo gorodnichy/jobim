@@ -1,16 +1,16 @@
 --- 
 #title: "«Ivim ambraça Jobim»"
 title: "«Shri Jobim»"
-subtitle: "Songs of Antonio Carlos Jobim, re-intepreted" 
-#(in Ukrainian and Russian)"
+#subtitle: "Songs of Antonio Carlos Jobim, re-intepreted in Ukrainian and Russian"
 # subtitle: "(Interpretations of Antonio Carlos Jobim songs in Russian 
-#subtitle: "Tribute to Antonio Carlos Jobim in Ukrainian and Russian"
+subtitle: "Tribute to Antonio Carlos Jobim in Ukrainian and Russian"
 # subtitle: "Antonio Carlos Jobim songbook"
 # author: "Дмитрий Городничий"
 author: "Dmitry Gorodnichy"
 # date: "DRAFT. Last updated: `r Sys.Date()`"
 # date: "`r Sys.Date()`"
-date: "Version 1.2.1 (2019/08/30)"
+# date: "Version 1.2.0 (2018/12/30)"
+date: "Version 1.3 (2019/11/10)"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 # output:
@@ -35,7 +35,10 @@ cover-image: "c_jobim/cover-book-ShriJobim.jpg"
 
 <!-- <img alt="« Shri Jobim »" border="1" height="500" src="images/cover-book-ShriJobim.jpg"  /> <br> -->
 
-<!-- DLQ EPUB -->
+<!-- DLQ EPUB 
+
+
+-->
 
 
 
@@ -46,23 +49,34 @@ cover-image: "c_jobim/cover-book-ShriJobim.jpg"
 
 <i>This album contains my interpretations of my favourite Jobim's bosa-nova songs in Russian and Ukrainian. 
 These songs have been dear to my heart for many years. - 
-
 They were much loved by my parents, who could also play some of them on piano.
-Following the passing of my parents (in 2003 and then in 2016),  I started feeling them on a new, deeper level.
-Then I started playing them on the guitar, however with my own lyrics which transcribe my feelings in words.  The result is this album. 
+Following the passing of my parents (in 2003 and then in 2016),  I started feeling them on a new, deeper, level. 
+<!-- This is how this album was created. -->
+<!-- Then I started playing them on the guitar, however with my own lyrics which transcribe my feelings in words.   -->
+The result is this album. 
 
-The album also contains interpretations by other authors including that by my  brother and niece as well as a couple of my songs inspired by Jobim. Chords are provided.
+The songs are divided in two groups:  those about Love ("Grand amor") and those about the meaning and beauty of Life ("Ocean").
+The album also contains interpretations by other authors, 
+<!-- including that by my  brother and niece,  -->
+as well as a couple of my own songs inspired by Jobim. 
+
+Chords are provided, as are the video of the original performances and the new interpretations.
+
+Appendix provides the statististical  analysis of lyrics using data science tools. The source of this book is available in [github](https://github.com/gorodnichy/Shri-Jobim). Contributions are welcome.
+<!-- Being a data scientist myself, I'm also providing the statististical  analysis of lyrics using data science visualization tools. The source of this book code -->
 
 
-What is beautiful about music is that as eternal as it trans
-People of all time and a
-This makes it sacred, expecially such beautiful music as composed by Jobim.
+<!-- What is beautiful about music is that as eternal as it trans -->
+<!-- People of all time and a -->
+<!-- This makes it sacred, expecially such beautiful music as composed by Jobim. -->
 
-is  you don't need to know the language
+<!-- is  you don't need to know the language -->
 
 <!-- Enjoy !- Music does not have linquistic borders ! -->
 
-Thank you for letting me share my feelings with you.  
+ 
+Music - that's how feelings sound like. 
+Thank you for letting me share my feelings with you. 
 
 
 <p align=right> Dmitry Gorodnichy </p>
@@ -73,22 +87,12 @@ Thank you for letting me share my feelings with you.
 ---
 
 <i>В этот альбом вошли мои переводы и интерпретации  любимых песен Антонио Карлоса Жобима. 
-Уже много лет они звучат во мне. Мы их любили слушать и играть с моими родителями.  А когда их не стало,   я  как-то особенно стал их чувствовать, и эти чувства мне захотелось  передать в словах. Результат -  этот альбом. 
+Уже много лет они звучат во мне. Мы их любили слушать и играть с моими родителями.  А когда их не стало,   я  стал особенно их чувствовать, и эти чувства мне захотелось  передать в словах. Результат -  этот альбом. 
 
-В альбом также вошли переводы и интерпретации других авторов, 
-<!-- включая моих  брата и племянницы,  -->
-а также несколько песен, рождённых под влиянием жобимовской музыки.
 
-Аккорды,  втом варианте как я их играю, прилагаются.
-<!-- Упрощённые аккорды прилагаются для желающих их сыграть.  -->
+<!--в том варианте как я их играю,  Упрощённые аккорды прилагаются для желающих их сыграть.  -->
 
-<!-- Приятного прослушивания !  -->
 
-<p align=right> Дмитрий Городничий </p>
-
-</i>
-
----
 
 
 
@@ -97,17 +101,33 @@ Thank you for letting me share my feelings with you.
 <!-- # Table of Content {-} -->
 
 
-Альбом состоит из тематически разделенных двух частей. Первая часть («Grand amor») состоит из песен о любви, вторая  («Ocean») из песен о смысле и красоте жизни.
+Альбом состоит из тематически разделенных двух частей. Первая часть («Grand amor») состоит из песен о любви, вторая  («Ocean») из песен о смысле и красоте жизни. 
+В него также вошли переводы и интерпретации других авторов, 
+<!-- включая моих  брата и племянницы,  -->
+а также пару моих песен, рождённых под влиянием жобимовской музыки.
+
+<!-- Аккорды прилагаются. -->
 
 
 Помимо слов и аккордов, прилагаются записи песен: оригиналы из YouTube и  их новые интерпретации в формате mp3. 
-Записи, помеченные "+", содержат дорожку, наложенную на *правый* канал первоначальной записи. Регулируя баланс, можно достичь желаемой громкости добавленной дорожки.
+<!-- Записи, помеченные "+", содержат дорожку, наложенную на *правый* канал первоначальной записи. Регулируя баланс, можно достичь желаемой громкости добавленной дорожки. -->
 
 <!-- песни страницы к песни странице  -->
-Переход от песни к песни можно осуществить либо через открывающееся слева меню, 
-либо передвигаясь последовательно  по линкам внизу каждой страницы. 
+<!-- Переход от песни к песни можно осуществить либо через открывающееся слева меню, либо передвигаясь последовательно  по линкам внизу каждой страницы.  -->
 <!-- Имеющиеся на данный момент записи прилагаются в линках. -->
 
+В [конце книги](TextMining.html) прилагается разбор лирики данной сборки песен средствами статистического анализа.
+
+<!-- Приятного прослушивания !  Через музыку вы почувствуете то что нелзя увидет' глазами - то что было и то что будет-->
+
+<p align=right> Дмитрий Городничий </p>
+
+</i>
+
+
+```{r,  out.width='75%', fig.align='center', echo=FALSE}
+knitr::include_graphics("c_jobim/cover-cd-ShriJobim.jpg")
+```
 
 
 
@@ -119,10 +139,6 @@ Thank you for letting me share my feelings with you.
 knitr::include_graphics("images/cover-cd-ShriJobim.jpg")
 ```
 -->
-
-  ```{r,  out.width='75%', fig.align='center', echo=FALSE}
-knitr::include_graphics("c_jobim/cover-cd-ShriJobim.jpg")
-```
 
 
 <!-- ## Архив музыки {-} -->
@@ -275,6 +291,6 @@ Online: https://bookdown.org/gorodnichy/jobim, [www.ivim.ca/dg/jobim](http://www
 Copyright &copy; Dmitry Gorodnichy, IVIM Inc. 1992-2018.   
 All Rights Reserved. The use the copyrighted material for non-commercial purposes is allowed. The reference to the source is required. 
  
-<!-- The author grants the right to use the copyrighted material for non-commercial purposes. The reference to the source is required.  -->
+The chords provided in this book are simplified versions of original chords used by Antonio Carlos Jobim. They were hand-picked and tested by the author of the book to make it easier to perform those songs on a guitar. All other information provided in the book was extracted from public domain.
 
 

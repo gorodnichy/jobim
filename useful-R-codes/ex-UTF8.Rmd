@@ -1,0 +1,47 @@
+---
+title: "Printing UTF-8 Text"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Solution to this problem is posted here:
+
+https://stackoverflow.com/questions/48307007/printing-utf-8-russian-characters-in-r-rmd-knitr
+
+
+```{r}
+library(knitr)
+print(sessionInfo())
+Sys.setlocale("LC_CTYPE", "en_US.UTF-8")
+
+# This part is put in file "TestUTF8Text.R"
+dt <- data.frame(
+name=c("Борис Немцов","Martin Luter King"),
+year=c("2015","1968") 
+)
+
+dt; 
+
+print(dt$name[1])
+
+dt[1,1]
+
+
+kable(dt)
+# END OF: This part is put in file "TestUTF8Text.R"
+
+kable(dt$name[1])
+
+kable(dt[1,1])
+
+
+# not using this:
+#con = file("TestUTF8Text.R", encoding = "UTF-8"); read_chunk(con);close(con)
+
+```
+
+
