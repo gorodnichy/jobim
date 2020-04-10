@@ -26,7 +26,6 @@ output: bookdown::gitbook
 #       edit: https://github.com/Tazinho/Advanced-R-Solutions/edit/master/%s
 # 
 # documentclass: book --> ?? No <- causes Error in compiling tex file with Russian letters
-link-citations: yes
 description: "Antonio Carlos Jobim songs re-interpreted by Dmitry Gorodnichy"
 github-repo: "gorodnichy/Shri-Jobim"
 url: 'http\://bookdown.org/gorodnichy/Shri-Jobim/'

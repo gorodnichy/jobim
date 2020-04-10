@@ -17,6 +17,8 @@ library(tidytext)
 
 filename <- "01-Two-Lives-book.Rmd" # "01-amor-a.Rmd"
 
+filename <- "/home/dmitry/GitHub/Xmas"# "01-amor-a.Rmd"
+
 
 
 # > 1.0 stackoverfloor approach: Read .Rmd file and split into sections ####
@@ -527,8 +529,8 @@ dtChapters <- dt %>%
   ungroup() %>%
   data.table()
 
-dtChapters[c(1) ]$section 
-dtChapters[c(1) ]$subsection 
+dtChapters[c(1) ]$section
+dtChapters[c(1) ]$subsection
 dtChapters[c(1) ]$text %>% str_c() %>% str_wrap()
 
 i=2
@@ -538,39 +540,39 @@ for(i in 1:nrow(dtChapters)){
   print(dtChapters[i]$subsection)
   #print(dtChapters[i]$text)
   dtChapters[c(1) ]$text %>% str_c() %>% str_wrap() %>% print
-  
+
   cat(glue::glue("\n\n# Section: {dtChapters[i]$section} \n \n"))
-  
+
   cat(glue::glue("Subsection: {dtChapters[i]$subsection}. \n \n"))
-  
+
   cat(glue::glue("{dtChapters[i]$text}"))
   print(knitr::kable(dtCutX))
-  
-  
+
+
   if (readline("continue? ") == 'n') break
 }
 
 
 
 # # Using glue() #####
-# 
-# ```{r echo=F, results='asis'} 
-# 
+#
+# ```{r echo=F, results='asis'}
+#
 # library(glue); library(ggplot2)
-# 
+#
 # dt <- ggplot2::diamonds %>% data.table()
 # for (cutX in unique(dt$cut)) {
 #   dtCutX <- dt[cut==cutX, lapply(.SD,mean), .SDcols=5:7]
-#   
+#
 #   cat(glue::glue("\n\n# Section: The Properties of Cut {cutX} \n \n"))
 #   cat(glue::glue("This Section describes the properties of cut {cutX}. \n Table below shows its mean values:\n"))
-#   
+#
 #   cat(glue::glue("\n\nThe largest carat value for cut {cutX} is {dt[cut=='Ideal', max(carat)]}\n"))
 #   print(knitr::kable(dtCutX))
 #   print("***\n\n")
 # }
 # ```
-# 
+#
 
 
 
