@@ -153,7 +153,25 @@ Bb7(9) A7(13)
 
 ____________________________________
 CHORDS:
+Intro:
+(on open strings, A)
+Amaj7 Fmaj7/5- Amaj7 Fmaj7/5- with bass A
 
+1:
+Amaj7 Fmaj7 
+Amaj7 Dbm7 F#7/+5/9- F#7/+5 Bm7
+D G#º Db7 F#m7 Db7/9+
+Dbmaj7 G#7/6 Dbm9 F#m7 Bm7 E6
+
+2:
+Amaj7 F#maj7/5- Amaj7 Em7 A7/9- A7/6/9-
+Dmaj7 Dm6 Dbm7 Cº
+Bm7 E7/9- Am7 Am6
+Amaj7 Fmaj7/5- A Dbm7 F#7/+5/9- F#7/+5
+
+</pre>
+</blockquote>
+<--  
 (on open strings, A)
 
 Amaj7 Fmaj7/5- Amaj7 Fmaj7/5- A(bass)
@@ -166,8 +184,8 @@ Dmaj7 Dm6 Dbm7 Cº
 Bm7 E7/9- Am7 Am6
 Amaj7 Fmaj7/5- A Dbm7 F#7/+5/9- F#7/+5
 
-</pre>
-</blockquote>
+
+-->
 
 
 
