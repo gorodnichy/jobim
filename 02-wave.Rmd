@@ -415,15 +415,15 @@ CHORDS:
 Am/E Am6
 Dm7/A(F) G#o7
 Gm7 Gm6/F
-G6 G+
-C7+ C7+/B
+G6 Gaug
+C C7+/B
 Go(C7+/A) A7/G
 Am9(C6) E74
 Am
 
 C6(C7+) Am6
-Dm7 D7+
-C7+ C+
+Dm7 D7
+C Caug
 E7 Am
 </pre>
 </blockquote>
