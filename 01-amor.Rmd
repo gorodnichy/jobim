@@ -55,7 +55,7 @@ João Gilberto (1975)
 Зазвучит вновь в тишине. 
 
 (И может ты захочешь вновь прийти ко мне
-И мелодия  тогда найдется, 
+И мелодия опять найдется, 
 Когда мы с тобою будем вместе. 
 И с гармонией прекрасной песня 
 Зазвучит вновь в тишине.) 
@@ -89,8 +89,10 @@ G7 Gm7 C7 F C9- F6 F7M11+
 </pre>
 </blockquote>
 
+Listen: [on Soundcloud](https://soundcloud.com/dmitry-gorodnichy/disharmony)
 
-
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/928895938&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dmitry-gorodnichy" title="Dmitry Gorodnichy &amp; IVIM" target="_blank" style="color: #cccccc; text-decoration: none;">Dmitry Gorodnichy &amp; IVIM</a> · <a href="https://soundcloud.com/dmitry-gorodnichy/disharmony" title="Дисгармoния (Desafinado) - Original Jobim cover in Russian" target="_blank" style="color: #cccccc; text-decoration: none;">Дисгармoния (Desafinado) - Original Jobim cover in Russian</a></div>
+<!-- 
 [+ Joao](http://www.ivim.ca/dg/jobim/media/desafinado-w-joao.mp3)
 
 <audio controls><source src="http://www.ivim.ca/dg/jobim/media/desafinado-w-joao.mp3"></audio>
@@ -99,7 +101,7 @@ G7 Gm7 C7 F C9- F6 F7M11+
 
 <audio controls><source src="http://www.ivim.ca/dg/jobim/media/desafinado-w-stan.mp3"></audio>
 
-
+-->
 
 # Corcovado 
 
