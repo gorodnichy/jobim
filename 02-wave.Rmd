@@ -529,48 +529,37 @@ A7+
 Ну почему
 я постоянно вижу тебя ?
 В каждом окне, в каждом пейзаже, в бликах огня?
-
- облик твой озарен
+Облик твой озарен,
 Ты улыбаешься мне, 
- ласковый твои уста
-
-      божественной твои уста. К к 
-не уж-то ли всё это сон? 
-Может быть так а быть может и нет
-Машешь рукою ты мне
-с улыбкою на уста
-Что это - сон лишь? Мечта?
-
-может быть да,
-а быть может и нет.
+Не уж-то ли всё это сон? 
+Может быть так а быть может и нет.
 
 Вeдь почему
 Всюду, где ты, слышу музыку я ?
-Божественный звук и его не узнать мне просто нельзя
-Это - песня твоя  и её не узнать просто нельзя.
+Божественный звук и его не узнать мне просто нельзя.
 Джазовый мягкий аккорд -
-Знакомый мнe соль секст минор 
+Знакомый мнe соль секст минор. 
 Да это ты - нет сомнения!
 
 Вот почему
 Мне хорошо на яву и во сне. –
 Чтобы со мной не произошло ты приходишь ко мне.
-взгляд твой полон любви,
-света и нежности и доброты красоты
-и я, когда тяжело, сливаюсь с ним -
-с этим взглядом твоим.
+Взгляд твой полон любви,
+Света и доброты
+И я, когда тяжело, сливаюсь с ним -
+С этим взглядом твоим.
 
 Вот почему
-всегда и вокруг слышу музыку я.
-В каплях росы, в свете луны - красота бытия.
+Всегда и вокруг слышу музыку я.
+В каплях росы, в свете луны, в красоте бытия.
 Слышу всё тот-же аккорд
 Любимый мной Gm6.
 Да это ты - свет и радость моя!
+
 Ты - свет и радость моя! 
 
 2017
 
-____________________________________
 CHORDS:
 
 (G7+/ Gm5+/)
@@ -592,6 +581,42 @@ G7+/
 A7(13/b13)
 Am7 D7(b9)
 G6 Gm5+
+
+Translation: 
+
+Why, I wonder why
+do I see you all the time?
+In every window, in every landscape, in the glare of fire?
+Your appearance is illuminated,
+You smile at me.
+Isn't it all a dream?
+Maybe so, maybe not.
+
+
+But why, I wonder why
+Wherever you are, do I hear music?
+Divine sound and I simply cannot not recognize it.
+A jazz soft chord -
+Familiar to me Gm6.
+Yes it is you - no doubt!
+
+That's why, I know why
+I feel good in life and in my sleep. -
+Whatever happens to me, I known that you come to me.
+Your look is full of love,
+Light and kindness
+And when it's hard, I merge with him -
+With this look of yours.
+
+That's why, I know why
+I always hear music around me.
+In dew drops, in the light of the moon, in the beauty of being.
+I still hear the same chord
+My favorite Gm6.
+Yes, it is you - my light and joy!
+
+You are my light and joy!
+
 </pre>
 </blockquote>
 
@@ -607,6 +632,10 @@ G6 Gm5+
 <cite>
 Музыка: А. Жобим, Слова: Д. Городничий
 </cite> <pre> 
+
+У счастья есть предел
+А грусть- она везде (х2)
+
 Есть радость и печаль 
 Живи и замечай. 
 Живи и замечай. 
@@ -689,6 +718,7 @@ Am7     D7/9    Am7
 <!-- </pre> -->
 <!-- </blockquote> -->
 
+
 # Aqua de beber
 
 <embed align="center" src="https://www.youtube.com/embed/sT2BloTgw7k" width="300"></embed>  
@@ -702,6 +732,7 @@ Am7     D7/9    Am7
 Слова: Д. Городничий
 </cite> 
 <pre> 
+
 Я так хотел узнать, откуда
 Явились мы и как нам жить,
 К чему должны стремиться люди
@@ -710,17 +741,22 @@ Am7     D7/9    Am7
    И я услышал я
    в шуме ветра, в песне соловья 
    Есть источник знаний и добра 
-   чистый как вода 
+   Называется
+   Água de beber camará  
+   Но где его найти, не понял я
+   
+   (чистый как вода 
    вечный как сама наша Земля - 
-   Зовется Água de beber camará  
+   Зовется Água de beber camará  )
+
    
 
-   Я тебя найду 
+   ((Я тебя найду 
    Сколько не пришлось бы мне искать, 
    Água de beber camará.  
    Я узнаю всё 
    что поможет мне тебя узнать.
-   Где ты мой учитель, лучший друг и брат?
+   Где ты мой учитель, лучший друг и брат?))
 
 И я пошел бродить по свету 
 Поднялся чуть ли не до небес. 
@@ -729,10 +765,13 @@ Am7     D7/9    Am7
 
    И уже когда 
    Дальнею дорогой утомлен 
-   Сел я у ручья, чтоб воды попить 
+   Сел я у ручья, чтобы попить 
    Вдруг я осознал,
-   Что никуда не надо мне идти - 
-   Лучший мой учитель и есть сама вода.
+   Источник, что искал я - вот же он!
+   И никуда не надо было мне ходить
+   
+(   Что никуда не надо мне идти - 
+   Лучший мой учитель и есть сама вода. )
    
    (И вот, что я узнал у нее:)
 
@@ -740,6 +779,11 @@ Am7     D7/9    Am7
 слова и мысли, и дела.
 это и есть условием необходимым 
 цели, для которой мама нас родила. 
+
+Он мне сказал как стат счасливым
+Он мне сказал как надо жить
+Жить надо так Чтобы быть любимым
+и чтобы другим с кем свою любовь дарить.
 
    Aqua de beber 
    Água de beber camará
@@ -781,6 +825,79 @@ Bm7
 
 B7   E7   
 Em7(9)  Bm7
+
+
+
+I wanted to know where
+We have appeared and how can we live
+What people should strive for
+And who can I ask all this
+
+   And I heard I
+   in the sound of the wind, in the song of the nightingale
+   There is a source of knowledge and good
+   Called
+   Água de beber camará
+   But where to find him, I did not understand
+   
+   (clean as water
+   eternal as our Earth itself -
+   It's called Água de beber camará)
+
+   
+
+   ((I will find you
+   How much would I have to search
+   Água de beber camará.
+   I know everything
+   which will help me get to know you.
+   Where are you my teacher, best friend and brother?))
+
+And I went to roam the world
+Has risen almost to heaven.
+I have heard many songs unsung,
+but not finding anything, he returned again to himself.
+
+   And already when
+   Long way tired
+   I sat down by the stream to drink
+   Suddenly I realized
+   The source that I was looking for - here it is!
+   And I didn't have to go anywhere
+   
+(That I don't need to go anywhere -
+   My best teacher is water itself. )
+   
+   (And this is what I learned from her :)
+
+everything in a person should be beautiful -
+words and thoughts and deeds.
+this is a necessary condition
+the purpose for which my mother gave birth to us.
+
+He told me like a stat happy
+He told me how to live
+You have to live like this To be loved
+and to give your love to others with whom.
+
+   Aqua de beber
+   Água de beber camará
+   I found you and I am so glad.
+   Aqua de beber
+   agua de beber comorade
+   You are my teacher, my friend and brother.
+
+I so wanted to know why we are
+Came into this world and how can we live.
+And here's the answer - To be loved
+and you have to live so that you can give love to others.
+
+   Aqua de beber -
+   my source of knowledge and goodness.
+   Água de beber camará
+   Whatever I do
+   Life is a hundred times more fulfilling with you
+   Água de beber camará
 
 </pre>
 </blockquote>
