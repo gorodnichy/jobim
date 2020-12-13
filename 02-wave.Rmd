@@ -811,9 +811,10 @@ ____________________________________
 CHORDS:
 
 [Intro]  
-Bm7  C#7  F#7(b13)  
-Bm7  C#7  F#7(b13)  
-Bm7  G7M  Bm7  F#m7(b5)
+Bm7  Bdim (or C#7) Gm6 (or F#7(b13) )
+x2 
+ Bm7  C#7  F#7(b13)  
+Bm7  G7M  C7+ (or F#m7(b5) ) 
 
 Bm7     C#7  F#7(b13)
 Bm7  E7(9)
