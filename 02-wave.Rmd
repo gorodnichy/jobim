@@ -370,7 +370,7 @@ outro.
    Да только она вот не знала,
    Кто она есть для него,
    И ушла как ни чём не бывало, 
-   Оставив его одного. (х2)
+   Оставив его одного. 
    
    Да только она вот не знала,
    Что она есть для него,
@@ -378,22 +378,22 @@ outro.
    Оставив его одного.   
 
 Как дальше быть?
-         (Вопрос не прост - Как без неё теперь?) 
-Она ушла. Что будет с ним теперь? -
+Она ушла. 
+Что будет с ним теперь? -
 Умрёт с мечтой?
 Или сможет всё таки жить,
 Окрыленный ею и без потерь?
     
-   Так пусть же ему самба эта 
-   Услышится ночью во сне,
-   Чтобы потом, проснувшись с расветом,
-   Он с радостью вспомнил о ней! (х2)
-   
    Так пусть же мелодия эта 
    Ему заиграет во сне,
    Чтобы потом, проснувшись с расветом,
-   Он с радостью вспомнил о ней!   
-
+   Он с радостью вспомнил о ней!  
+   
+   Так пусть же ему самба эта 
+   Услышится ночью во сне,
+   Чтобы потом, проснувшись с расветом,
+   Он с радостью вспомнил о ней! 
+ 
 Она - цветок,
 Пять новых нот,
 Восхода солнца миг.
@@ -404,6 +404,11 @@ outro.
    С тех пор он по свету гуляет 
    И всем дарит радость свою,
    И айсберги душ человеческих тают
+   И новые песни поют. 
+   
+   А он может даже не знает, 
+   когда дарит радость свою,
+   Что айсберги душ человеческих тают
    И новые песни поют. (х2)
    
   
@@ -436,7 +441,7 @@ Music and lyrics: Dmitry Gorodnichy
 
 
 He was morose,
-His soul and mind
+Soul and mind
 Covered with a crust of ice.
 But there she came -
 Came like a spring
@@ -447,21 +452,20 @@ That he did not live
 But rather just existed,
 And only now, 
 with her by his side,
-Everything has became clear
-And he would able to do everything he dreamed of.
+He would able to do everything he dreamed of.
 
    But she didn't know about that - 
    Who she was for him,
    And left as if nothing had happened
-   Leaving him alone. 
+   Leaving him all by himself. 
    
    But she didn't know about that
    What she was for him
    And left as if nothing had happened
-   Leaving him alone.
+   Leaving him all by himself.
 
 What to do now?
-She has left. 
+She is gone
 What will happen to him now? -
 Will he die having lost his dream
 Or will be he be able continue to strive
