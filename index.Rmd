@@ -1,6 +1,6 @@
 --- 
 #title: "«Ivim ambraça Jobim»"
-title: "«Shri Jobim»"
+title: "«Sri Jobim»"
 #subtitle: "Songs of Antonio Carlos Jobim, re-intepreted in Ukrainian and Russian"
 # subtitle: "(Interpretations of Antonio Carlos Jobim songs in Russian 
 subtitle: "Tribute to Antonio Carlos Jobim in Ukrainian and Russian"
@@ -61,7 +61,7 @@ as well as a couple of my own songs inspired by Jobim.
 
 Chords are provided, as are the video of the original performances and the new interpretations.
 
-Appendix provides the statististical  analysis of lyrics using data science tools. The source of this book is available in [github](https://github.com/gorodnichy/Shri-Jobim). Contributions are welcome.
+Appendix provides the statistical  analysis of lyrics using data science tools. The source of this book is available in [github](https://github.com/gorodnichy/Shri-Jobim). Contributions are welcome.
 <!-- Being a data scientist myself, I'm also providing the statististical  analysis of lyrics using data science visualization tools. The source of this book code -->
 
 
