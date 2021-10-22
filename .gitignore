@@ -7,7 +7,5 @@
 .Rproj.user/
 _bookdown_files/
 _book/
-backup/
-rsconnect/
-rsconnect*/
-rsconnectbaydap/
+backup
+
